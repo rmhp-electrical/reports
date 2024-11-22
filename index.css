@@ -1,0 +1,25 @@
+/* Customize accordion header background and text color */
+.accordion-button {
+  background-color: rgba(115, 194, 58, 0.5) !important; /* Change header background */
+  color: black !important; /* Change header text color */
+  border-color: #0056b3 !important; /* Optional: Change border color */
+}
+
+/* Change background on hover and focus */
+.accordion-button:hover,
+.accordion-button:focus {
+  background-color: rgba(174, 72, 224, 0.5) !important;
+  color: white !important;
+}
+
+/* Customize the background of collapsed accordion header */
+.accordion-button.collapsed {
+  background-color: rgba(66, 120, 201, 0.5) !important; /* Collapsed header background */
+  color: black !important;
+}
+
+/* Customize the accordion body background and text color */
+.accordion-body {
+  background-color: #f8f9fa; /* Body background */
+  color: #343a40; /* Body text color */
+}
