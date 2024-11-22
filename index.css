@@ -38,3 +38,25 @@ body {
         width: 1024px;
     }
 }
+
+html, body {
+            height: 100%;
+        }
+
+  /* Full-height container */
+.page_container {
+    min-height: 100vh; /* Full viewport height */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Footer is pinned to the bottom */
+.sticky-footer {
+    background: black;
+    color: white;
+    padding: 10px 0;
+}
+
+.content {
+    flex: 1; /* Fills remaining space */
+}
