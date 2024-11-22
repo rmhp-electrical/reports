@@ -23,3 +23,18 @@
   background-color: #f8f9fa; /* Body background */
   color: #343a40; /* Body text color */
 }
+
+
+/* Prevent responsive layout */
+body {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+/* Optional: Prevent CSS media queries */
+@media (max-width: 768px) {
+    /* Undo mobile-specific styles */
+    body {
+        width: 1024px;
+    }
+}
