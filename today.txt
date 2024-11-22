@@ -1,1 +1,767 @@
-This is today's report
+
+
+<div id="src-container" data-src="None"></div>
+<div class="container text-center date">
+  <div class="row justify-content-center">
+    <div class="col col-auto text-end">
+      Date:
+    </div>
+    <div class="col-auto text-end" id="date">
+      <div id="date-container" data-date="19/11/2024"></div>
+      <input type="text" id="datepicker" class="hasDatepicker">
+      </div>
+    </div>
+</div>
+
+<div class="container text-center">
+  <div class="accordion" id="accordion_type">
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseOne" aria-expanded="false" aria-controls="type_collapseOne">
+          G-Shift LogBook
+        </button>
+      </h2>
+      <div id="type_collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordion_type" style="">
+        <div class="accordion-body">
+          <div class="accordion" id="accordion_g">
+
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_1" aria-expanded="false" aria-controls="g_collapse_1">
+                    OHP
+                  </button>
+                </h2>
+                <div id="g_collapse_1" class="accordion-collapse collapse" data-bs-parent="#accordion_g" style="">
+                  <div class="accordion-body">
+                    <div class="container container-fluid">
+                      <table class="table table-success table-striped">
+                        <thead>
+                          <tr><th scope="col">Job Type</th>
+                          <th scope="col" class="col-md-3">Equipment</th>
+                          <th scope="col">Job</th>
+                        </tr></thead>
+                        <tbody>
+
+                            <tr>
+                              <td colspan="3"> No data </td>
+                            </tr>
+
+                        </tbody>
+                      </table>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_2" aria-expanded="false" aria-controls="g_collapse_2">
+                    CHP
+                  </button>
+                </h2>
+                <div id="g_collapse_2" class="accordion-collapse collapse " data-bs-parent="#accordion_g">
+                  <div class="accordion-body">
+                    <div class="container container-fluid">
+                      <table class="table table-success table-striped">
+                        <thead>
+                          <tr><th scope="col">Job Type</th>
+                          <th scope="col" class="col-md-3">Equipment</th>
+                          <th scope="col">Job</th>
+                        </tr></thead>
+                        <tbody>
+
+                            <tr>
+                              <td colspan="3"> No data </td>
+                            </tr>
+
+                        </tbody>
+                      </table>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_3" aria-expanded="false" aria-controls="g_collapse_3">
+                    WT
+                  </button>
+                </h2>
+                <div id="g_collapse_3" class="accordion-collapse collapse" data-bs-parent="#accordion_g" style="">
+                  <div class="accordion-body">
+                    <div class="container container-fluid">
+                      <table class="table table-success table-striped">
+                        <thead>
+                          <tr><th scope="col">Job Type</th>
+                          <th scope="col" class="col-md-3">Equipment</th>
+                          <th scope="col">Job</th>
+                        </tr></thead>
+                        <tbody>
+
+                            <tr>
+                              <td colspan="3"> No data </td>
+                            </tr>
+
+                        </tbody>
+                      </table>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_4" aria-expanded="false" aria-controls="g_collapse_4">
+                    IOSA
+                  </button>
+                </h2>
+                <div id="g_collapse_4" class="accordion-collapse collapse" data-bs-parent="#accordion_g" style="">
+                  <div class="accordion-body">
+                    <div class="container container-fluid">
+                      <table class="table table-success table-striped">
+                        <thead>
+                          <tr><th scope="col">Job Type</th>
+                          <th scope="col" class="col-md-3">Equipment</th>
+                          <th scope="col">Job</th>
+                        </tr></thead>
+                        <tbody>
+
+                            <tr>
+                              <td colspan="3"> No data </td>
+                            </tr>
+
+                        </tbody>
+                      </table>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordion-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_5" aria-expanded="true" aria-controls="g_collapse_5">
+                    Planning
+                  </button>
+                </h2>
+                <div id="g_collapse_5" class="accordion-collapse collapse show" data-bs-parent="#accordion_g" style="">
+                  <div class="accordion-body">
+                    <div class="container container-fluid">
+                      <table class="table table-success table-striped">
+                        <thead>
+                          <tr><th scope="col">Job Type</th>
+                          <th scope="col" class="col-md-3">Equipment</th>
+                          <th scope="col">Job</th>
+                        </tr></thead>
+                        <tbody>
+
+                            <tr>
+                              <td colspan="3"> No data </td>
+                            </tr>
+
+                        </tbody>
+                      </table>
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseTwo" aria-expanded="true" aria-controls="type_collapseTwo">
+          Shift LogBook
+        </button>
+      </h2>
+      <div id="type_collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#accordion_type" style="">
+        <div class="accordion-body">
+          <div class="accordion" id="accordion_shift">
+
+              <div class="accordian-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#shift_collapse_A" aria-expanded="false" aria-controls="shift_collapse_A">
+                    A - Shift
+                  </button>
+                </h2>
+                <div id="shift_collapse_A" class="accordion-collapse collapse" data-bs-parent="#accordion_shift" style="">
+                  <div class="accordian-body">
+                    <div class="container container-fluid">
+
+                        <div style="font-size:1.2em;"><b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b></div>
+
+                      <table class="table table-success table-striped">
+                        <thead>
+                          <tr><th scope="col">Area</th>
+                          <th scope="col">Equipment</th>
+                          <th scope="col">Problem</th>
+                          <th scope="col">Action</th>
+                          <th scope="col">From</th>
+                          <th scope="col">To</th>
+                          <th scope="col">Remarks</th>
+                        </tr></thead>
+                        <tbody>
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 109 SCR 4</td>
+                                    <td rowspan="1">no control supply in MCC,control supply contactor aux block problem</td>
+                                    <td rowspan="1">aux block removed,contactor cleaned,ok</td>
+                                    <td>06:30:00</td>
+                                    <td>07:00:00</td>
+                                    <td rowspan="1">aux block to be changed</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">cc 131</td>
+                                    <td rowspan="1">motor trips due to overload</td>
+                                    <td rowspan="1">reset it done</td>
+                                    <td>06:30:00</td>
+                                    <td>06:40:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">IOSA</td>
+                                    <td rowspan="1">Old WOBR</td>
+                                    <td rowspan="1">LT not taking place,PCRD OT acted</td>
+                                    <td rowspan="1">released OT</td>
+                                    <td>06:35:00</td>
+                                    <td>06:45:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">CO 85</td>
+                                    <td rowspan="1">trips in OLR</td>
+                                    <td rowspan="1">olr reset it done</td>
+                                    <td>09:35:00</td>
+                                    <td>09:45:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">co 29 WOBR</td>
+                                    <td rowspan="1">slewing not taking place,slewing drive trips in ol</td>
+                                    <td rowspan="1">reset it done</td>
+                                    <td>11:40:00</td>
+                                    <td>11:55:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">co 32 BRC</td>
+                                    <td rowspan="1">bridge conveyor stop,wrong complaint</td>
+                                    <td rowspan="1">checked for 15 min ,,b/w,bridge conveyor ,LT all are working</td>
+                                    <td>12:00:00</td>
+                                    <td>12:15:00</td>
+                                    <td rowspan="1">wrong complaint</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 44</td>
+                                    <td rowspan="1">OLR acted</td>
+                                    <td rowspan="1">reset it done</td>
+                                    <td>13:00:00</td>
+                                    <td>13:10:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 40 SCR 7</td>
+                                    <td rowspan="1">LT not taking place, LT drive trips in overload</td>
+                                    <td rowspan="1">reset it done</td>
+                                    <td>13:30:00</td>
+                                    <td>13:40:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordian-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#shift_collapse_B" aria-expanded="false" aria-controls="shift_collapse_B">
+                    B - Shift
+                  </button>
+                </h2>
+                <div id="shift_collapse_B" class="accordion-collapse collapse" data-bs-parent="#accordion_shift" style="">
+                  <div class="accordian-body">
+                    <div class="container container-fluid">
+
+                        <div style="font-size:1.2em;"><b><i><u>Incharge(s) : Arnab Roy</u></i></b></div>
+
+                      <table class="table table-success table-striped">
+                        <thead>
+                          <tr><th scope="col">Area</th>
+                          <th scope="col">Equipment</th>
+                          <th scope="col">Problem</th>
+                          <th scope="col">Action</th>
+                          <th scope="col">From</th>
+                          <th scope="col">To</th>
+                          <th scope="col">Remarks</th>
+                        </tr></thead>
+                        <tbody>
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">IOSA</td>
+                                    <td rowspan="1">OM 2</td>
+                                    <td rowspan="1">ACB tripped</td>
+                                    <td rowspan="1">Made on</td>
+                                    <td>14:30:00</td>
+                                    <td>14:45:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 36, SCR 2</td>
+                                    <td rowspan="1">LT not working</td>
+                                    <td rowspan="1">In IO rack auxiliary contactor stucked, made free then LT working</td>
+                                    <td>15:40:00</td>
+                                    <td>16:10:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">CO 7A</td>
+                                    <td rowspan="1">BRS acting due to belt offcentering</td>
+                                    <td rowspan="1">Bypassed as per operation request</td>
+                                    <td>15:50:00</td>
+                                    <td>16:00:00</td>
+                                    <td rowspan="1">operation requirement</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 35 , SCR 4</td>
+                                    <td rowspan="1">LT not working</td>
+                                    <td rowspan="1">Checked, pcrd guide problem. Informed mechanical, afterwards checked , LT working</td>
+                                    <td>16:20:00</td>
+                                    <td>17:05:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">CO 20 , TBS</td>
+                                    <td rowspan="1">Right luffing not working</td>
+                                    <td rowspan="1">Found that limit is tied to a wire, limit released properly , then ok</td>
+                                    <td>16:45:00</td>
+                                    <td>17:11:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">CO 29, WOBR</td>
+                                    <td rowspan="1"> Slewing problem</td>
+                                    <td rowspan="1">Drive reset</td>
+                                    <td>17:00:00</td>
+                                    <td>17:15:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">IOSA</td>
+                                    <td rowspan="1">OC 17 A, WOBR</td>
+                                    <td rowspan="1">LT not working, M-3 tripped</td>
+                                    <td rowspan="1">Reset done </td>
+                                    <td>17:00:00</td>
+                                    <td>17:10:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">IOSA</td>
+                                    <td rowspan="1">OC 29 A</td>
+                                    <td rowspan="1">BRS acting</td>
+                                    <td rowspan="1">Bypasse as per operation request, and again kept in circuit</td>
+                                    <td>18:00:00</td>
+                                    <td>19:00:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC  31, SCR 5</td>
+                                    <td rowspan="1">BC not running</td>
+                                    <td rowspan="1">ZSS cage got stucked, made free. Then BC running ok</td>
+                                    <td>19:40:00</td>
+                                    <td>20:00:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">CO 22, TBS</td>
+                                    <td rowspan="1">LT not working</td>
+                                    <td rowspan="1">PCRD overtension released, then ok</td>
+                                    <td>20:10:00</td>
+                                    <td>20:20:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 131</td>
+                                    <td rowspan="1">Overload</td>
+                                    <td rowspan="1">reset</td>
+                                    <td>21:25:00</td>
+                                    <td>21:35:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+
+
+
+
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="accordian-item">
+                <h2 class="accordion-header">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#shift_collapse_C" aria-expanded="true" aria-controls="shift_collapse_C">
+                    C - Shift
+                  </button>
+                </h2>
+                <div id="shift_collapse_C" class="accordion-collapse collapse show" data-bs-parent="#accordion_shift" style="">
+                  <div class="accordian-body">
+                    <div class="container container-fluid">
+
+                        <div style="font-size:1.2em;"><b><i><u>Incharge(s) : V Balaji Naik</u></i></b></div>
+
+                      <table class="table table-success table-striped">
+                        <thead>
+                          <tr><th scope="col">Area</th>
+                          <th scope="col">Equipment</th>
+                          <th scope="col">Problem</th>
+                          <th scope="col">Action</th>
+                          <th scope="col">From</th>
+                          <th scope="col">To</th>
+                          <th scope="col">Remarks</th>
+                        </tr></thead>
+                        <tbody>
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">SCR5 on CC31</td>
+                                    <td rowspan="1">Boom conveyor chute sensor cable approximately 4 mtrs damaged and bolt also missing</td>
+                                    <td rowspan="1">Boom conveyor is running without interruption</td>
+                                    <td>02:10:00</td>
+                                    <td>02:10:00</td>
+                                    <td rowspan="1">Chute sensor cable and bolt may be provide to normalise the system</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">S1 on CC32</td>
+                                    <td rowspan="1">LT not moving found Gear box mech problem old complaint</td>
+                                    <td rowspan="1">PCRD cable loop provided by power on and again made power off</td>
+                                    <td>03:00:00</td>
+                                    <td>03:00:00</td>
+                                    <td rowspan="1">Gear box problem may rectify </td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">SCR7 on CC40</td>
+                                    <td rowspan="1">Boom Conveyor not running Found Chute sensor acted </td>
+                                    <td rowspan="1">Reset done</td>
+                                    <td>03:10:00</td>
+                                    <td>03:20:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">IOSA</td>
+                                    <td rowspan="1">Stacker</td>
+                                    <td rowspan="1">LT not working found M2 trip</td>
+                                    <td rowspan="1">Reset done</td>
+                                    <td>04:00:00</td>
+                                    <td>04:00:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">SCR2 on CC36</td>
+                                    <td rowspan="1">Slew not working fault in spider</td>
+                                    <td rowspan="1">Reset done then ok</td>
+                                    <td>04:10:00</td>
+                                    <td>04:30:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC112 and CC29</td>
+                                    <td rowspan="1">BRS acting frequently due to dust operation dept requested to bypass </td>
+                                    <td rowspan="1">BRS bypassed </td>
+                                    <td>04:45:00</td>
+                                    <td>04:55:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC21</td>
+                                    <td rowspan="1">Duct sheet full of material </td>
+                                    <td rowspan="1">material cleared and found ZSS cage problem</td>
+                                    <td>05:40:00</td>
+                                    <td>05:40:00</td>
+                                    <td rowspan="1">ZSS cage may change to avoid problem further on availability of conveyor</td>
+                                  </tr>
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td rowspan="1">WT</td>
+                                    <td rowspan="1">OT3</td>
+                                    <td rowspan="1">Drive 1 tripped found Encoder fault</td>
+                                    <td rowspan="1">Reset done</td>
+                                    <td>23:00:00</td>
+                                    <td>23:05:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+
+
+
+
+
+
+                              
+
+                                  <tr>
+                                    <td rowspan="1">WT</td>
+                                    <td rowspan="1">CC3 Carriage</td>
+                                    <td rowspan="1">MOCB failed 9to 14 Amps</td>
+                                    <td rowspan="1">Replaced with spare available in dewatering panel</td>
+                                    <td>23:00:00</td>
+                                    <td>00:25:00</td>
+                                    <td rowspan="1">MPCB may be provided for dewatering panel and spare one</td>
+                                  </tr>
+
+
+
+
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
