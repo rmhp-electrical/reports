@@ -554,6 +554,8 @@
                   <div class="accordian-body">
                     <div class="container container-fluid">
                       
+                        <div style='font-size:1.2em;'><b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b></div>
+                      
                       <table class="table table-success table-striped">
                         <thead>
                           <th scope=col>Area</th>
@@ -566,9 +568,75 @@
                         </thead>
                         <tbody>
                           
-                            <tr>
-                              <td colspan="8"> No data </td>
-                            </tr>
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC32 SCR 5</td>
+                                    <td rowspan="1">slew not working,pump control mcb tripped due to earth fault</td>
+                                    <td rowspan="1">panel healthy given directly to plc through temporary cable</td>
+                                    <td>18:05:00</td>
+                                    <td>18:55:00</td>
+                                    <td rowspan="1">slew control to be chacked in G shift</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 51</td>
+                                    <td rowspan="1">tripped in olr</td>
+                                    <td rowspan="1">reset it done</td>
+                                    <td>19:50:00</td>
+                                    <td>19:55:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">CO  57</td>
+                                    <td rowspan="1">not running, 3TF54 CONTACTOR 110 v control supply neutral phase strip loose in coil </td>
+                                    <td rowspan="1">neutral of coil tightened</td>
+                                    <td>20:00:00</td>
+                                    <td>21:20:00</td>
+                                    <td rowspan="1">complain given to mass ,9.15 operation incharge informed me</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">WT</td>
+                                    <td rowspan="1">CP 1</td>
+                                    <td rowspan="1">D6 trips in OL</td>
+                                    <td rowspan="1">reset it done</td>
+                                    <td>20:00:00</td>
+                                    <td>20:10:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
                           
                         </tbody>
                       </table>
