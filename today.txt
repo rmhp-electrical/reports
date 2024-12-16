@@ -179,6 +179,8 @@
                   <div class="accordian-body">
                     <div class="container container-fluid">
                       
+                        <div style='font-size:1.2em;'><b><i><u>Incharge(s) : Arnab Roy</u></i></b></div>
+                      
                       <table class="table table-success table-striped">
                         <thead>
                           <th scope=col>Area</th>
@@ -191,9 +193,160 @@
                         </thead>
                         <tbody>
                           
-                            <tr>
-                              <td colspan="8"> No data </td>
-                            </tr>
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">WT</td>
+                                    <td rowspan="1">OT 5</td>
+                                    <td rowspan="1">Not moving , found LS 1 got stuck</td>
+                                    <td rowspan="1">Released , then ok</td>
+                                    <td>06:30:00</td>
+                                    <td>06:40:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 26A</td>
+                                    <td rowspan="1">Overload</td>
+                                    <td rowspan="1">reset</td>
+                                    <td>06:50:00</td>
+                                    <td>07:00:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">CO 34</td>
+                                    <td rowspan="1">BRS not getting reset</td>
+                                    <td rowspan="1">Sensor cleaned, then healthy</td>
+                                    <td>07:00:00</td>
+                                    <td>07:15:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 35 , SCR 4</td>
+                                    <td rowspan="1">Mode selection not changing</td>
+                                    <td rowspan="1">PLC recycled, still problem continues. In XA-06 TB common high glass fuse blown, fuse replaced. Then ok ,</td>
+                                    <td>07:30:00</td>
+                                    <td>09:00:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 26</td>
+                                    <td rowspan="1">Overload</td>
+                                    <td rowspan="1">reset</td>
+                                    <td>07:40:00</td>
+                                    <td>07:50:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 26</td>
+                                    <td rowspan="1">BRS acting</td>
+                                    <td rowspan="1">bypassed as per operation requirement</td>
+                                    <td>07:55:00</td>
+                                    <td>08:05:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 51</td>
+                                    <td rowspan="1">BRS acting due to belt off centering</td>
+                                    <td rowspan="1">Bypassed, after work done again kept in circuit</td>
+                                    <td>09:30:00</td>
+                                    <td>10:00:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC 52</td>
+                                    <td rowspan="1">ZSS acting</td>
+                                    <td rowspan="1">Checked , Return Idler missing , informed to mechanical. After mechanical work, ZSS checked working well</td>
+                                    <td>10:00:00</td>
+                                    <td>10:30:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">OHP</td>
+                                    <td rowspan="1">WOBR on CO 29</td>
+                                    <td rowspan="1">Hoist down not working</td>
+                                    <td rowspan="1">Down limit got stucked, made free</td>
+                                    <td>10:10:00</td>
+                                    <td>10:40:00</td>
+                                    <td rowspan="1">ok</td>
+                                  </tr>
+                                
+                              
+                            
                           
                         </tbody>
                       </table>
