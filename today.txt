@@ -200,12 +200,179 @@
                               
                                 
                                   <tr>
-                                    <td rowspan="1">WT</td>
-                                    <td rowspan="1">EOT CRANE</td>
-                                    <td rowspan="1">not working/power off</td>
-                                    <td rowspan="1">made on</td>
-                                    <td>06:59:00</td>
-                                    <td>07:00:00</td>
+                                    <td rowspan="3">CHP</td>
+                                    <td rowspan="3">CC26A</td>
+                                    <td rowspan="3">Tripped on over load due to over material</td>
+                                    <td rowspan="3">Reset done</td>
+                                    <td>06:30:00</td>
+                                    <td>06:40:00</td>
+                                    <td rowspan="3">.</td>
+                                  </tr>
+                                
+                              
+                                
+                                  <tr>
+                                    <td> 07:20:00</td>
+                                    <td> 07:30:00</td>
+                                  </tr>
+                                
+                              
+                                
+                                  <tr>
+                                    <td> 08:30:00</td>
+                                    <td> 08:40:00</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">SCR9 on CC104 </td>
+                                    <td rowspan="1">Reported slew not moving , found feeder trip</td>
+                                    <td rowspan="1">Reset done then ok</td>
+                                    <td>06:35:00</td>
+                                    <td>06:50:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">SCR9 on CC104</td>
+                                    <td rowspan="1">Reported LT not moving</td>
+                                    <td rowspan="1">LT drive trip reset done</td>
+                                    <td>08:00:00</td>
+                                    <td>08:15:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">IOSA</td>
+                                    <td rowspan="1">OC27A</td>
+                                    <td rowspan="1">Reported healthy stop, found two HT fuses blown</td>
+                                    <td rowspan="1">Motor meggered ok,Fuses replaces then ok</td>
+                                    <td>09:15:00</td>
+                                    <td>12:00:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">SCR4 on CC35</td>
+                                    <td rowspan="1">Reported TUL acted</td>
+                                    <td rowspan="1">Reset done</td>
+                                    <td>09:30:00</td>
+                                    <td>09:35:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC35</td>
+                                    <td rowspan="1">Yard conveyor CJS healthy feed back missing</td>
+                                    <td rowspan="1">By passed in I/O rake panel</td>
+                                    <td>09:30:00</td>
+                                    <td>11:00:00</td>
+                                    <td rowspan="1">Relay not pick up in module</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC26</td>
+                                    <td rowspan="1">BRS kept in CKT</td>
+                                    <td rowspan="1">In ckr</td>
+                                    <td>10:00:00</td>
+                                    <td>10:10:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC125</td>
+                                    <td rowspan="1">Reported ZSS acted</td>
+                                    <td rowspan="1">ZSS cage bolt loose tightened</td>
+                                    <td>11:20:00</td>
+                                    <td>11:35:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC22</td>
+                                    <td rowspan="1">RED pb pressed condition</td>
+                                    <td rowspan="1"> PB released then ok</td>
+                                    <td>13:20:00</td>
+                                    <td>13:30:00</td>
+                                    <td rowspan="1">.</td>
+                                  </tr>
+                                
+                              
+                            
+                              
+                              
+                              
+                              
+                                
+                                  <tr>
+                                    <td rowspan="1">CHP</td>
+                                    <td rowspan="1">CC3 carreiage drive</td>
+                                    <td rowspan="1">OLR trip two times</td>
+                                    <td rowspan="1">Reset done</td>
+                                    <td>13:35:00</td>
+                                    <td>13:45:00</td>
                                     <td rowspan="1">.</td>
                                   </tr>
                                 
@@ -228,6 +395,8 @@
                 <div id="shift_collapse_B" class="accordion-collapse collapse " data-bs-parent="#accordion_shift">
                   <div class="accordian-body">
                     <div class="container container-fluid">
+                      
+                        <div style='font-size:1.2em;'><b><i><u>Incharge(s) : V Balaji Naik</u></i></b></div>
                       
                       <table class="table table-success table-striped">
                         <thead>
