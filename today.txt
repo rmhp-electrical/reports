@@ -1,338 +1,126 @@
-
-  <div class="accordion" id="accordion_type">
-    <div class="accordion-item">
-      <h2 class="accordion-header">
-        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseOne" aria-expanded="true" aria-controls="type_collapseOne">
-          G-Shift LogBook
-        </button>
-      </h2>
-      <div id="type_collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordion_type">
-        <div class="accordion-body">
-          <div class="accordion" id="accordion_g">
-            
-              <div class="accordion-item">
-                <h2 class="accordion-header">
-                  <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_1" aria-expanded="True" aria-controls="g_collapse_1">
-                    OHP
-                  </button>
-                </h2>
-                <div id="g_collapse_1" class="accordion-collapse collapse show" data-bs-parent="#accordion_g">
-                  <div class="accordion-body">
-                    <div class="container container-fluid">
-                      <table class="table table-success table-striped">
-                        <thead>
-                          <th scope=col>Job Type</th>
-                          <th scope=col class="col-md-3">Equipment</th>
-                          <th scope=col>Job</th>
-                        </thead>
-                        <tbody>
-                          
+<div class="accordion" id="accordion_type">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseOne" aria-expanded="false" aria-controls="type_collapseOne">
+            G-Shift LogBook
+          </button>
+        </h2>
+        <div id="type_collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordion_type">
+          <div class="accordion-body">
+            <div class="accordion" id="accordion_g">
+              
+                <div class="accordian-item">
+                  <h2 class="accordion-header">
+                    <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#g_collapse_OHP" aria-expanded="false" aria-controls="g_collapse_OHP">
+                      OHP
+                    </button>
+                  </h2>
+                  <div id="g_collapse_OHP" class="accordion-collapse collapse" data-bs-parent="#accordion_g">
+                    <div class="accordion-body">
+                      <div class="container container-fluid">
+                        <table class="table table-success table-striped">
+                          <thead>
+                            <th scope="col" class="col-md-3 ">Equipment</th>
+                            <th scope="col" class='text-center'>Job</th>
+                          </thead>
+                          <tbody>
                             
                               <tr>
-                                <td>PR</td>
-                                <td>CO-8,11</td>
-                                <td>ppm done</td>
+                                <td colspan=2 class="text-center">No Data</td>
                               </tr>
                             
-                              <tr>
-                                <td>PR</td>
-                                <td>CO-5, CO-5 TIS</td>
-                                <td>panel and motor ppm done</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>JH-2</td>
-                                <td>lighting panel maintenance and cleaning done</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>CO-45</td>
-                                <td>ZSS cage modification done and kept in circuit</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>EOT CRANE-2</td>
-                                <td>ppm done</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>CO-34A,36A</td>
-                                <td>ppm done and CO-36A safety devices ppm done</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>Misc</td>
-                                <td>LC-4,OM-24 earth pit cleaning and checking done</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>WOBR-1 ON CO-6A</td>
-                                <td>7.5KW motors old 3no&#39;s removed and three new motors installed. direction checked and kept in line</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>WOBR-1 ON CO-6A</td>
-                                <td>power and control cables laid for spare drive power and control. LT DOL circuit removed and re-wiring done. Control connections done for old and new drives. Old drive commands and operation checked. Given clearance.  </td>
-                              </tr>
-                            
-                          
-                        </tbody>
-                      </table>
-                    </div>
-                    
-                    <div class="row">
-                      <div class="d-flex flex-row-reverse">
-                        <div class="p-2"><b>Entered by : M Kailash</b></div>
+                          </tbody>
+                        </table>
+                        
                       </div>
                     </div>
-                    
                   </div>
                 </div>
-              </div>
-            
-              <div class="accordion-item">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_2" aria-expanded="False" aria-controls="g_collapse_2">
-                    CHP
-                  </button>
-                </h2>
-                <div id="g_collapse_2" class="accordion-collapse collapse " data-bs-parent="#accordion_g">
-                  <div class="accordion-body">
-                    <div class="container container-fluid">
-                      <table class="table table-success table-striped">
-                        <thead>
-                          <th scope=col>Job Type</th>
-                          <th scope=col class="col-md-3">Equipment</th>
-                          <th scope=col>Job</th>
-                        </thead>
-                        <tbody>
-                          
+              
+                <div class="accordian-item">
+                  <h2 class="accordion-header">
+                    <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#g_collapse_CHP" aria-expanded="false" aria-controls="g_collapse_CHP">
+                      CHP
+                    </button>
+                  </h2>
+                  <div id="g_collapse_CHP" class="accordion-collapse collapse" data-bs-parent="#accordion_g">
+                    <div class="accordion-body">
+                      <div class="container container-fluid">
+                        <table class="table table-success table-striped">
+                          <thead>
+                            <th scope="col" class="col-md-3 ">Equipment</th>
+                            <th scope="col" class='text-center'>Job</th>
+                          </thead>
+                          <tbody>
                             
                               <tr>
-                                <td>X</td>
-                                <td>Junction House 5 LDB</td>
-                                <td>63A  4pole MCB changed,Lighting panel Maintenance done</td>
+                                <td colspan=2 class="text-center">No Data</td>
                               </tr>
                             
-                              <tr>
-                                <td>X</td>
-                                <td>CC 22 Emergency stop push button</td>
-                                <td>problem Rectified</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>CC 111 and Stacker 3</td>
-                                <td>PPM was done</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>CC 55 Drive End</td>
-                                <td>70Wsv Lamp Rectified, 150 w SV light fixture removed for Rectification work</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>COB5 Stream</td>
-                                <td>CC 108,CC 219,cc 223 run in PLC mode</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>SCR 7</td>
-                                <td>Filter clog Switch changed </td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>CC 41 and 42 Tunnel</td>
-                                <td>4 numbers 30 w bulbes changed</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>CC 42 and  CC46</td>
-                                <td>Running inspection done</td>
-                              </tr>
-                            
-                          
-                        </tbody>
-                      </table>
-                    </div>
-                    
-                    <div class="row">
-                      <div class="d-flex flex-row-reverse">
-                        <div class="p-2"><b>Entered by : S S RAO</b></div>
+                          </tbody>
+                        </table>
+                        
                       </div>
                     </div>
-                    
                   </div>
                 </div>
-              </div>
-            
-              <div class="accordion-item">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_3" aria-expanded="False" aria-controls="g_collapse_3">
-                    WT
-                  </button>
-                </h2>
-                <div id="g_collapse_3" class="accordion-collapse collapse " data-bs-parent="#accordion_g">
-                  <div class="accordion-body">
-                    <div class="container container-fluid">
-                      <table class="table table-success table-striped">
-                        <thead>
-                          <th scope=col>Job Type</th>
-                          <th scope=col class="col-md-3">Equipment</th>
-                          <th scope=col>Job</th>
-                        </thead>
-                        <tbody>
-                          
+              
+                <div class="accordian-item">
+                  <h2 class="accordion-header">
+                    <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#g_collapse_WT" aria-expanded="false" aria-controls="g_collapse_WT">
+                      WT
+                    </button>
+                  </h2>
+                  <div id="g_collapse_WT" class="accordion-collapse collapse" data-bs-parent="#accordion_g">
+                    <div class="accordion-body">
+                      <div class="container container-fluid">
+                        <table class="table table-success table-striped">
+                          <thead>
+                            <th scope="col" class="col-md-3 ">Equipment</th>
+                            <th scope="col" class='text-center'>Job</th>
+                          </thead>
+                          <tbody>
                             
                               <tr>
-                                <td>PR</td>
-                                <td>OT 2 series</td>
-                                <td>running inspection done</td>
+                                <td colspan=2 class="text-center">No Data</td>
                               </tr>
                             
-                              <tr>
-                                <td>PR</td>
-                                <td>CP 1,2,3,OP4,5&amp;9</td>
-                                <td>after rake maintenance done</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>OP 5</td>
-                                <td> current collector  pads replaced (2 nos)</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>Mis</td>
-                                <td>spare motors 5S done @ ore tippler complex</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>Mis</td>
-                                <td> beyond repair motors shifted to mixer building</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>OP 1</td>
-                                <td> last C type isolator box maintenance done,1 no bolt replaced</td>
-                              </tr>
-                            
-                          
-                        </tbody>
-                      </table>
-                    </div>
-                    
-                    <div class="row">
-                      <div class="d-flex flex-row-reverse">
-                        <div class="p-2"><b>Entered by : T V Ramana</b></div>
+                          </tbody>
+                        </table>
+                        
                       </div>
                     </div>
-                    
                   </div>
                 </div>
-              </div>
-            
-              <div class="accordion-item">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_4" aria-expanded="False" aria-controls="g_collapse_4">
-                    IOSA
-                  </button>
-                </h2>
-                <div id="g_collapse_4" class="accordion-collapse collapse " data-bs-parent="#accordion_g">
-                  <div class="accordion-body">
-                    <div class="container container-fluid">
-                      <table class="table table-success table-striped">
-                        <thead>
-                          <th scope=col>Job Type</th>
-                          <th scope=col class="col-md-3">Equipment</th>
-                          <th scope=col>Job</th>
-                        </thead>
-                        <tbody>
-                          
+              
+                <div class="accordian-item">
+                  <h2 class="accordion-header">
+                    <button type="button" class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#g_collapse_IOSA" aria-expanded="false" aria-controls="g_collapse_IOSA">
+                      IOSA
+                    </button>
+                  </h2>
+                  <div id="g_collapse_IOSA" class="accordion-collapse collapse" data-bs-parent="#accordion_g">
+                    <div class="accordion-body">
+                      <div class="container container-fluid">
+                        <table class="table table-success table-striped">
+                          <thead>
+                            <th scope="col" class="col-md-3 ">Equipment</th>
+                            <th scope="col" class='text-center'>Job</th>
+                          </thead>
+                          <tbody>
                             
                               <tr>
-                                <td>PR</td>
-                                <td>oc-27a</td>
-                                <td>motor ppm is done and megger values recorded</td>
+                                <td colspan=2 class="text-center">No Data</td>
                               </tr>
                             
-                              <tr>
-                                <td>X</td>
-                                <td>oc-13a removed vcb</td>
-                                <td>aux contacts replaced and assembled and is tested in test mode</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>X</td>
-                                <td>oc-27a</td>
-                                <td>vc control fuses blown and was showing on failed on start on restart , replaced with spare vcb, fuses  r and y phase failed in spare one , replaced fuses and megger was done, and was made to run.</td>
-                              </tr>
-                            
-                              <tr>
-                                <td>PR</td>
-                                <td>ojh-4b hoist</td>
-                                <td>ppm is done</td>
-                              </tr>
-                            
-                          
-                        </tbody>
-                      </table>
-                    </div>
-                    
-                    <div class="row">
-                      <div class="d-flex flex-row-reverse">
-                        <div class="p-2"><b>Entered by : P Venkata Kiran </b></div>
+                          </tbody>
+                        </table>
+                        
                       </div>
                     </div>
-                    
                   </div>
                 </div>
-              </div>
-            
-              <div class="accordion-item">
-                <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#g_collapse_5" aria-expanded="False" aria-controls="g_collapse_5">
-                    Planning
-                  </button>
-                </h2>
-                <div id="g_collapse_5" class="accordion-collapse collapse " data-bs-parent="#accordion_g">
-                  <div class="accordion-body">
-                    <div class="container container-fluid">
-                      <table class="table table-success table-striped">
-                        <thead>
-                          <th scope=col>Job Type</th>
-                          <th scope=col class="col-md-3">Equipment</th>
-                          <th scope=col>Job</th>
-                        </thead>
-                        <tbody>
-                          
-                            <tr>
-                              <td colspan="3"> No data </td>
-                            </tr>
-                          
-                        </tbody>
-                      </table>
-                    </div>
-                    
-                  </div>
-                </div>
-              </div>
-            
+              
           </div>
         </div>
       </div>
@@ -353,13 +141,15 @@
                     A - Shift
                   </button>
                 </h2>
-                <div id="shift_collapse_A" class="accordion-collapse collapse show" data-bs-parent="#accordion_shift">
-                  <div class="accordian-body">
-                    <div class="container container-fluid">
-                      
-                        <div style='font-size:1.2em;'><b><i><u>Incharge(s) : K Gangadhara Rao</u></i></b></div>
-                      
-                      <table class="table table-success table-striped">
+                <div id="shift_collapse_A" class="accordion-collapse collapse" data-bs-parent="#accordion_shift">
+                  <div class="accordion-body">
+                    <div class="container container-fluid ">
+                      <div style='font-size:1.2em;' class="text-end">
+                        
+                          <b><i><u>Incharge(s) : Lal Singh</u></i></b>
+                        
+                      </div>
+                      <table class="table table-success table-striped ">
                         <thead>
                           <th scope=col>Area</th>
                           <th scope=col>Equipment</th>
@@ -372,188 +162,132 @@
                         <tbody>
                           
                             
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="3">CHP</td>
-                                    <td rowspan="3">CC26A</td>
-                                    <td rowspan="3">Tripped on over load due to over material</td>
-                                    <td rowspan="3">Reset done</td>
-                                    <td>06:30:00</td>
-                                    <td>06:40:00</td>
-                                    <td rowspan="3">.</td>
-                                  </tr>
-                                
-                              
-                                
-                                  <tr>
-                                    <td> 07:20:00</td>
-                                    <td> 07:30:00</td>
-                                  </tr>
-                                
-                              
-                                
-                                  <tr>
-                                    <td> 08:30:00</td>
-                                    <td> 08:40:00</td>
-                                  </tr>
-                                
+                              <tr>
+                                <td rowspan="1">IOSA</td>
+                                <td rowspan="1">TBS</td>
+                                <td class="text-wrap" rowspan="1">PCRD OVERLAP</td>
+                                <td class="text-wrap" rowspan="1">RELAYRING DONE</td>
+                                <td>
+                                  10:00:00
+                                </td>
+                                <td>
+                                  10:30:00
+                                </td>
+                                <td rowspan="1">OK</td>
+                              </tr>
+                              <!-- Code for items which have more than 1 timing  -->
                               
                             
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">SCR9 on CC104 </td>
-                                    <td rowspan="1">Reported slew not moving , found feeder trip</td>
-                                    <td rowspan="1">Reset done then ok</td>
-                                    <td>06:35:00</td>
-                                    <td>06:50:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
-                              
-                            
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">SCR9 on CC104</td>
-                                    <td rowspan="1">Reported LT not moving</td>
-                                    <td rowspan="1">LT drive trip reset done</td>
-                                    <td>08:00:00</td>
-                                    <td>08:15:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
+                              <tr>
+                                <td rowspan="1">WT</td>
+                                <td rowspan="1">OP-10</td>
+                                <td class="text-wrap" rowspan="1">BREAKER TRIP</td>
+                                <td class="text-wrap" rowspan="1">MADE ON</td>
+                                <td>
+                                  11:30:00
+                                </td>
+                                <td>
+                                  11:40:00
+                                </td>
+                                <td rowspan="1">OK</td>
+                              </tr>
+                              <!-- Code for items which have more than 1 timing  -->
                               
                             
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">IOSA</td>
-                                    <td rowspan="1">OC27A</td>
-                                    <td rowspan="1">Reported healthy stop, found two HT fuses blown</td>
-                                    <td rowspan="1">Motor meggered ok,Fuses replaces then ok</td>
-                                    <td>09:15:00</td>
-                                    <td>12:00:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
-                              
-                            
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">SCR4 on CC35</td>
-                                    <td rowspan="1">Reported TUL acted</td>
-                                    <td rowspan="1">Reset done</td>
-                                    <td>09:30:00</td>
-                                    <td>09:35:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
+                              <tr>
+                                <td rowspan="1">CHP</td>
+                                <td rowspan="1">SCR-3</td>
+                                <td class="text-wrap" rowspan="1">LUFF LOWER LIMIT</td>
+                                <td class="text-wrap" rowspan="1">KEPT IN CKT</td>
+                                <td>
+                                  06:30:00
+                                </td>
+                                <td>
+                                  06:35:00
+                                </td>
+                                <td rowspan="1">OK</td>
+                              </tr>
+                              <!-- Code for items which have more than 1 timing  -->
                               
                             
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">CC35</td>
-                                    <td rowspan="1">Yard conveyor CJS healthy feed back missing</td>
-                                    <td rowspan="1">By passed in I/O rake panel</td>
-                                    <td>09:30:00</td>
-                                    <td>11:00:00</td>
-                                    <td rowspan="1">Relay not pick up in module</td>
-                                  </tr>
-                                
-                              
-                            
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">CC26</td>
-                                    <td rowspan="1">BRS kept in CKT</td>
-                                    <td rowspan="1">In ckr</td>
-                                    <td>10:00:00</td>
-                                    <td>10:10:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
+                              <tr>
+                                <td rowspan="1">CHP</td>
+                                <td rowspan="1">SCR-6</td>
+                                <td class="text-wrap" rowspan="1">SLEW PROBLEM</td>
+                                <td class="text-wrap" rowspan="1">COAL JAMMING INFORMED TO OPR</td>
+                                <td>
+                                  07:10:00
+                                </td>
+                                <td>
+                                  07:15:00
+                                </td>
+                                <td rowspan="1">OK</td>
+                              </tr>
+                              <!-- Code for items which have more than 1 timing  -->
                               
                             
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">CC125</td>
-                                    <td rowspan="1">Reported ZSS acted</td>
-                                    <td rowspan="1">ZSS cage bolt loose tightened</td>
-                                    <td>11:20:00</td>
-                                    <td>11:35:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
-                              
-                            
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">CC22</td>
-                                    <td rowspan="1">RED pb pressed condition</td>
-                                    <td rowspan="1"> PB released then ok</td>
-                                    <td>13:20:00</td>
-                                    <td>13:30:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
+                              <tr>
+                                <td rowspan="1">CHP</td>
+                                <td rowspan="1">SCR-7</td>
+                                <td class="text-wrap" rowspan="1">SLEW PROBLEM </td>
+                                <td class="text-wrap" rowspan="1">ABC TRIP RESET DONE , FILER CLOG BYPASS LOOSE  ..FIXED PROPERLY</td>
+                                <td>
+                                  07:40:00
+                                </td>
+                                <td>
+                                  07:50:00
+                                </td>
+                                <td rowspan="1">OK</td>
+                              </tr>
+                              <!-- Code for items which have more than 1 timing  -->
                               
                             
+                              <tr>
+                                <td rowspan="1">CHP</td>
+                                <td rowspan="1">SCR-6</td>
+                                <td class="text-wrap" rowspan="1">LT  DRIVE TRIP</td>
+                                <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                <td>
+                                  09:35:00
+                                </td>
+                                <td>
+                                  09:40:00
+                                </td>
+                                <td rowspan="1">OK</td>
+                              </tr>
+                              <!-- Code for items which have more than 1 timing  -->
                               
+                            
+                              <tr>
+                                <td rowspan="1">CHP</td>
+                                <td rowspan="1">SCR-4</td>
+                                <td class="text-wrap" rowspan="1">LT PCRD OT DUE TO MECH GEARBOX PROBLEM INFORMED MECH</td>
+                                <td class="text-wrap" rowspan="1">RESET DONE </td>
+                                <td>
+                                  11:40:00
+                                </td>
+                                <td>
+                                  12:00:00
+                                </td>
+                                <td rowspan="1">OK</td>
+                              </tr>
+                              <!-- Code for items which have more than 1 timing  -->
                               
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">CC3 carreiage drive</td>
-                                    <td rowspan="1">OLR trip two times</td>
-                                    <td rowspan="1">Reset done</td>
-                                    <td>13:35:00</td>
-                                    <td>13:45:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
+                            
+                              <tr>
+                                <td rowspan="1">CHP</td>
+                                <td rowspan="1">CC-43</td>
+                                <td class="text-wrap" rowspan="1">OLR ACTED </td>
+                                <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                <td>
+                                  12:10:00
+                                </td>
+                                <td>
+                                  12:20:00
+                                </td>
+                                <td rowspan="1"></td>
+                              </tr>
+                              <!-- Code for items which have more than 1 timing  -->
                               
                             
                           
@@ -566,17 +300,19 @@
             
               <div class="accordian-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#shift_collapse_B" aria-expanded="False" aria-controls="shift_collapse_B">
+                  <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#shift_collapse_B" aria-expanded="True" aria-controls="shift_collapse_B">
                     B - Shift
                   </button>
                 </h2>
-                <div id="shift_collapse_B" class="accordion-collapse collapse " data-bs-parent="#accordion_shift">
-                  <div class="accordian-body">
-                    <div class="container container-fluid">
-                      
-                        <div style='font-size:1.2em;'><b><i><u>Incharge(s) : V Balaji Naik</u></i></b></div>
-                      
-                      <table class="table table-success table-striped">
+                <div id="shift_collapse_B" class="accordion-collapse collapse" data-bs-parent="#accordion_shift">
+                  <div class="accordion-body">
+                    <div class="container container-fluid ">
+                      <div style='font-size:1.2em;' class="text-end">
+                        
+                          <b><i><u>Incharge(s) : No Data</u></i></b>
+                        
+                      </div>
+                      <table class="table table-success table-striped ">
                         <thead>
                           <th scope=col>Area</th>
                           <th scope=col>Equipment</th>
@@ -588,24 +324,9 @@
                         </thead>
                         <tbody>
                           
-                            
-                              
-                              
-                              
-                              
-                                
-                                  <tr>
-                                    <td rowspan="1">CHP</td>
-                                    <td rowspan="1">CC22</td>
-                                    <td rowspan="1">PB problem, found Wires loose</td>
-                                    <td rowspan="1">Tightened then ok</td>
-                                    <td>15:05:00</td>
-                                    <td>15:20:00</td>
-                                    <td rowspan="1">.</td>
-                                  </tr>
-                                
-                              
-                            
+                          <tr>
+                            <td colspan="7" class="text-center">No Data</td>
+                          </tr>
                           
                         </tbody>
                       </table>
@@ -616,15 +337,19 @@
             
               <div class="accordian-item">
                 <h2 class="accordion-header">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#shift_collapse_C" aria-expanded="False" aria-controls="shift_collapse_C">
+                  <button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#shift_collapse_C" aria-expanded="True" aria-controls="shift_collapse_C">
                     C - Shift
                   </button>
                 </h2>
-                <div id="shift_collapse_C" class="accordion-collapse collapse " data-bs-parent="#accordion_shift">
-                  <div class="accordian-body">
-                    <div class="container container-fluid">
-                      
-                      <table class="table table-success table-striped">
+                <div id="shift_collapse_C" class="accordion-collapse collapse" data-bs-parent="#accordion_shift">
+                  <div class="accordion-body">
+                    <div class="container container-fluid ">
+                      <div style='font-size:1.2em;' class="text-end">
+                        
+                          <b><i><u>Incharge(s) : No Data</u></i></b>
+                        
+                      </div>
+                      <table class="table table-success table-striped ">
                         <thead>
                           <th scope=col>Area</th>
                           <th scope=col>Equipment</th>
@@ -636,9 +361,9 @@
                         </thead>
                         <tbody>
                           
-                            <tr>
-                              <td colspan="8"> No data </td>
-                            </tr>
+                          <tr>
+                            <td colspan="7" class="text-center">No Data</td>
+                          </tr>
                           
                         </tbody>
                       </table>
