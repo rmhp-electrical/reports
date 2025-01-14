@@ -371,9 +371,119 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP 5 </td>
+                                  <td class="text-wrap" rowspan="1">no movement from parking zone,B phase not intact to pusher</td>
+                                  <td class="text-wrap" rowspan="1">after reset from cabin again cmd given ok</td>
+                                  <td>
+                                    19:55:00
+                                  </td>
+                                  <td>
+                                    20:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR 26</td>
+                                  <td class="text-wrap" rowspan="1">LT NOT WORKING drive trips in overload</td>
+                                  <td class="text-wrap" rowspan="1">drive reset </td>
+                                  <td>
+                                    16:20:00
+                                  </td>
+                                  <td>
+                                    16:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR 26</td>
+                                  <td class="text-wrap" rowspan="1">B/C zss acted,probe problem</td>
+                                  <td class="text-wrap" rowspan="1">probe replaced</td>
+                                  <td>
+                                    18:15:00
+                                  </td>
+                                  <td>
+                                    18:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">Co29 wobr</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place, M4 mpcb trips</td>
+                                  <td class="text-wrap" rowspan="1">mpcb made it on</td>
+                                  <td>
+                                    21:00:00
+                                  </td>
+                                  <td>
+                                    21:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 105 SCR 10</td>
+                                  <td class="text-wrap" rowspan="1">LT not  working, loose connection @xp1-2 loop cable</td>
+                                  <td class="text-wrap" rowspan="1">connection tightened</td>
+                                  <td>
+                                    15:10:00
+                                  </td>
+                                  <td>
+                                    17:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC32 SCR 5</td>
+                                  <td class="text-wrap" rowspan="1">LT not working , CRD  not healthy, control fuse blown in PLC</td>
+                                  <td class="text-wrap" rowspan="1">control fuse replaced,</td>
+                                  <td>
+                                    16:50:00
+                                  </td>
+                                  <td>
+                                    18:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 33 SCR 1</td>
+                                  <td class="text-wrap" rowspan="1">slew not taking place, 30 degree slew limit acted</td>
+                                  <td class="text-wrap" rowspan="1">slew limit  reset</td>
+                                  <td>
+                                    16:40:00
+                                  </td>
+                                  <td>
+                                    17:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
