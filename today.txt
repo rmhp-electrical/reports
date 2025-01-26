@@ -146,7 +146,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -161,9 +161,103 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 105 SCR 10</td>
+                                  <td class="text-wrap" rowspan="1">b/c not running ,mpr trips in e/f </td>
+                                  <td class="text-wrap" rowspan="1">mpr reset done than ok</td>
+                                  <td>
+                                    07:00:00
+                                  </td>
+                                  <td>
+                                    07:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 40 SCR 6</td>
+                                  <td class="text-wrap" rowspan="1">B/C not running in in reclaiming mode b/c cjs acted </td>
+                                  <td class="text-wrap" rowspan="1">cjs cleaning done than ok </td>
+                                  <td>
+                                    07:05:00
+                                  </td>
+                                  <td>
+                                    07:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 34 SCR 2</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place, PCRD OT acted</td>
+                                  <td class="text-wrap" rowspan="1">OT released than ok</td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td>
+                                    09:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 26 wobr</td>
+                                  <td class="text-wrap" rowspan="1">slew not working,drive trips in OL</td>
+                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td>
+                                    07:30:00
+                                  </td>
+                                  <td>
+                                    07:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 5A TBS</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place,M2 OLR acted due to brake problem</td>
+                                  <td class="text-wrap" rowspan="1">OLr reset done</td>
+                                  <td>
+                                    10:15:00
+                                  </td>
+                                  <td>
+                                    10:30:00
+                                  </td>
+                                  <td rowspan="1">mechanical adjusted the brake</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">OLR acted</td>
+                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td>
+                                    08:55:00
+                                  </td>
+                                  <td>
+                                    09:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
