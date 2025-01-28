@@ -146,7 +146,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Lal Singh</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -161,9 +161,96 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">CC-51</td>
+                                  <td class="text-wrap" rowspan="2">OLR ACTED DUE TO HEAVY LOAD </td>
+                                  <td class="text-wrap" rowspan="2">RESET DONE </td>
+                                  <td>
+                                    08:30:00
+                                  </td>
+                                  <td>
+                                    08:45:00
+                                  </td>
+                                  <td rowspan="2">OK</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       10:30:00
+                                    </td>
+                                    <td>
+                                       10:45:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR -10 CC-105</td>
+                                  <td class="text-wrap" rowspan="1">BC NOT RUNNING </td>
+                                  <td class="text-wrap" rowspan="1">BC DMPR TRIPPED IN EARTH FAULT ...CHECKED AND RESET DONE ... TESTED OK </td>
+                                  <td>
+                                    08:20:00
+                                  </td>
+                                  <td>
+                                    08:30:00
+                                  </td>
+                                  <td rowspan="1">OK</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-34 AND CC-104</td>
+                                  <td class="text-wrap" rowspan="1">DIRECT MODE REQUEST FROM OPERATION </td>
+                                  <td class="text-wrap" rowspan="1">DIRECT MODE PROVIDED </td>
+                                  <td>
+                                    07:30:00
+                                  </td>
+                                  <td>
+                                    12:30:00
+                                  </td>
+                                  <td rowspan="1">DIRECT MODE REMOVED AT 1.30 PM </td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT-2</td>
+                                  <td class="text-wrap" rowspan="1">DRIVE -1 TRIPPED </td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE </td>
+                                  <td>
+                                    07:35:00
+                                  </td>
+                                  <td>
+                                    07:40:00
+                                  </td>
+                                  <td rowspan="1">OK </td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-26 WOBR </td>
+                                  <td class="text-wrap" rowspan="1">LT BREAK CABLE CUT (CRMP SIDE) </td>
+                                  <td class="text-wrap" rowspan="1">CABLE CUT AND DIRECTLY TERMINATED AT BREAK </td>
+                                  <td>
+                                    12:00:00
+                                  </td>
+                                  <td>
+                                    12:30:00
+                                  </td>
+                                  <td rowspan="1">OK </td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
