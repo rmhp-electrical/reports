@@ -83,28 +83,33 @@
                               
                                 
                                   <tr>
-                                    <td>EOT Crane (O)</td>
-                                    <td>panel and motor side ppm done,2C41,3C40&amp;44 contactors replaced.</td>
+                                    <td>OP 1</td>
+                                    <td>3 nos power collector pads replaced and checked ,OK</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>OP 3</td>
-                                    <td>panel and motor side ppm done</td>
+                                    <td>OP 4 </td>
+                                    <td>D1&amp;D2 one lug in each TB found cut, replaced .</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>LC 1</td>
-                                    <td>all drive panels blowing done</td>
-                                  </tr>
-                                
-                                  <tr>
-                                    <td>OP 2,3&amp;CP 2</td>
+                                    <td>CP 2,OP1,3,5&amp;7</td>
                                     <td>after rake maintenance done</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>MIS</td>
-                                    <td>welding m/c supply provided at OT 5</td>
+                                    <td>CP 4</td>
+                                    <td>after rake maintenance done,bottom C clam replaced , col no76 section,clamps tied</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CP 3 </td>
+                                    <td>section isolaters maintenance done ,4 nos ( col no.42,48,54&amp;61) at 61 box R phase bolt replaced</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>OP 4</td>
+                                    <td>painting ( primary) done to mast,platform and railing</td>
                                   </tr>
                                 
                               
@@ -140,38 +145,12 @@
                             </thead>
                             <tbody>
                               
-                                
-                                  <tr>
-                                    <td>LC-2</td>
-                                    <td>housekeeping done</td>
-                                  </tr>
-                                
-                                  <tr>
-                                    <td>OC 23A</td>
-                                    <td>front zone BS switches removed earlier is put back in line </td>
-                                  </tr>
-                                
-                                  <tr>
-                                    <td>OC 13A</td>
-                                    <td>right middle BS switch re-welding done</td>
-                                  </tr>
-                                
-                                  <tr>
-                                    <td>OC 16A</td>
-                                    <td>motor and field PPM done</td>
-                                  </tr>
-                                
+                                <tr>
+                                  <td colspan=2 class="text-center">No Data</td>
+                                </tr>
                               
                             </tbody>
                           </table>
-                          
-                          <div class="row">
-                            <div class="d-flex flex-row-reverse">
-                              <div class="p-2">
-                                <b><i>Entered by : D K Verma</i></b>
-                              </div>
-                            </div>
-                          </div>
                           
                         </div>
                       </div>
@@ -203,7 +182,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
+                            <b><i><u>Incharge(s) : Nagendra Midde</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -221,14 +200,14 @@
                               
                                 <tr>
                                   <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 31 SCR1</td>
-                                  <td class="text-wrap" rowspan="1">LT not taking place,OT acted</td>
-                                  <td class="text-wrap" rowspan="1">OT released</td>
+                                  <td rowspan="1">CC 51 red</td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
                                   <td>
-                                    06:30:00
+                                    07:45:00
                                   </td>
                                   <td>
-                                    06:40:00
+                                    08:00:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -236,32 +215,48 @@
                                 
                               
                                 <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 35 SCR2</td>
-                                  <td class="text-wrap" rowspan="1">Lt not working,drive tripped in OL</td>
-                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT5 NOT MOVING</td>
+                                  <td class="text-wrap" rowspan="1">INHAUL AND OUT HAUL SENSORS MALFUNCTIONING</td>
+                                  <td class="text-wrap" rowspan="1">BYPASSED</td>
                                   <td>
-                                    09:25:00
+                                    12:30:00
                                   </td>
                                   <td>
-                                    09:30:00
+                                    12:45:00
                                   </td>
                                   <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">CP4 NOT MOVING</td>
+                                  <td class="text-wrap" rowspan="1">BREAKER TRIPPED</td>
+                                  <td class="text-wrap" rowspan="1">MADE IT ON </td>
+                                  <td>
+                                    12:30:00
+                                  </td>
+                                  <td>
+                                    12:45:00
+                                  </td>
+                                  <td rowspan="1">BOTTOM C CLAMP NEED TO BE CHANGED . </td>
                                 </tr>
                                 <!-- Code for items which have more than 1 timing  -->
                                 
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO 10 A</td>
-                                  <td class="text-wrap" rowspan="1">OLr acted</td>
-                                  <td class="text-wrap" rowspan="1">reset it done</td>
-                                  <td>
-                                    08:15:00
-                                  </td>
+                                  <td rowspan="1">TIS-6 ON CO 25</td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
                                   <td>
                                     08:30:00
                                   </td>
+                                  <td>
+                                    08:40:00
+                                  </td>
                                   <td rowspan="1"></td>
                                 </tr>
                                 <!-- Code for items which have more than 1 timing  -->
@@ -269,14 +264,46 @@
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">VS 1A</td>
-                                  <td class="text-wrap" rowspan="1">tripped due to OLR</td>
-                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td rowspan="1">WBR ON CO 26 </td>
+                                  <td class="text-wrap" rowspan="1">PCRD O/T ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RELEASED</td>
                                   <td>
-                                    09:10:00
+                                    08:00:00
                                   </td>
                                   <td>
-                                    09:15:00
+                                    08:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WBR ON CO6A </td>
+                                  <td class="text-wrap" rowspan="1">SLEW DRIVE TRIPPED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    11:30:00
+                                  </td>
+                                  <td>
+                                    12:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC ON CO 31</td>
+                                  <td class="text-wrap" rowspan="1">BW2 OLR ACTED DUE TO JAMMING</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    12:30:00
+                                  </td>
+                                  <td>
+                                    13:00:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -285,46 +312,14 @@
                               
                                 <tr>
                                   <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 105 SCR 10</td>
-                                  <td class="text-wrap" rowspan="1">B/C not running, MPR tripped due to earth fault</td>
-                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td rowspan="1">SCR 7 ON CC104 LT</td>
+                                  <td class="text-wrap" rowspan="1">PCRD O/T ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RELEASED</td>
                                   <td>
-                                    11:00:00
+                                    07:25:00
                                   </td>
                                   <td>
-                                    11:10:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 40 SCR 6</td>
-                                  <td class="text-wrap" rowspan="1">b/c not running,tripped in olr</td>
-                                  <td class="text-wrap" rowspan="1">reset it done</td>
-                                  <td>
-                                    12:10:00
-                                  </td>
-                                  <td>
-                                    12:15:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 213</td>
-                                  <td class="text-wrap" rowspan="1">not running</td>
-                                  <td class="text-wrap" rowspan="1">power recycle done,then ok</td>
-                                  <td>
-                                    13:50:00
-                                  </td>
-                                  <td>
-                                    14:00:00
+                                    07:40:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -367,111 +362,15 @@
                             
                               
                                 <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">wobr on co29</td>
-                                  <td class="text-wrap" rowspan="1">yard interlock  zss acted/ cage got stuckup</td>
-                                  <td class="text-wrap" rowspan="1">zss cage made free.then ok</td>
-                                  <td>
-                                    20:30:00
-                                  </td>
-                                  <td>
-                                    20:45:00
-                                  </td>
-                                  <td rowspan="1">.</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 213</td>
-                                  <td class="text-wrap" rowspan="1">SHOWING LOCAL mode in ccr</td>
-                                  <td class="text-wrap" rowspan="1">drive control recycleled then ok</td>
-                                  <td>
-                                    15:50:00
-                                  </td>
-                                  <td>
-                                    16:00:00
-                                  </td>
-                                  <td rowspan="1">.</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">cc218 </td>
-                                  <td class="text-wrap" rowspan="1">zss was bypass(NEW)</td>
-                                  <td class="text-wrap" rowspan="1">kept in CKT.</td>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">op 4</td>
+                                  <td class="text-wrap" rowspan="1">not running/incommer -1 tripped due D1&amp;D6 LUG CUT EACH ONE</td>
+                                  <td class="text-wrap" rowspan="1">lugging  and termination done incommer made on then ok</td>
                                   <td>
                                     15:00:00
                                   </td>
                                   <td>
-                                    15:20:00
-                                  </td>
-                                  <td rowspan="1">.</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 31SCR 1</td>
-                                  <td class="text-wrap" rowspan="1">PCRD LAYERING uneven</td>
-                                  <td class="text-wrap" rowspan="1">pcrd cable winding done and guide adjustment done</td>
-                                  <td>
-                                    15:30:00
-                                  </td>
-                                  <td>
-                                    17:00:00
-                                  </td>
-                                  <td rowspan="1">.</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1"> SCR 10 on cc105</td>
-                                  <td class="text-wrap" rowspan="1">b c is not running/mpr tripped on olr</td>
-                                  <td class="text-wrap" rowspan="1">reset done</td>
-                                  <td>
-                                    19:40:00
-                                  </td>
-                                  <td>
-                                    19:50:00
-                                  </td>
-                                  <td rowspan="1">.</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">cc 132</td>
-                                  <td class="text-wrap" rowspan="1">olr acted</td>
-                                  <td class="text-wrap" rowspan="1">reset done</td>
-                                  <td>
-                                    18:20:00
-                                  </td>
-                                  <td>
-                                    18:35:00
-                                  </td>
-                                  <td rowspan="1">.</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">cc 131 </td>
-                                  <td class="text-wrap" rowspan="1">olr acted</td>
-                                  <td class="text-wrap" rowspan="1">reset</td>
-                                  <td>
-                                    20:35:00
-                                  </td>
-                                  <td>
-                                    20:40:00
+                                    15:45:00
                                   </td>
                                   <td rowspan="1">.</td>
                                 </tr>
@@ -480,14 +379,94 @@
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">co 1a</td>
-                                  <td class="text-wrap" rowspan="1">pc acted</td>
-                                  <td class="text-wrap" rowspan="1">hardware contact bypass in cjb</td>
+                                  <td rowspan="1">brc on co 32</td>
+                                  <td class="text-wrap" rowspan="1">LT IS NOT TAKING PLACE/skew acted</td>
+                                  <td class="text-wrap" rowspan="1">skew adjusted  then ok</td>
+                                  <td>
+                                    19:40:00
+                                  </td>
+                                  <td>
+                                    20:00:00
+                                  </td>
+                                  <td rowspan="1">.</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">wobr on co 26</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place</td>
+                                  <td class="text-wrap" rowspan="1">wrong complaint</td>
+                                  <td>
+                                    15:30:00
+                                  </td>
+                                  <td>
+                                    15:45:00
+                                  </td>
+                                  <td rowspan="1">.</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 46</td>
+                                  <td class="text-wrap" rowspan="1">CJD acted due to jamming</td>
+                                  <td class="text-wrap" rowspan="1">operation cleaned</td>
+                                  <td>
+                                    21:30:00
+                                  </td>
+                                  <td>
+                                    21:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 45</td>
+                                  <td class="text-wrap" rowspan="1">MCCB tripped due to overload,belt is off centre, belt overload with material</td>
+                                  <td class="text-wrap" rowspan="1">informed mechanical and operation</td>
+                                  <td>
+                                    20:17:00
+                                  </td>
+                                  <td>
+                                    20:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 125</td>
+                                  <td class="text-wrap" rowspan="1">ZSS acted, DE head pully jamming due to which speed decreased</td>
+                                  <td class="text-wrap" rowspan="1">informed mechanical </td>
                                   <td>
                                     21:45:00
                                   </td>
                                   <td>
                                     22:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">brc on co 30</td>
+                                  <td class="text-wrap" rowspan="1">reported brake not operated</td>
+                                  <td class="text-wrap" rowspan="1">brake coil wire got cut(crmp side)/wire connected then ok</td>
+                                  <td>
+                                    21:15:00
+                                  </td>
+                                  <td>
+                                    21:40:00
                                   </td>
                                   <td rowspan="1">.</td>
                                 </tr>
@@ -513,7 +492,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : Lal Singh,Arnab Roy</u></i></b>
+                            <b><i><u>Incharge(s) : Lal Singh</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -531,14 +510,14 @@
                               
                                 <tr>
                                   <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 51</td>
-                                  <td class="text-wrap" rowspan="1">Overload acted</td>
-                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td rowspan="1">CC-125</td>
+                                  <td class="text-wrap" rowspan="1">STOPPING ON ZSS FAULT </td>
+                                  <td class="text-wrap" rowspan="1">HEAD END JAMMING... INFORMED TO OPERATION FOR CLEANING ... ZSS CAGE ONE BOLT MISSING .. FIXED </td>
                                   <td>
-                                    00:30:00
+                                    23:00:00
                                   </td>
                                   <td>
-                                    00:35:00
+                                    23:30:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -546,12 +525,61 @@
                                 
                               
                                 <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CC 51</td>
-                                  <td class="text-wrap" rowspan="1">ZSS acted due to overload in belt</td>
-                                  <td class="text-wrap" rowspan="1">Informed to operation for cleaning</td>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-125</td>
+                                  <td class="text-wrap" rowspan="1">STOPPING ON ZSS</td>
+                                  <td class="text-wrap" rowspan="1">ZSS CAGE BEARING PROBLEM .. SPARE NOT AVAILABLE ..ZSS  BYPASSED </td>
                                   <td>
-                                    00:55:00
+                                    00:30:00
+                                  </td>
+                                  <td>
+                                    00:40:00
+                                  </td>
+                                  <td rowspan="1">BRS FOUND IN BYPASS .. KEPT IN CKT 
+ZSS CAGE NEEDS TO BE CHANGED </td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-125</td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED </td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE </td>
+                                  <td>
+                                    04:55:00
+                                  </td>
+                                  <td>
+                                    05:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-45</td>
+                                  <td class="text-wrap" rowspan="1">MOTOR TERMINATION REMOVED FOR MECH WORK </td>
+                                  <td class="text-wrap" rowspan="1">TERMINATION DONE AFTER MECH WORK </td>
+                                  <td>
+                                    23:00:00
+                                  </td>
+                                  <td>
+                                    00:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-36 SCR-4</td>
+                                  <td class="text-wrap" rowspan="1">BC NOT STARTING </td>
+                                  <td class="text-wrap" rowspan="1">FAULT RESET DONE THEN OK </td>
+                                  <td>
+                                    00:40:00
                                   </td>
                                   <td>
                                     01:05:00
@@ -563,77 +591,11 @@
                               
                                 <tr>
                                   <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 114</td>
-                                  <td class="text-wrap" rowspan="1">BRS acted </td>
-                                  <td class="text-wrap" rowspan="1">Bypassed as per operartion request for material clearing</td>
+                                  <td rowspan="1">CC-31 SCR-1</td>
+                                  <td class="text-wrap" rowspan="1">SLEW NOT WORKING </td>
+                                  <td class="text-wrap" rowspan="1">WRONG COMPLAIN </td>
                                   <td>
-                                    00:10:00
-                                  </td>
-                                  <td>
-                                    01:15:00
-                                  </td>
-                                  <td rowspan="1">kept in circuit again</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">BRC on CO 34</td>
-                                  <td class="text-wrap" rowspan="1">CT speed reduction request from operation</td>
-                                  <td class="text-wrap" rowspan="1">CT speed reduced from 10Hz to 8Hz</td>
-                                  <td>
-                                    02:00:00
-                                  </td>
-                                  <td>
-                                    02:15:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="3">OHP</td>
-                                  <td rowspan="3">CO 26 , WOBR</td>
-                                  <td class="text-wrap" rowspan="3">LT not taking place, overtension acted</td>
-                                  <td class="text-wrap" rowspan="3">overtension released</td>
-                                  <td>
-                                    04:30:00
-                                  </td>
-                                  <td>
-                                    04:45:00
-                                  </td>
-                                  <td rowspan="3"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                                  <tr>
-                                    <td>
-                                       05:00:00
-                                    </td>
-                                    <td>
-                                       05:30:00
-                                    </td>
-                                  </tr>
-                              
-                                  <tr>
-                                    <td>
-                                       23:30:00
-                                    </td>
-                                    <td>
-                                       23:50:00
-                                    </td>
-                                  </tr>
-                              
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CO 25 , WOBR</td>
-                                  <td class="text-wrap" rowspan="1">LT not taking place due to track jamming</td>
-                                  <td class="text-wrap" rowspan="1">Informed to operation</td>
-                                  <td>
-                                    00:00:00
+                                    00:20:00
                                   </td>
                                   <td>
                                     00:30:00
@@ -644,88 +606,15 @@
                                 
                               
                                 <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO 68</td>
-                                  <td class="text-wrap" rowspan="1">BRS to be bypassed due to hole in belt</td>
-                                  <td class="text-wrap" rowspan="1">Bypassed in CJB</td>
-                                  <td>
-                                    04:30:00
-                                  </td>
-                                  <td>
-                                    04:40:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
                                   <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 104, SCR 7</td>
-                                  <td class="text-wrap" rowspan="1">LT not working , overtension acted</td>
-                                  <td class="text-wrap" rowspan="1">Overtension released</td>
+                                  <td rowspan="1">CC-51</td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED </td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE </td>
                                   <td>
-                                    22:45:00
+                                    23:45:00
                                   </td>
                                   <td>
-                                    23:00:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 36</td>
-                                  <td class="text-wrap" rowspan="1">BRS bypass request given from operation side</td>
-                                  <td class="text-wrap" rowspan="1">BRS bypasssed</td>
-                                  <td>
-                                    00:50:00
-                                  </td>
-                                  <td>
-                                    06:00:00
-                                  </td>
-                                  <td rowspan="1">Kept in circuit</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="2">CHP</td>
-                                  <td rowspan="2">CC 125</td>
-                                  <td class="text-wrap" rowspan="2">MPD tripped in overload</td>
-                                  <td class="text-wrap" rowspan="2">reset done</td>
-                                  <td>
-                                    02:00:00
-                                  </td>
-                                  <td>
-                                    02:10:00
-                                  </td>
-                                  <td rowspan="2"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                                  <tr>
-                                    <td>
-                                       04:25:00
-                                    </td>
-                                    <td>
-                                       04:30:00
-                                    </td>
-                                  </tr>
-                              
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 104, SCR 7</td>
-                                  <td class="text-wrap" rowspan="1">Slewing not working due to coal jamming</td>
-                                  <td class="text-wrap" rowspan="1">coal jamming cleaned , afterwards slewing needed for Boom changing to OHP side. 30 degree limit acted, after boom stopped slewing working</td>
-                                  <td>
-                                    02:55:00
-                                  </td>
-                                  <td>
-                                    03:20:00
+                                    23:50:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -734,14 +623,78 @@
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO 34</td>
-                                  <td class="text-wrap" rowspan="1">Overload acted</td>
-                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td rowspan="1">CO-76R</td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED </td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE </td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    23:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT-5 </td>
+                                  <td class="text-wrap" rowspan="1">DRIVES TRIPPED ON LOAD SLIPPING </td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE ... BREAKS OBSERVED </td>
+                                  <td>
+                                    04:35:00
+                                  </td>
+                                  <td>
+                                    04:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TT-3</td>
+                                  <td class="text-wrap" rowspan="1">MALE PLUG ONE POLE PROBLEM </td>
+                                  <td class="text-wrap" rowspan="1">TAPPING DONE </td>
+                                  <td>
+                                    22:30:00
+                                  </td>
+                                  <td>
+                                    22:40:00
+                                  </td>
+                                  <td rowspan="1">MALE PLUG NEEDS TO BE CHANGED </td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-20</td>
+                                  <td class="text-wrap" rowspan="1">RIGHT BOOM DAMAGED  IN  B SHIFT </td>
+                                  <td class="text-wrap" rowspan="1">BOOM LIFTED A BIT WITH MECH AND OPERATION .. R-BOOM POWER KEPT IN OFF .... LEFT BOOM STARTED </td>
+                                  <td>
+                                    22:30:00
+                                  </td>
                                   <td>
                                     00:45:00
                                   </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-6A WOBR </td>
+                                  <td class="text-wrap" rowspan="1">BC NOT RUNNING </td>
+                                  <td class="text-wrap" rowspan="1">BELT PIECE TWISTED IN PULLEY INFORMED TO MECH </td>
                                   <td>
-                                    01:00:00
+                                    04:00:00
+                                  </td>
+                                  <td>
+                                    04:20:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
