@@ -1,8 +1,16 @@
 <div class="accordion" id="accordion_type">
         <div class="accordion-item">
           <h2 class="accordion-header">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseOne" aria-expanded="false" aria-controls="type_collapseOne">
+            <!-- <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseOne" aria-expanded="false" aria-controls="type_collapseOne">
               G-Shift LogBook
+            </button> -->
+            <button class="accordion-button collapsed w-100 text-start" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseOne" aria-expanded="false" aria-controls="type_collapseOne">
+              <div class="container-fluid p-0">
+                <div class="row w-100">
+                  <div class="col text-start">G-Shift LogBook</div>
+                  <div class="col text-end">QMS: QMS/R/RHP/E/04</div>
+                </div>
+              </div>
             </button>
           </h2>
           <div id="type_collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordion_type">
@@ -194,8 +202,16 @@
       </div>
       <div class="accordion-item">
         <h2 class="accordion-header">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseTwo" aria-expanded="false" aria-controls="type_collapseTwo">
+          <!-- <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseTwo" aria-expanded="false" aria-controls="type_collapseTwo">
             Shift LogBook
+          </button> -->
+          <button class="accordion-button collapsed w-100 text-start" type="button" data-bs-toggle="collapse" data-bs-target="#type_collapseTwo" aria-expanded="false" aria-controls="type_collapseTwo">
+            <div class="container-fluid p-0">
+              <div class="row w-100">
+                <div class="col text-start">Shift LogBook</div>
+                <div class="col text-end">QMS: QMS/R/RHP/E/18-19</div>
+              </div>
+            </div>
           </button>
         </h2>
         <div id="type_collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordion_type">
