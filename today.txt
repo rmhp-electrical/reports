@@ -177,9 +177,162 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="3">CHP</td>
+                                  <td rowspan="3">CC51 </td>
+                                  <td class="text-wrap" rowspan="3">over load trip</td>
+                                  <td class="text-wrap" rowspan="3">Reset done</td>
+                                  <td>
+                                    08:50:00
+                                  </td>
+                                  <td>
+                                    08:55:00
+                                  </td>
+                                  <td rowspan="3"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       09:05:00
+                                    </td>
+                                    <td>
+                                       09:15:00
+                                    </td>
+                                  </tr>
+                              
+                                  <tr>
+                                    <td>
+                                       13:20:00
+                                    </td>
+                                    <td>
+                                       13:25:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC51 </td>
+                                  <td class="text-wrap" rowspan="1">ZSS acted due to over load</td>
+                                  <td class="text-wrap" rowspan="1">Over load removed and reset done then ok</td>
+                                  <td>
+                                    11:05:00
+                                  </td>
+                                  <td>
+                                    11:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC113</td>
+                                  <td class="text-wrap" rowspan="1">Over load trip</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    13:00:00
+                                  </td>
+                                  <td>
+                                    13:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP4</td>
+                                  <td class="text-wrap" rowspan="1">No power found individual breaker tripped in LC on observation it is found that near maintenance zone area Jumper damaged and pad also twisted and two bolts cut</td>
+                                  <td class="text-wrap" rowspan="1">Given clearance by temperaily tying the jumpers after rake completion total pads and jumpers replaced</td>
+                                  <td>
+                                    06:30:00
+                                  </td>
+                                  <td>
+                                    06:40:00
+                                  </td>
+                                  <td rowspan="1">No delay work done after completion of rake</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">R1 on CC111</td>
+                                  <td class="text-wrap" rowspan="1">LT drive trip and BC not running due to over load on belt and Luffing also not taking palce</td>
+                                  <td class="text-wrap" rowspan="1">Reset done for LT and BC and Luffing not an electrical problem informed to mechanical and operation</td>
+                                  <td>
+                                    10:30:00
+                                  </td>
+                                  <td>
+                                    10:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">CC125</td>
+                                  <td class="text-wrap" rowspan="2">Over load trip</td>
+                                  <td class="text-wrap" rowspan="2">Reset done</td>
+                                  <td>
+                                    12:33:00
+                                  </td>
+                                  <td>
+                                    12:35:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       13:40:00
+                                    </td>
+                                    <td>
+                                       13:45:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO28</td>
+                                  <td class="text-wrap" rowspan="1">BW1 not running found electric OLR acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    11:00:00
+                                  </td>
+                                  <td>
+                                    11:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC18</td>
+                                  <td class="text-wrap" rowspan="1">ZSS cage replaced</td>
+                                  <td class="text-wrap" rowspan="1">Given clearence</td>
+                                  <td>
+                                    06:30:00
+                                  </td>
+                                  <td>
+                                    06:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
