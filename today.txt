@@ -162,7 +162,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : DVSS Phani Kumar</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -177,9 +177,151 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-35</td>
+                                  <td class="text-wrap" rowspan="1">STOPPED ON OLR</td>
+                                  <td class="text-wrap" rowspan="1">RESET OLR</td>
+                                  <td>
+                                    07:00:00
+                                  </td>
+                                  <td>
+                                    07:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-13</td>
+                                  <td class="text-wrap" rowspan="1">STOPPED ON ZSS FAULT.FOUND WIRE BETWEEN PROBE AND MODULE GOT CUT.</td>
+                                  <td class="text-wrap" rowspan="1">JOINED THE WIRE AND GIVEN CLEARANCE.</td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td>
+                                    08:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">RSCO-1A</td>
+                                  <td class="text-wrap" rowspan="1">NOT HEALTHY. FOUND A WIRE IN E-STOP HAS COME OUT OF LUG.</td>
+                                  <td class="text-wrap" rowspan="1">RE-LUGGING DONE AND CONNECTED BACK AND GIVEN CLEARANCE</td>
+                                  <td>
+                                    12:30:00
+                                  </td>
+                                  <td>
+                                    12:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC-33M</td>
+                                  <td class="text-wrap" rowspan="1">COMPLAINED BW-2 NOT ROTATING. </td>
+                                  <td class="text-wrap" rowspan="1">AFTER GOING TO BRC FOUND BW-1 &amp; 2 BOTH ARE WORKING</td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td>
+                                    08:15:00
+                                  </td>
+                                  <td rowspan="1">WRONG COMPLAINT</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC34 -SCR2</td>
+                                  <td class="text-wrap" rowspan="1">IN C SHIFT ZSS IS BYPASSED AS IT IS NOT SENSING.</td>
+                                  <td class="text-wrap" rowspan="1">ZSS PROXIMITY ADJUSTMENT DONE. </td>
+                                  <td>
+                                    06:00:00
+                                  </td>
+                                  <td>
+                                    06:30:00
+                                  </td>
+                                  <td rowspan="1">BYPASS REMOVED</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC31 ( SCR1)</td>
+                                  <td class="text-wrap" rowspan="1">SLEW NOT WORKING . FOUND DUE TO MATERIAL JAMMING SLEW IS NOT MOVING</td>
+                                  <td class="text-wrap" rowspan="1">INFORMED OPERATION. AFTER MATERIAL CLEARING TRIAL RUN TAKEN AND GIVEN CLEARANCE.</td>
+                                  <td>
+                                    07:20:00
+                                  </td>
+                                  <td>
+                                    07:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC32 ( S2)</td>
+                                  <td class="text-wrap" rowspan="1">LT NOT WORKING DUE TO PCRD GUIDE PROBLEM.</td>
+                                  <td class="text-wrap" rowspan="1">INFORMED MECH. AFTER ADJUSTMENT,  TRIAL RUN TAKEN.</td>
+                                  <td>
+                                    07:30:00
+                                  </td>
+                                  <td>
+                                    07:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC34 ( SCR2)</td>
+                                  <td class="text-wrap" rowspan="1">LT NOT WORKING. TRIPPED ON OLR.</td>
+                                  <td class="text-wrap" rowspan="1">RESET OLR .</td>
+                                  <td>
+                                    09:40:00
+                                  </td>
+                                  <td>
+                                    09:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC40 ( SCR6)</td>
+                                  <td class="text-wrap" rowspan="1">LUFFING NOT TAKEN PLACE. </td>
+                                  <td class="text-wrap" rowspan="1">AFTER RESET FROM OPERATOR CABIN AND TRIAL RUN TAKEN</td>
+                                  <td>
+                                    11:10:00
+                                  </td>
+                                  <td>
+                                    11:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
