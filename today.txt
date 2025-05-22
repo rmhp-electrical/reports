@@ -35,6 +35,11 @@
                               
                                 
                                   <tr>
+                                    <td>co-6 pullchord</td>
+                                    <td>kept in circuit after rectifying switch contact issue.</td>
+                                  </tr>
+                                
+                                  <tr>
                                     <td>lc-6, om-10, locp-2 crusher mcc</td>
                                     <td>water levels and sump pumps working status is checked.</td>
                                   </tr>
@@ -51,7 +56,9 @@
                                 
                                   <tr>
                                     <td>rsco-10a</td>
-                                    <td>belt motor is replaced, tested directions and restored for operation.</td>
+                                    <td>belt motor is replaced, tested directions and restored for operation.
+
+Both CJD&#39;s were not operating, informed instrumentation.</td>
                                   </tr>
                                 
                               
@@ -115,12 +122,28 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>OP 4</td>
+                                    <td>All 3 nos C-clamps and middle Pad replaced</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>OP 6</td>
+                                    <td>after rake maintenance done</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : T V Ramana</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -143,12 +166,33 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>OC-16A</td>
+                                    <td>PCS AND BSS DEVICES FEEDBACK CHECKED AND COVERED.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>TBS</td>
+                                    <td>PLC,RMU AND ANTENNA WIRING CHECKED AND TIGHTENED.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>BRC</td>
+                                    <td>MOTORS PPM DONE</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : DVSS Phani Kumar</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -367,7 +411,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : G Eswara Rao</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -382,9 +426,87 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc 131</td>
+                                  <td class="text-wrap" rowspan="1">tripped on olr /due to jamming 4 times</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    14:00:00
+                                  </td>
+                                  <td>
+                                    14:10:00
+                                  </td>
+                                  <td rowspan="1">10.50 to1055am....01.15pm</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">brc  3 on co 28</td>
+                                  <td class="text-wrap" rowspan="1">no drives running/bc ,ct,lt power off condition</td>
+                                  <td class="text-wrap" rowspan="1">poer made on  and tested ok</td>
+                                  <td>
+                                    15:45:00
+                                  </td>
+                                  <td>
+                                    16:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 6</td>
+                                  <td class="text-wrap" rowspan="1">pc acted/not getting reset</td>
+                                  <td class="text-wrap" rowspan="1">pc bypassed at cjb for ope. request</td>
+                                  <td>
+                                    15:15:00
+                                  </td>
+                                  <td>
+                                    15:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT 1</td>
+                                  <td class="text-wrap" rowspan="1">INITIAL  POSITION NOT GETTING</td>
+                                  <td class="text-wrap" rowspan="1"> reverse limit adjusted in RL1</td>
+                                  <td>
+                                    14:00:00
+                                  </td>
+                                  <td>
+                                    14:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 29</td>
+                                  <td class="text-wrap" rowspan="1">PC acted /not getting reset</td>
+                                  <td class="text-wrap" rowspan="1">pc bypassed for operation request</td>
+                                  <td>
+                                    16:00:00
+                                  </td>
+                                  <td>
+                                    16:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
