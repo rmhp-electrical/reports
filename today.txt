@@ -700,7 +700,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -715,9 +715,135 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 30 </td>
+                                  <td class="text-wrap" rowspan="1">mechanical brs acted JOD</td>
+                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td>
+                                    20:45:00
+                                  </td>
+                                  <td>
+                                    20:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">BRC 30 </td>
+                                  <td class="text-wrap" rowspan="1">b/c olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td>
+                                    21:30:00
+                                  </td>
+                                  <td>
+                                    21:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 26</td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td>
+                                    21:45:00
+                                  </td>
+                                  <td>
+                                    21:59:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">WOBR old</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking palce, OT acted</td>
+                                  <td class="text-wrap" rowspan="1">released OT</td>
+                                  <td>
+                                    20:15:00
+                                  </td>
+                                  <td>
+                                    20:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 36 SCR1</td>
+                                  <td class="text-wrap" rowspan="1">ZSS problem,proximity switch malfunctioning</td>
+                                  <td class="text-wrap" rowspan="1">proximity switch replaced</td>
+                                  <td>
+                                    14:20:00
+                                  </td>
+                                  <td>
+                                    14:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 32 SCR 5</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place,drive trips in OL</td>
+                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td>
+                                    15:30:00
+                                  </td>
+                                  <td>
+                                    15:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 108</td>
+                                  <td class="text-wrap" rowspan="1">healthy stop after 3 sec running,found that cc 219 running bit fbk missing form AB PLC TO SIEMENS</td>
+                                  <td class="text-wrap" rowspan="1">PROGRAM modified in siemens, 3s off delay timer kept for AB plc to SIEMENS</td>
+                                  <td>
+                                    21:00:00
+                                  </td>
+                                  <td>
+                                    21:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc 44</td>
+                                  <td class="text-wrap" rowspan="1">mpd trips in oL</td>
+                                  <td class="text-wrap" rowspan="1">reset it done</td>
+                                  <td>
+                                    21:20:00
+                                  </td>
+                                  <td>
+                                    21:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
