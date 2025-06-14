@@ -35,6 +35,16 @@
                               
                                 
                                   <tr>
+                                    <td>RSCO-10A</td>
+                                    <td>ZSS probe adjustment angle provided and tested okay</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>BRC-5 ON CO-33M</td>
+                                    <td>LT-2 Drive installation done.Parameterization done and LT tested okay</td>
+                                  </tr>
+                                
+                                  <tr>
                                     <td>rsco-6a level</td>
                                     <td>illumination is improved.</td>
                                   </tr>
@@ -71,7 +81,7 @@
                           <div class="row">
                             <div class="d-flex flex-row-reverse">
                               <div class="p-2">
-                                <b><i>Entered by : P Venkat Kiran</i></b>
+                                <b><i>Entered by : Amit Roy , P Venkat Kiran</i></b>
                               </div>
                             </div>
                           </div>
@@ -767,7 +777,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Arnab Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -782,9 +792,183 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO 30</td>
+                                  <td class="text-wrap" rowspan="1">LT not moving due to pcrd overtension</td>
+                                  <td class="text-wrap" rowspan="1">tension released</td>
+                                  <td>
+                                    00:45:00
+                                  </td>
+                                  <td>
+                                    01:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 34 , SCR 2</td>
+                                  <td class="text-wrap" rowspan="1">PCRD guide problem </td>
+                                  <td class="text-wrap" rowspan="1">After mechanical guide adjustment done pcrd winded properly</td>
+                                  <td>
+                                    23:50:00
+                                  </td>
+                                  <td>
+                                    00:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 33 , SCR 4</td>
+                                  <td class="text-wrap" rowspan="1">Slew problem</td>
+                                  <td class="text-wrap" rowspan="1">Fault reset done</td>
+                                  <td>
+                                    01:50:00
+                                  </td>
+                                  <td>
+                                    02:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 104 , SCR 9</td>
+                                  <td class="text-wrap" rowspan="1">BW not running</td>
+                                  <td class="text-wrap" rowspan="1">Fault reset done</td>
+                                  <td>
+                                    00:30:00
+                                  </td>
+                                  <td>
+                                    00:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 36 , SCR 1</td>
+                                  <td class="text-wrap" rowspan="1">LT not working</td>
+                                  <td class="text-wrap" rowspan="1">Drive reset . Also found cable in zig zag condition . Winding done properly</td>
+                                  <td>
+                                    04:30:00
+                                  </td>
+                                  <td>
+                                    04:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TT 1   on  CO 21</td>
+                                  <td class="text-wrap" rowspan="1">Position bit missing</td>
+                                  <td class="text-wrap" rowspan="1">Fuse blown at CJB . Replaced</td>
+                                  <td>
+                                    22:20:00
+                                  </td>
+                                  <td>
+                                    22:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">Stopped on Zero speed</td>
+                                  <td class="text-wrap" rowspan="1">Material overload on belt , informed to operation</td>
+                                  <td>
+                                    23:45:00
+                                  </td>
+                                  <td>
+                                    23:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 131</td>
+                                  <td class="text-wrap" rowspan="1">Tripped on overload ( 3 times)</td>
+                                  <td class="text-wrap" rowspan="1">reset done </td>
+                                  <td>
+                                    02:05:00
+                                  </td>
+                                  <td>
+                                    05:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">RG 3</td>
+                                  <td class="text-wrap" rowspan="1">Flapgate motor tripped</td>
+                                  <td class="text-wrap" rowspan="1">reset </td>
+                                  <td>
+                                    03:00:00
+                                  </td>
+                                  <td>
+                                    03:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 131</td>
+                                  <td class="text-wrap" rowspan="1">Stopped on ZSS</td>
+                                  <td class="text-wrap" rowspan="1">Material overload on belt and off centering . Informed to operation and mechanical</td>
+                                  <td>
+                                    04:50:00
+                                  </td>
+                                  <td>
+                                    05:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 125</td>
+                                  <td class="text-wrap" rowspan="1">Reported not running</td>
+                                  <td class="text-wrap" rowspan="1">Checked, motor running but belt not moving . Informed to mechanical</td>
+                                  <td>
+                                    02:15:00
+                                  </td>
+                                  <td>
+                                    02:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
