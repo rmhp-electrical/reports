@@ -29858,3 +29858,83 @@ STDOUT:
 
 STDERR:
 
+
+
+[2025-06-26 12:32:52.612104] Command: C:\Program Files\Git\bin\git.exe add .
+Return code: 128
+STDOUT:
+
+STDERR:
+fatal: Unable to create 'C:/inetpub/wwwroot/reports/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+
+
+
+[2025-06-26 12:32:52.643356] Command: C:\Program Files\Git\bin\git.exe add .
+Return code: 0
+STDOUT:
+
+STDERR:
+warning: in the working copy of 'yesterday/shift/C_shift.pdf', LF will be replaced by CRLF the next time Git touches it
+
+
+
+[2025-06-26 12:32:52.743635] Command: C:\Program Files\Git\bin\git.exe commit -m Update content on 26-06-2025 12:32:52
+Return code: 128
+STDOUT:
+
+STDERR:
+fatal: cannot lock ref 'HEAD': is at c5c070bd4434724210de9f33e19adc2177dc963a but expected 3016ecb09d86d74f59c3a75e94c9cc5593dd60b7
+
+
+
+[2025-06-26 12:32:52.797038] Command: C:\Program Files\Git\bin\git.exe commit -m Update content on 26-06-2025 12:32:52
+Return code: 0
+STDOUT:
+[master c5c070b] Update content on 26-06-2025 12:32:52
+ 3 files changed, 69 insertions(+), 7 deletions(-)
+
+STDERR:
+
+
+
+[2025-06-26 12:32:54.791742] Command: C:\Program Files\Git\bin\git.exe push
+Return code: 0
+STDOUT:
+
+STDERR:
+To https://github.com/rmhp-electrical/reports.git
+   3016ecb..c5c070b  master -> master
+
+
+
+[2025-06-26 12:32:54.826005] Command: C:\Program Files\Git\bin\git.exe push
+Return code: 1
+STDOUT:
+
+STDERR:
+To https://github.com/rmhp-electrical/reports.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at c5c070bd4434724210de9f33e19adc2177dc963a but expected 3016ecb09d86d74f59c3a75e94c9cc5593dd60b7)
+error: failed to push some refs to 'https://github.com/rmhp-electrical/reports.git'
+
+
+
+[2025-06-26 12:32:59.086385] Command: C:\Program Files\Git\bin\git.exe config user.name Logbook Auto Commit
+Return code: 0
+STDOUT:
+
+STDERR:
+
+
+
+[2025-06-26 12:32:59.155115] Command: C:\Program Files\Git\bin\git.exe config user.email noreply@example.com
+Return code: 0
+STDOUT:
+
+STDERR:
+
