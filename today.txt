@@ -162,7 +162,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : G Eswara Rao</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -177,9 +177,247 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 11  C/D</td>
+                                  <td class="text-wrap" rowspan="1">tripped on mpcb due to jamming</td>
+                                  <td class="text-wrap" rowspan="1"> mpcb made on</td>
+                                  <td>
+                                    09:30:00
+                                  </td>
+                                  <td>
+                                    09:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">tt 4 on co 19</td>
+                                  <td class="text-wrap" rowspan="1">chute position signal not getting to ocr/mpcb tripped and not getting on</td>
+                                  <td class="text-wrap" rowspan="1">c/s bypassed at c/s relay then ok</td>
+                                  <td>
+                                    09:30:00
+                                  </td>
+                                  <td>
+                                    09:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc202</td>
+                                  <td class="text-wrap" rowspan="1">zss was in bypassed </td>
+                                  <td class="text-wrap" rowspan="1">zss module replaced and kept in ckt</td>
+                                  <td>
+                                    09:30:00
+                                  </td>
+                                  <td>
+                                    09:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">cp 9</td>
+                                  <td class="text-wrap" rowspan="1">forward /reverse not taking place/communication problem</td>
+                                  <td class="text-wrap" rowspan="1">plc power recycled done. this problem occuring frequently</td>
+                                  <td>
+                                    06:45:00
+                                  </td>
+                                  <td>
+                                    07:30:00
+                                  </td>
+                                  <td rowspan="1">pusher forward done in local mode up to inhaulzone then kept in remote</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">scr 5 on cc32</td>
+                                  <td class="text-wrap" rowspan="1">lt not taking place/m 6 mpcb tripped </td>
+                                  <td class="text-wrap" rowspan="1">mpcb made on.then ok</td>
+                                  <td>
+                                    06:40:00
+                                  </td>
+                                  <td>
+                                    06:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">scr 5 on cc32</td>
+                                  <td class="text-wrap" rowspan="1">bc not running/chute  and deck sheets jamming</td>
+                                  <td class="text-wrap" rowspan="1">inform to operation</td>
+                                  <td>
+                                    07:15:00
+                                  </td>
+                                  <td>
+                                    08:15:00
+                                  </td>
+                                  <td rowspan="1">c/s bypased of bc</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc 223</td>
+                                  <td class="text-wrap" rowspan="1">control missing/c/s acted due to jamming</td>
+                                  <td class="text-wrap" rowspan="1">reset after cleaning</td>
+                                  <td>
+                                    07:00:00
+                                  </td>
+                                  <td>
+                                    07:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">scr 8 on cc112</td>
+                                  <td class="text-wrap" rowspan="1">lt not taking place/pcrd cable fallen and mpcd tripped</td>
+                                  <td class="text-wrap" rowspan="1">mpcb made on then cable winding done</td>
+                                  <td>
+                                    10:05:00
+                                  </td>
+                                  <td>
+                                    10:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc 202</td>
+                                  <td class="text-wrap" rowspan="1">zss acting/speed setting in zero</td>
+                                  <td class="text-wrap" rowspan="1">speed setting adjusted,</td>
+                                  <td>
+                                    11:15:00
+                                  </td>
+                                  <td>
+                                    12:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">scr 5 on cc32</td>
+                                  <td class="text-wrap" rowspan="1">lt not taking place/m 6 mpcb tripped </td>
+                                  <td class="text-wrap" rowspan="1">mpcb made on then ok</td>
+                                  <td>
+                                    13:00:00
+                                  </td>
+                                  <td>
+                                    13:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc 26a</td>
+                                  <td class="text-wrap" rowspan="1">c/s acted</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    11:05:00
+                                  </td>
+                                  <td>
+                                    11:15:00
+                                  </td>
+                                  <td rowspan="1">due material</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc 51</td>
+                                  <td class="text-wrap" rowspan="1">zss acted/belt snap</td>
+                                  <td class="text-wrap" rowspan="1">inform to operation</td>
+                                  <td>
+                                    08:55:00
+                                  </td>
+                                  <td>
+                                    09:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">cc 27a</td>
+                                  <td class="text-wrap" rowspan="1">brs acting due to water</td>
+                                  <td class="text-wrap" rowspan="1">bypassed for operation requirement</td>
+                                  <td>
+                                    07:50:00
+                                  </td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td rowspan="1">brs kept in ckt at 12.15pm</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 3a</td>
+                                  <td class="text-wrap" rowspan="1">zss acting/material jamming at tailend</td>
+                                  <td class="text-wrap" rowspan="1">kept in local mode and again in plc</td>
+                                  <td>
+                                    11:30:00
+                                  </td>
+                                  <td>
+                                    12:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 11 C/D</td>
+                                  <td class="text-wrap" rowspan="1">TRIPPED ON MPCB  DUE TO JAMMING</td>
+                                  <td class="text-wrap" rowspan="1">mpcb made on</td>
+                                  <td>
+                                    10:45:00
+                                  </td>
+                                  <td>
+                                    10:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
