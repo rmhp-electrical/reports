@@ -966,9 +966,218 @@ LT overtension acted, released</td>
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC131</td>
+                                  <td class="text-wrap" rowspan="1">Motor trip 8 times due to over load</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    00:00:00
+                                  </td>
+                                  <td>
+                                    00:05:00
+                                  </td>
+                                  <td rowspan="1">( 4.00am to 6.00am ) Needs attention of belt offcentering and belt traing at drive end side frequent tripping causing motor may fail may please check in G shift</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC114</td>
+                                  <td class="text-wrap" rowspan="1">Motor trip due to over load</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    02:05:00
+                                  </td>
+                                  <td>
+                                    02:10:00
+                                  </td>
+                                  <td rowspan="1">04.20am to 04
+30am</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC53</td>
+                                  <td class="text-wrap" rowspan="1">not running given local from B shift found motor failed </td>
+                                  <td class="text-wrap" rowspan="1">Meggared found values ZERO phase to earth, dual drive changed the connections informed to operatin and mechanical for decoupling the motor and coupling the CCR side motor trail taken given clearence</td>
+                                  <td>
+                                    22:30:00
+                                  </td>
+                                  <td>
+                                    23:00:00
+                                  </td>
+                                  <td rowspan="1">NGEF 40 KW,1480rpm motor burnt needs to be send to ERS for repair may follow further</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR5 on CC32</td>
+                                  <td class="text-wrap" rowspan="1">LT not working found MPCB2 trip 2 times</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    00:28:00
+                                  </td>
+                                  <td>
+                                    00:38:00
+                                  </td>
+                                  <td rowspan="1">01.10am to 01.20am</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR2 on CC34</td>
+                                  <td class="text-wrap" rowspan="1">LT not working found OT limit acted</td>
+                                  <td class="text-wrap" rowspan="1">OT limit released and over loop cable released then ok</td>
+                                  <td>
+                                    00:28:00
+                                  </td>
+                                  <td>
+                                    00:47:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC201</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done PCS acted released then ok</td>
+                                  <td>
+                                    03:01:00
+                                  </td>
+                                  <td>
+                                    03:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TT3 chute sensor position to CC21</td>
+                                  <td class="text-wrap" rowspan="1">Bit not comming found male plug cable was opened </td>
+                                  <td class="text-wrap" rowspan="1">Plug cable connected then  ok</td>
+                                  <td>
+                                    23:05:00
+                                  </td>
+                                  <td>
+                                    23:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="3">CHP</td>
+                                  <td rowspan="3">CC103 belt drive </td>
+                                  <td class="text-wrap" rowspan="3">tripped 3 times</td>
+                                  <td class="text-wrap" rowspan="3">Reset done</td>
+                                  <td>
+                                    00:50:00
+                                  </td>
+                                  <td>
+                                    01:05:00
+                                  </td>
+                                  <td rowspan="3">Needs to check emergency push button after GPL stream off and hens control supply</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       23:11:00
+                                    </td>
+                                    <td>
+                                       23:20:00
+                                    </td>
+                                  </tr>
+                              
+                                  <tr>
+                                    <td>
+                                       23:45:00
+                                    </td>
+                                    <td>
+                                       23:55:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS on CO24</td>
+                                  <td class="text-wrap" rowspan="1">Right boom Luffing not working due to over load</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    01:30:00
+                                  </td>
+                                  <td>
+                                    01:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO86</td>
+                                  <td class="text-wrap" rowspan="1">CJD acted due to over load</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    00:30:00
+                                  </td>
+                                  <td>
+                                    00:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP9</td>
+                                  <td class="text-wrap" rowspan="1">D2 trip fault SCF3</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    03:30:00
+                                  </td>
+                                  <td>
+                                    03:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP7</td>
+                                  <td class="text-wrap" rowspan="1">not moving found radio modem POE cable cover came out</td>
+                                  <td class="text-wrap" rowspan="1">Inserted and made it on</td>
+                                  <td>
+                                    04:45:00
+                                  </td>
+                                  <td>
+                                    05:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
