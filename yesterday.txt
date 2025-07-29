@@ -803,9 +803,215 @@ IO panel,XMD panel,Lower MCC relay panel installed and cables inserted into the 
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC52</td>
+                                  <td class="text-wrap" rowspan="1">Motor tripped on over load 4 times</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    23:55:00
+                                  </td>
+                                  <td>
+                                    00:00:00
+                                  </td>
+                                  <td rowspan="1">01.50am to 1.55am:02.05am to 02.10am and 02.50am to 02.55am</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP2</td>
+                                  <td class="text-wrap" rowspan="1">Not moving found D5 over load acted during coupling time</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    02:30:00
+                                  </td>
+                                  <td>
+                                    02:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC54</td>
+                                  <td class="text-wrap" rowspan="1">Over load acted 4 times</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    01:40:00
+                                  </td>
+                                  <td>
+                                    01:45:00
+                                  </td>
+                                  <td rowspan="1">01.55am to 02.00am:02.10am to 02.15am and 02.25am to 02.30am</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO48 </td>
+                                  <td class="text-wrap" rowspan="1">Conveyor not running found motor winding failed meggar  values are zero (phase to earth), Bearing also jammed and struck up</td>
+                                  <td class="text-wrap" rowspan="1">Available spare motor changed , direction checked and given clearance no load amps 11Amps and at load condition 13 Amps </td>
+                                  <td>
+                                    00:30:00
+                                  </td>
+                                  <td>
+                                    04:30:00
+                                  </td>
+                                  <td rowspan="1">Motor fan cover is to be fixed and Mono rail hoist not working due to struck up off rope in the rotating drum needs repair, delay is due to manual shifting of motor from CO47 area to CO48 area as mono rail choist not working </td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR3 on CC38</td>
+                                  <td class="text-wrap" rowspan="1">BC not running found panel is in off condition and R1 is chattering </td>
+                                  <td class="text-wrap" rowspan="1">Provided high from control MCB </td>
+                                  <td>
+                                    22:40:00
+                                  </td>
+                                  <td>
+                                    23:15:00
+                                  </td>
+                                  <td rowspan="1">Ckt may check in g shift and panel is in off condition and tag also observed but no record of shut down may check and clarify further please </td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">S2 on CC36</td>
+                                  <td class="text-wrap" rowspan="1">PCRd cable fell on ground found cable guide got struck</td>
+                                  <td class="text-wrap" rowspan="1">cable winding done and informed to mechanical regarding  cable guide</td>
+                                  <td>
+                                    23:20:00
+                                  </td>
+                                  <td>
+                                    23:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC125</td>
+                                  <td class="text-wrap" rowspan="1">Over load acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    00:55:00
+                                  </td>
+                                  <td>
+                                    01:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC111</td>
+                                  <td class="text-wrap" rowspan="1">ZSS complaint </td>
+                                  <td class="text-wrap" rowspan="1">found ok</td>
+                                  <td>
+                                    00:30:00
+                                  </td>
+                                  <td>
+                                    00:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR3 on CC38</td>
+                                  <td class="text-wrap" rowspan="1">BC ZSS cage got struck up </td>
+                                  <td class="text-wrap" rowspan="1">ZSS by passed in module </td>
+                                  <td>
+                                    02:10:00
+                                  </td>
+                                  <td>
+                                    02:35:00
+                                  </td>
+                                  <td rowspan="1">Needs replacement of ZSS cage informed to A shift</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO26</td>
+                                  <td class="text-wrap" rowspan="1">Red found over load acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    23:45:00
+                                  </td>
+                                  <td>
+                                    23:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO35</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    23:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO31</td>
+                                  <td class="text-wrap" rowspan="1">BC drive tripping found CJD acted due to material jamming</td>
+                                  <td class="text-wrap" rowspan="1">informed to operation</td>
+                                  <td>
+                                    05:00:00
+                                  </td>
+                                  <td>
+                                    05:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO6a</td>
+                                  <td class="text-wrap" rowspan="1">BRS by passed due to nonsense tripping and not able to reset</td>
+                                  <td class="text-wrap" rowspan="1">Bypassed and informed to A shift</td>
+                                  <td>
+                                    23:00:00
+                                  </td>
+                                  <td>
+                                    23:05:00
+                                  </td>
+                                  <td rowspan="1">may check further please</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
