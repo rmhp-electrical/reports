@@ -82,12 +82,53 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>CC 37 </td>
+                                    <td>110 V SENSOR REPLACED AND BRS TAKEN IN CIRCUIT</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CC 54</td>
+                                    <td> PC SWITCHES CHECKING DONE 2 SWITCHES REMOVED</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>SCR 8 ON CC 112</td>
+                                    <td>LOW ACC PR 1 KEPT IN CIRCUIT</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>R1 ON CC 33 INTERLOCK CAGE </td>
+                                    <td>BELT PIECE CANOPY FIXED </td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>MACHINE INTER CHANGING DONE</td>
+                                    <td>S 2 TO CC 35 SCR1 TO CC 36</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CC 49</td>
+                                    <td>MOTOR REPLACED </td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CC 40, 43, 48, 49</td>
+                                    <td>PPM DONE</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : Nagendra Midde</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -110,12 +151,33 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>OT2 </td>
+                                    <td>RUNNING INSPECTION DONE</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>LC2C  and  LC2D</td>
+                                    <td>CREEPERS AND GRASS REMOVED</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>OP7</td>
+                                    <td>PANEL AND MOTOR SIDE PPM DONE</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : MAHENDRA SOLANKI</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -300,6 +362,95 @@
                                     14:00:00
                                   </td>
                                   <td rowspan="1">brc-34 is charged abd dnw is informed .</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">R1 CC 33</td>
+                                  <td class="text-wrap" rowspan="2">B/C ZSS INTERLOCK CAGE STUCKED WITH COAL</td>
+                                  <td class="text-wrap" rowspan="2">REMOVED</td>
+                                  <td>
+                                    08:15:00
+                                  </td>
+                                  <td>
+                                    08:15:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       08:50:00
+                                    </td>
+                                    <td>
+                                       09:00:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 10 ON CC 105</td>
+                                  <td class="text-wrap" rowspan="1">B/C STOPPED ON EARTH FAULT</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    12:40:00
+                                  </td>
+                                  <td>
+                                    12:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">S1 ON CC 37</td>
+                                  <td class="text-wrap" rowspan="1">PCRD CABLE WINDING DONE</td>
+                                  <td class="text-wrap" rowspan="1"> AFTER MACH CLEARENCE</td>
+                                  <td>
+                                    12:15:00
+                                  </td>
+                                  <td>
+                                    13:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 107</td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED </td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    13:05:00
+                                  </td>
+                                  <td>
+                                    13:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 27A</td>
+                                  <td class="text-wrap" rowspan="1">T/T C/S ACTED</td>
+                                  <td class="text-wrap" rowspan="1">PROBE CLEANED THEN OK</td>
+                                  <td>
+                                    11:40:00
+                                  </td>
+                                  <td>
+                                    11:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
                                 </tr>
                                 <!-- Code for items which have more than 1 timing  -->
                                 
