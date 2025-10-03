@@ -33,12 +33,58 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>LC 1  and  JH 1 </td>
+                                    <td>INSPECTION DONE</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co 5,6,7 </td>
+                                    <td>take up area 6 lights installed</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CO 32 BRC </td>
+                                    <td>B/C INSPECTION DONE</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CO 30 BRC</td>
+                                    <td>BREAKS KEPT IN CIRCUIT</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>TBS 5 </td>
+                                    <td>SHIFTED FROM CO 23 TO CO 24</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CO 34A</td>
+                                    <td>BURNT MOTOR SHIFTED TO ERS</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CO 65 TAKE UP AREA</td>
+                                    <td>120W 2 LED GIVEN</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CO 27 A, 30A, 32A </td>
+                                    <td>MOTOR AND FEEDER PPM DONE</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : Nagendra Midde</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -638,7 +684,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Nagendra Midde</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -653,9 +699,201 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">S1 ON CC 39</td>
+                                  <td class="text-wrap" rowspan="1">30 DEGREE LIMIT ACTED </td>
+                                  <td class="text-wrap" rowspan="1">RELEASED WITH MAGNET</td>
+                                  <td>
+                                    15:50:00
+                                  </td>
+                                  <td>
+                                    16:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 39 </td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED </td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    19:00:00
+                                  </td>
+                                  <td>
+                                    19:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 32 R1 </td>
+                                  <td class="text-wrap" rowspan="1">SLEW LIMIT ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RELEASED</td>
+                                  <td>
+                                    20:30:00
+                                  </td>
+                                  <td>
+                                    20:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">FEEDING CONVEYOR OLR ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    17:30:00
+                                  </td>
+                                  <td>
+                                    17:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="3">OHP</td>
+                                  <td rowspan="3">CO 15 </td>
+                                  <td class="text-wrap" rowspan="3">OLR ACTED </td>
+                                  <td class="text-wrap" rowspan="3">RESET</td>
+                                  <td>
+                                    15:45:00
+                                  </td>
+                                  <td>
+                                    15:50:00
+                                  </td>
+                                  <td rowspan="3"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       16:00:00
+                                    </td>
+                                    <td>
+                                       16:05:00
+                                    </td>
+                                  </tr>
+                              
+                                  <tr>
+                                    <td>
+                                       21:45:00
+                                    </td>
+                                    <td>
+                                       21:55:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC ON CO 28</td>
+                                  <td class="text-wrap" rowspan="1">EMERGENCY PB ACTED IN OPERATOR CABIN</td>
+                                  <td class="text-wrap" rowspan="1">RELEASED</td>
+                                  <td>
+                                    15:50:00
+                                  </td>
+                                  <td>
+                                    16:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 33M LT</td>
+                                  <td class="text-wrap" rowspan="1">PCRD CABLE LOOP GIVEN</td>
+                                  <td class="text-wrap" rowspan="1">THEN OK</td>
+                                  <td>
+                                    16:05:00
+                                  </td>
+                                  <td>
+                                    16:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC ON CO 33M</td>
+                                  <td class="text-wrap" rowspan="1">INTERLOCK CAGE GETTING STUCK </td>
+                                  <td class="text-wrap" rowspan="1">REPLACED THEN OK</td>
+                                  <td>
+                                    16:40:00
+                                  </td>
+                                  <td>
+                                    17:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT3</td>
+                                  <td class="text-wrap" rowspan="1">D1 TRIPPED ON ENCODER FAULT</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    16:00:00
+                                  </td>
+                                  <td>
+                                    16:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">CO3</td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    19:55:00
+                                  </td>
+                                  <td>
+                                    20:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">OC36A</td>
+                                  <td class="text-wrap" rowspan="1">ZSS CAGE STUCK WITH STONE </td>
+                                  <td class="text-wrap" rowspan="1">REMOVED THEN OK</td>
+                                  <td>
+                                    17:30:00
+                                  </td>
+                                  <td>
+                                    17:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
@@ -675,7 +913,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
