@@ -578,7 +578,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -593,9 +593,176 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">RSCO-10A</td>
+                                  <td class="text-wrap" rowspan="2">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="2">OLR acted.Reset done</td>
+                                  <td>
+                                    17:45:00
+                                  </td>
+                                  <td>
+                                    18:00:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       18:05:00
+                                    </td>
+                                    <td>
+                                       18:10:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR on CO-26</td>
+                                  <td class="text-wrap" rowspan="1">Reported slewing not taking place</td>
+                                  <td class="text-wrap" rowspan="1">Drive tripped. reset done</td>
+                                  <td>
+                                    18:15:00
+                                  </td>
+                                  <td>
+                                    18:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-85</td>
+                                  <td class="text-wrap" rowspan="1">Reported Tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    21:15:00
+                                  </td>
+                                  <td>
+                                    21:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP-6</td>
+                                  <td class="text-wrap" rowspan="1">Reported not moving</td>
+                                  <td class="text-wrap" rowspan="1">Pusher at no power zone.Jumper laid and reverse movement done</td>
+                                  <td>
+                                    21:15:00
+                                  </td>
+                                  <td>
+                                    21:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">OP-7,8</td>
+                                  <td class="text-wrap" rowspan="1">Reported no movement taking place</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found modem and ethernet cable failed at OT-4.Modem replaced,configured and ethernet cable replaced and tested okay</td>
+                                  <td>
+                                    20:30:00
+                                  </td>
+                                  <td>
+                                    22:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-54</td>
+                                  <td class="text-wrap" rowspan="1">reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted(20 times).Reset done</td>
+                                  <td>
+                                    15:40:00
+                                  </td>
+                                  <td>
+                                    21:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-51A</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">Tripped on rotor lock(2 times) due to jamming.Reset done</td>
+                                  <td>
+                                    20:34:00
+                                  </td>
+                                  <td>
+                                    20:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-51</td>
+                                  <td class="text-wrap" rowspan="1">Stopping on ZSS</td>
+                                  <td class="text-wrap" rowspan="1">Due to pulley slip no belt movement found.</td>
+                                  <td>
+                                    21:00:00
+                                  </td>
+                                  <td>
+                                    21:10:00
+                                  </td>
+                                  <td rowspan="1">Informed to operation </td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-113A</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    21:18:00
+                                  </td>
+                                  <td>
+                                    21:28:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">Cc34 SCR-2</td>
+                                  <td class="text-wrap" rowspan="1">Slew not working</td>
+                                  <td class="text-wrap" rowspan="1">30 degree limit acted.Right side slew done and tested okay</td>
+                                  <td>
+                                    15:30:00
+                                  </td>
+                                  <td>
+                                    15:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
@@ -615,7 +782,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
