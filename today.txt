@@ -504,7 +504,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -519,9 +519,135 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT-1</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">D1 tripped.Reset done</td>
+                                  <td>
+                                    16:20:00
+                                  </td>
+                                  <td>
+                                    16:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-51</td>
+                                  <td class="text-wrap" rowspan="1">MPD tripped</td>
+                                  <td class="text-wrap" rowspan="1">Feeding conveyor stopped.Reset done(8 times)</td>
+                                  <td>
+                                    15:10:00
+                                  </td>
+                                  <td>
+                                    20:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-51</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    20:10:00
+                                  </td>
+                                  <td>
+                                    20:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">VS-1A</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    20:30:00
+                                  </td>
+                                  <td>
+                                    20:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">BRC</td>
+                                  <td class="text-wrap" rowspan="1">Reported CT not taking place</td>
+                                  <td class="text-wrap" rowspan="1">Drive tripped(over current fault) due to overload.Reset done</td>
+                                  <td>
+                                    19:10:00
+                                  </td>
+                                  <td>
+                                    19:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO-8A</td>
+                                  <td class="text-wrap" rowspan="1">Reported CT not taking place</td>
+                                  <td class="text-wrap" rowspan="1">Fuse burnt.Limit cable checked and insulated properly at a joint and tested okay</td>
+                                  <td>
+                                    17:50:00
+                                  </td>
+                                  <td>
+                                    18:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO-8A</td>
+                                  <td class="text-wrap" rowspan="1">Reported Ct not taking place</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found JB-1 TO JB-2 core problem.cores changed and tested okay</td>
+                                  <td>
+                                    18:55:00
+                                  </td>
+                                  <td>
+                                    19:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-37 SCR-7</td>
+                                  <td class="text-wrap" rowspan="1">Reported no power</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found HT fuse burnt at I/O panel.Cable meggered and found okay.Fuse replaced and charged and operations tested okay</td>
+                                  <td>
+                                    17:00:00
+                                  </td>
+                                  <td>
+                                    18:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
