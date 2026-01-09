@@ -507,31 +507,40 @@ nitrogen is filled and restored acc2 also in circuit.</td>
                             
                               
                                 <tr>
-                                  <td rowspan="1">WT</td>
-                                  <td rowspan="1">ot 2</td>
-                                  <td class="text-wrap" rowspan="1">d2 tripped in pgf1 fault </td>
-                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td rowspan="2">WT</td>
+                                  <td rowspan="2">ot 2</td>
+                                  <td class="text-wrap" rowspan="2">d2 tripped in pgf1 fault </td>
+                                  <td class="text-wrap" rowspan="2">reset</td>
                                   <td>
                                     19:36:00
                                   </td>
                                   <td>
                                     19:41:00
                                   </td>
-                                  <td rowspan="1"></td>
+                                  <td rowspan="2"></td>
                                 </tr>
                                 <!-- Code for items which have more than 1 timing  -->
                                 
+                                  <tr>
+                                    <td>
+                                       21:20:00
+                                    </td>
+                                    <td>
+                                       21:25:00
+                                    </td>
+                                  </tr>
+                              
                               
                                 <tr>
                                   <td rowspan="1">CHP</td>
                                   <td rowspan="1">CC 51 </td>
-                                  <td class="text-wrap" rowspan="1">mpd acted</td>
+                                  <td class="text-wrap" rowspan="1">mpd acted 16 times</td>
                                   <td class="text-wrap" rowspan="1">reset</td>
                                   <td>
-                                    17:20:00
+                                    15:00:00
                                   </td>
                                   <td>
-                                    17:30:00
+                                    15:05:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -540,14 +549,110 @@ nitrogen is filled and restored acc2 also in circuit.</td>
                               
                                 <tr>
                                   <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC 131</td>
-                                  <td class="text-wrap" rowspan="1">motor tripped</td>
+                                  <td rowspan="1">CC 51</td>
+                                  <td class="text-wrap" rowspan="1">motor tripped 3 times</td>
                                   <td class="text-wrap" rowspan="1">reset</td>
                                   <td>
-                                    19:40:00
+                                    15:30:00
                                   </td>
                                   <td>
-                                    19:50:00
+                                    15:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on co 28</td>
+                                  <td class="text-wrap" rowspan="1">pump not working,control fuse blown in spider cjb and in PLC panel</td>
+                                  <td class="text-wrap" rowspan="1">oil level sensor wire direct termination done in spider cjb</td>
+                                  <td>
+                                    16:00:00
+                                  </td>
+                                  <td>
+                                    17:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS on CO 20</td>
+                                  <td class="text-wrap" rowspan="1">smoke observed near LT motor </td>
+                                  <td class="text-wrap" rowspan="1">brake problem,informed mechanical</td>
+                                  <td>
+                                    19:20:00
+                                  </td>
+                                  <td>
+                                    19:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR on co 25</td>
+                                  <td class="text-wrap" rowspan="1">slewing not working,m1 olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    21:00:00
+                                  </td>
+                                  <td>
+                                    21:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 4A</td>
+                                  <td class="text-wrap" rowspan="1">p/c and emergency not healthy,fuse blown in cjb</td>
+                                  <td class="text-wrap" rowspan="1">fuse replaced</td>
+                                  <td>
+                                    15:30:00
+                                  </td>
+                                  <td>
+                                    15:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 114 </td>
+                                  <td class="text-wrap" rowspan="1">motor tripped 3 times</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    17:30:00
+                                  </td>
+                                  <td>
+                                    17:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 34  SCR1</td>
+                                  <td class="text-wrap" rowspan="1">luff not working,limit acted</td>
+                                  <td class="text-wrap" rowspan="1">limit released</td>
+                                  <td>
+                                    18:10:00
+                                  </td>
+                                  <td>
+                                    18:20:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
