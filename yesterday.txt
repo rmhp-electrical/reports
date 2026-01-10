@@ -678,7 +678,7 @@ nitrogen is filled and restored acc2 also in circuit.</td>
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Lal Singh,Lal Singh</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -693,9 +693,203 @@ nitrogen is filled and restored acc2 also in circuit.</td>
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc-47</td>
+                                  <td class="text-wrap" rowspan="1">FAIL TO START </td>
+                                  <td class="text-wrap" rowspan="1">POWER AND CONTROL RECYCLE THEN TESTED OK </td>
+                                  <td>
+                                    23:15:00
+                                  </td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-104 SCR-9</td>
+                                  <td class="text-wrap" rowspan="1">PLC COMMUNICATION FAILED EB03 FAULT  </td>
+                                  <td class="text-wrap" rowspan="1">PLC POWER RECYCLED </td>
+                                  <td>
+                                    03:55:00
+                                  </td>
+                                  <td>
+                                    04:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-28 BRC</td>
+                                  <td class="text-wrap" rowspan="1">PUMP NOT RUNNING ... ACC-2 ALARM </td>
+                                  <td class="text-wrap" rowspan="1">INFORMED MECH FOR NITROGEN FILLING ..... NO ELECTRICAL PROBLEM </td>
+                                  <td>
+                                    03:30:00
+                                  </td>
+                                  <td>
+                                    03:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-32 BRC </td>
+                                  <td class="text-wrap" rowspan="1">HYD PUMP NOT RUNNING ... OIL LEVEL LOW </td>
+                                  <td class="text-wrap" rowspan="1">INFORMED MECH </td>
+                                  <td>
+                                    23:00:00
+                                  </td>
+                                  <td>
+                                    23:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-32 BRC </td>
+                                  <td class="text-wrap" rowspan="1">BW-1 NOT RUNNING .... STUCK </td>
+                                  <td class="text-wrap" rowspan="1">MADE FREE BY REV ROTATING </td>
+                                  <td>
+                                    01:15:00
+                                  </td>
+                                  <td>
+                                    01:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="3">WT</td>
+                                  <td rowspan="3">OT-2</td>
+                                  <td class="text-wrap" rowspan="3">TRIPPED ON PGF-1 FAULT </td>
+                                  <td class="text-wrap" rowspan="3">RESET DONE </td>
+                                  <td>
+                                    01:50:00
+                                  </td>
+                                  <td>
+                                    01:55:00
+                                  </td>
+                                  <td rowspan="3"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       03:15:00
+                                    </td>
+                                    <td>
+                                       03:20:00
+                                    </td>
+                                  </tr>
+                              
+                                  <tr>
+                                    <td>
+                                       22:15:00
+                                    </td>
+                                    <td>
+                                       22:20:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT-1</td>
+                                  <td class="text-wrap" rowspan="1">WAGON OVER TRAVELED AND TIPPLER AT 20 DEGREE</td>
+                                  <td class="text-wrap" rowspan="1">SENSOR AND REV LIMIT BYPASSED TO BRING TIPPLER AT 0 DEGREE .... THEN KEPT IN CKT </td>
+                                  <td>
+                                    04:00:00
+                                  </td>
+                                  <td>
+                                    04:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-18</td>
+                                  <td class="text-wrap" rowspan="1">STOPPING ON ZSS </td>
+                                  <td class="text-wrap" rowspan="1">CAGE STUCK ... MADE FREE</td>
+                                  <td>
+                                    05:25:00
+                                  </td>
+                                  <td>
+                                    05:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">CO-85</td>
+                                  <td class="text-wrap" rowspan="2">TRIPPED ON OLR </td>
+                                  <td class="text-wrap" rowspan="2">RESET DONE </td>
+                                  <td>
+                                    00:05:00
+                                  </td>
+                                  <td>
+                                    00:20:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       23:02:00
+                                    </td>
+                                    <td>
+                                       23:09:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">CC-114</td>
+                                  <td class="text-wrap" rowspan="2">TRIPPED ON OLR </td>
+                                  <td class="text-wrap" rowspan="2">RESET DONE </td>
+                                  <td>
+                                    01:40:00
+                                  </td>
+                                  <td>
+                                    01:50:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       05:40:00
+                                    </td>
+                                    <td>
+                                       05:50:00
+                                    </td>
+                                  </tr>
+                              
+                              
                             
                           </tbody>
                         </table>
