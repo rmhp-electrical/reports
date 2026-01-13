@@ -506,7 +506,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -521,9 +521,135 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT 1</td>
+                                  <td class="text-wrap" rowspan="1">D1 tripped in pgf1 fault brake problem</td>
+                                  <td class="text-wrap" rowspan="1">informed mechanical,reset</td>
+                                  <td>
+                                    18:35:00
+                                  </td>
+                                  <td>
+                                    18:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT 2</td>
+                                  <td class="text-wrap" rowspan="1">d2 tripped 2 times pgf1 fault</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    18:00:00
+                                  </td>
+                                  <td>
+                                    18:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 28</td>
+                                  <td class="text-wrap" rowspan="1">tripped in olr</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    17:30:00
+                                  </td>
+                                  <td>
+                                    17:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">mpd tripped 2 times</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    15:55:00
+                                  </td>
+                                  <td>
+                                    16:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 108 </td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    19:35:00
+                                  </td>
+                                  <td>
+                                    19:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 112,cc105</td>
+                                  <td class="text-wrap" rowspan="1">i/c  tripped in LC2</td>
+                                  <td class="text-wrap" rowspan="1">made it on</td>
+                                  <td>
+                                    14:30:00
+                                  </td>
+                                  <td>
+                                    15:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO33 m</td>
+                                  <td class="text-wrap" rowspan="1">yard interlock not coming,zss cage module loose connection,IN CJD TB all wrong wiring</td>
+                                  <td class="text-wrap" rowspan="1">zss bypassed given clearance @8pm than stream stopped zss kept in CKT,CJD bypased,all cable removed</td>
+                                  <td>
+                                    19:40:00
+                                  </td>
+                                  <td>
+                                    21:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO28</td>
+                                  <td class="text-wrap" rowspan="1">CT not working,drive tripped </td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    21:10:00
+                                  </td>
+                                  <td>
+                                    21:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
