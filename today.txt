@@ -190,7 +190,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +205,176 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS on CO-20</td>
+                                  <td class="text-wrap" rowspan="1">Right boom ZSS acting</td>
+                                  <td class="text-wrap" rowspan="1">Return idler missing.</td>
+                                  <td>
+                                    11:30:00
+                                  </td>
+                                  <td>
+                                    11:40:00
+                                  </td>
+                                  <td rowspan="1">Informed to mechanical and bypassed as per operation request</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">OM-12 and Daybins all conveyors red</td>
+                                  <td class="text-wrap" rowspan="1">1-141LC3 I/C-2 tripped </td>
+                                  <td class="text-wrap" rowspan="1">Old joint opened for TT-1A I/C made on switching off power for TT-1A.</td>
+                                  <td>
+                                    11:50:00
+                                  </td>
+                                  <td>
+                                    12:10:00
+                                  </td>
+                                  <td rowspan="1">Permanent joint done for TT-1A cable</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-34 SCR-1</td>
+                                  <td class="text-wrap" rowspan="1">Reported no operations taking place</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found output card failed in PLC rack.Card replaced and tested okay</td>
+                                  <td>
+                                    06:00:00
+                                  </td>
+                                  <td>
+                                    09:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-216</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    07:55:00
+                                  </td>
+                                  <td>
+                                    08:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-35 SCR-3</td>
+                                  <td class="text-wrap" rowspan="1">B/C not running</td>
+                                  <td class="text-wrap" rowspan="1">Mains and control not made on.Made on and tested okay</td>
+                                  <td>
+                                    08:10:00
+                                  </td>
+                                  <td>
+                                    08:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-108</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done(2 times)</td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td>
+                                    09:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">Cc-32 SCR-5</td>
+                                  <td class="text-wrap" rowspan="1">Communication problem</td>
+                                  <td class="text-wrap" rowspan="1">ZSS cage probe replaced and tested okay</td>
+                                  <td>
+                                    12:00:00
+                                  </td>
+                                  <td>
+                                    12:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OC-1A</td>
+                                  <td class="text-wrap" rowspan="1">ZSS acted</td>
+                                  <td class="text-wrap" rowspan="1">Probe and cage replaced and tested okay</td>
+                                  <td>
+                                    08:45:00
+                                  </td>
+                                  <td>
+                                    09:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT-4</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">Drive-2 tripped on PGEF-4 fault.</td>
+                                  <td>
+                                    13:15:00
+                                  </td>
+                                  <td>
+                                    13:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">IOSA</td>
+                                  <td rowspan="2">Reported all conveyors communication problem</td>
+                                  <td class="text-wrap" rowspan="2">communication problem between LC&#39;S</td>
+                                  <td class="text-wrap" rowspan="2">Attended by general shift..GBC converter changed for 1-142LC-2 GE PLC and OFC to GBC converter kept off in LC-3 and LC-1 and tested okay</td>
+                                  <td>
+                                    06:00:00
+                                  </td>
+                                  <td>
+                                    07:50:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       09:10:00
+                                    </td>
+                                    <td>
+                                       09:50:00
+                                    </td>
+                                  </tr>
+                              
+                              
                             
                           </tbody>
                         </table>
@@ -227,7 +394,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
