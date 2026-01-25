@@ -676,9 +676,151 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 15</td>
+                                  <td class="text-wrap" rowspan="1">timer acted thats why electrical complaint given by operation i/c</td>
+                                  <td class="text-wrap" rowspan="1">checked and found belt is slipping when given command in PLC,kept in local and run then its run</td>
+                                  <td>
+                                    00:57:00
+                                  </td>
+                                  <td>
+                                    02:30:00
+                                  </td>
+                                  <td rowspan="1">not an electrical problem,stream changed @0115am and again given @02.30 am</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 14</td>
+                                  <td class="text-wrap" rowspan="1">zss acted,belt movement slow</td>
+                                  <td class="text-wrap" rowspan="1">mechanical  and operation problem</td>
+                                  <td>
+                                    04:00:00
+                                  </td>
+                                  <td>
+                                    04:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TT1 </td>
+                                  <td class="text-wrap" rowspan="1">cjd acted,jamming was there</td>
+                                  <td class="text-wrap" rowspan="1">informed operation but not accepted,show them photo,than accepted</td>
+                                  <td>
+                                    03:50:00
+                                  </td>
+                                  <td>
+                                    04:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">mpd acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    23:35:00
+                                  </td>
+                                  <td rowspan="1">10 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 114</td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    00:30:00
+                                  </td>
+                                  <td>
+                                    00:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 25 </td>
+                                  <td class="text-wrap" rowspan="1">OLR acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    03:10:00
+                                  </td>
+                                  <td>
+                                    03:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 26</td>
+                                  <td class="text-wrap" rowspan="1">OLr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    02:45:00
+                                  </td>
+                                  <td>
+                                    02:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">wobr on co 25</td>
+                                  <td class="text-wrap" rowspan="1">slew not working,olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    05:30:00
+                                  </td>
+                                  <td>
+                                    05:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">VS 1A</td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    04:20:00
+                                  </td>
+                                  <td>
+                                    04:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
