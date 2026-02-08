@@ -656,7 +656,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Nagendra Midde</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -671,9 +671,103 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 7 ON CC 34 </td>
+                                  <td class="text-wrap" rowspan="1">SLEW RETURN FILTER FULL INDICATION NOT COMING </td>
+                                  <td class="text-wrap" rowspan="1">BY PASSED AS PER MECH REQUEST</td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    23:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 3 ON CC 37 LT</td>
+                                  <td class="text-wrap" rowspan="1">DRIVE TRIPPED </td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    00:20:00
+                                  </td>
+                                  <td>
+                                    00:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">S3 ON CC 33 SLEW</td>
+                                  <td class="text-wrap" rowspan="1">30 DEGREE RIGHT LIMIT SWITCH  PROBLEM</td>
+                                  <td class="text-wrap" rowspan="1">BYPASSED</td>
+                                  <td>
+                                    05:00:00
+                                  </td>
+                                  <td>
+                                    05:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">BRC ON OC 18A LT</td>
+                                  <td class="text-wrap" rowspan="1">M3 TRIPPED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    00:20:00
+                                  </td>
+                                  <td>
+                                    00:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 33 M </td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    02:00:00
+                                  </td>
+                                  <td>
+                                    02:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP10 </td>
+                                  <td class="text-wrap" rowspan="1">OVER TRAVELED AND HIT OT5  DUE TO WAGON LOAD GRAVITY WHILE OVERSHOOTING OF WAGONS</td>
+                                  <td class="text-wrap" rowspan="1">BOTH PUSHER AND TIPPLER DAMAGED</td>
+                                  <td>
+                                    04:15:00
+                                  </td>
+                                  <td>
+                                    06:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
