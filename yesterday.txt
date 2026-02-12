@@ -33,12 +33,58 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>om 10 to om-24 control supply</td>
+                                    <td>cable for io rack control supply is traced, checked and charged. to be connected at om24 io rack.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-3b;  co-66,69 </td>
+                                    <td>motor and panel side ppm is done.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-8 pullchord</td>
+                                    <td>checked and kept in circuit.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-3a</td>
+                                    <td>spare core from brs point to io rack is identified for mechanical brs and is brought to io,, to be programmed in circuit.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-12a h/e hoist </td>
+                                    <td>ppm is done</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-10a,rco-6a,rsco-1a, vf-1a,2a, bf-3a,4a,5a ; rsco-2a,rbf-1a,2a,3a</td>
+                                    <td>motor side ppm is done</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-11a gallery</td>
+                                    <td>lighting and sockets supply separation is under process.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>rsco-1a spare motor</td>
+                                    <td>received from ers at lc7</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : P Venkat Kiran</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -755,9 +801,135 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO 33M</td>
+                                  <td class="text-wrap" rowspan="1">LT not working,PCRD OT acted</td>
+                                  <td class="text-wrap" rowspan="1">OT released</td>
+                                  <td>
+                                    01:30:00
+                                  </td>
+                                  <td>
+                                    01:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 67</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    02:15:00
+                                  </td>
+                                  <td>
+                                    02:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO 31</td>
+                                  <td class="text-wrap" rowspan="1">B/C not running, E Stop acted</td>
+                                  <td class="text-wrap" rowspan="1">EStop released</td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    23:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 39 SCR 6</td>
+                                  <td class="text-wrap" rowspan="1">LT not working,M2 mpcb tripped</td>
+                                  <td class="text-wrap" rowspan="1">made it on</td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    23:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc 39 scr6</td>
+                                  <td class="text-wrap" rowspan="1">LT not working,M3 mpcb tripped</td>
+                                  <td class="text-wrap" rowspan="1">made it on</td>
+                                  <td>
+                                    03:10:00
+                                  </td>
+                                  <td>
+                                    03:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 43</td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    01:00:00
+                                  </td>
+                                  <td>
+                                    01:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">mpd acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    00:38:00
+                                  </td>
+                                  <td>
+                                    00:44:00
+                                  </td>
+                                  <td rowspan="1">4 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 54</td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    23:00:00
+                                  </td>
+                                  <td>
+                                    23:05:00
+                                  </td>
+                                  <td rowspan="1">4 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
