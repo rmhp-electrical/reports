@@ -33,12 +33,43 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>locp-2 crusher auxillaries</td>
+                                    <td>solenoid plugs cleaning was done and replaced worn out ones.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-5</td>
+                                    <td>motor and panel side ppm is done.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>Crusher-2</td>
+                                    <td>Ht fuse replaced in cr-2 panel and 2 spares kept at lc-7</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>IO-7 </td>
+                                    <td>HT io panel maintenance is done.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>tbs-3 on co-20</td>
+                                    <td>Right Boom mccb is replaced, trail run is taken.</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : P Venkat Kiran</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -190,7 +221,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Nagendra Midde</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +236,135 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 106 FG</td>
+                                  <td class="text-wrap" rowspan="1">FG POSITION LOGIC IS NOT OK</td>
+                                  <td class="text-wrap" rowspan="1">F/G POSITION BITS REMOVED FROM IO RACK AND SELECTION TAKEN FROM CCR HMI AND TESTED LOGIC.</td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td>
+                                    09:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 8 ON CC 112 </td>
+                                  <td class="text-wrap" rowspan="1">BOOM POSITION </td>
+                                  <td class="text-wrap" rowspan="1">BYPASSED FOR REC PURPOSE</td>
+                                  <td>
+                                    07:10:00
+                                  </td>
+                                  <td>
+                                    07:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">LC 5</td>
+                                  <td class="text-wrap" rowspan="1"> INCOMER 2 TRIPPED </td>
+                                  <td class="text-wrap" rowspan="1">MADE IT ON </td>
+                                  <td>
+                                    11:10:00
+                                  </td>
+                                  <td>
+                                    11:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">CO 2 CD </td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    13:25:00
+                                  </td>
+                                  <td>
+                                    13:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 102 T/T </td>
+                                  <td class="text-wrap" rowspan="1">CHUTE SENSOR RETURN PROBLEM </td>
+                                  <td class="text-wrap" rowspan="1">BYPASSED</td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td>
+                                    08:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">FEEDING CONV OLR ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td>
+                                    11:00:00
+                                  </td>
+                                  <td rowspan="1">5 TIMES</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">RG1</td>
+                                  <td class="text-wrap" rowspan="1">TRIP</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    10:10:00
+                                  </td>
+                                  <td>
+                                    10:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">RG2 F/G</td>
+                                  <td class="text-wrap" rowspan="1">OLR ACTED</td>
+                                  <td class="text-wrap" rowspan="1">RESET</td>
+                                  <td>
+                                    11:00:00
+                                  </td>
+                                  <td>
+                                    11:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
@@ -227,7 +384,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -264,7 +421,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : P Venkat Kiran</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
