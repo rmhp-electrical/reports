@@ -664,7 +664,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : Nagendra Midde</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -679,9 +679,135 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS on CO 22</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place,drive tripped in OL</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    22:20:00
+                                  </td>
+                                  <td>
+                                    22:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 34 </td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset </td>
+                                  <td>
+                                    23:20:00
+                                  </td>
+                                  <td>
+                                    23:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">wobr on co 29</td>
+                                  <td class="text-wrap" rowspan="1">yard running indication not coming,zss is in folded</td>
+                                  <td class="text-wrap" rowspan="1">zss setback on yard conveyor</td>
+                                  <td>
+                                    02:55:00
+                                  </td>
+                                  <td>
+                                    03:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 31 scr 1</td>
+                                  <td class="text-wrap" rowspan="1">LUFF not working,up limit acted</td>
+                                  <td class="text-wrap" rowspan="1">released</td>
+                                  <td>
+                                    22:40:00
+                                  </td>
+                                  <td>
+                                    22:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 39 SCR7</td>
+                                  <td class="text-wrap" rowspan="1">LT not working,PCRD OT acted</td>
+                                  <td class="text-wrap" rowspan="1">OT released</td>
+                                  <td>
+                                    01:10:00
+                                  </td>
+                                  <td>
+                                    01:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51</td>
+                                  <td class="text-wrap" rowspan="1">mpd tripped</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    00:00:00
+                                  </td>
+                                  <td>
+                                    00:05:00
+                                  </td>
+                                  <td rowspan="1">6 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    04:40:00
+                                  </td>
+                                  <td>
+                                    04:45:00
+                                  </td>
+                                  <td rowspan="1">2 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT 5</td>
+                                  <td class="text-wrap" rowspan="1">not rotating,VFD drive cmd not coming from operator cabin core problem</td>
+                                  <td class="text-wrap" rowspan="1">2 nos of 110 v relay installed in vfd panel for fwd and rev , two no of spare 24v DC relay used for FWD and REV cmd,3 core cable laid temporary from plc panel to vfd panel </td>
+                                  <td>
+                                    22:00:00
+                                  </td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
