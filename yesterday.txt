@@ -889,9 +889,87 @@ wobr motor and panel side ppm is done.</td>
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">RBF3A</td>
+                                  <td class="text-wrap" rowspan="1">not healthy,control mcb tripped due to e/f ,ZSS and bs core having e/f </td>
+                                  <td class="text-wrap" rowspan="1">x-17,x-18 having e/f removed from TB and bypassed in I/o rack</td>
+                                  <td>
+                                    00:30:00
+                                  </td>
+                                  <td>
+                                    00:55:00
+                                  </td>
+                                  <td rowspan="1">b/s cable proper taping done ,x-17,x-18  kept back inTB ,bypassed removed</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO 30</td>
+                                  <td class="text-wrap" rowspan="1">CT not moving,B/W2 olr acted,guide roller damaged</td>
+                                  <td class="text-wrap" rowspan="1">reset,informed mechanical</td>
+                                  <td>
+                                    03:05:00
+                                  </td>
+                                  <td>
+                                    03:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 32 SCR4</td>
+                                  <td class="text-wrap" rowspan="1">LT not working found drive tripped</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    23:10:00
+                                  </td>
+                                  <td>
+                                    23:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 35 R1</td>
+                                  <td class="text-wrap" rowspan="1">signal missing</td>
+                                  <td class="text-wrap" rowspan="1">LT done,interlock cage checked,modem power recycled done</td>
+                                  <td>
+                                    04:35:00
+                                  </td>
+                                  <td>
+                                    05:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 </td>
+                                  <td class="text-wrap" rowspan="1">mpd acted 7 times</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    23:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
