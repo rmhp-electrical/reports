@@ -644,7 +644,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -659,9 +659,135 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CF-1</td>
+                                  <td class="text-wrap" rowspan="1">Reported not healthy</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found conveyor to be healthy but PLC first rack communication bus fault for both master and standby.Profibus connectors tightened and power recycled and found healthy and tested okay</td>
+                                  <td>
+                                    22:55:00
+                                  </td>
+                                  <td>
+                                    23:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">VF-10</td>
+                                  <td class="text-wrap" rowspan="1">Reported not healthy</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found MPCB tripped at panel near motor.Made on and tripping immediately on command.Motor checked and found bearing seized.</td>
+                                  <td>
+                                    00:00:00
+                                  </td>
+                                  <td>
+                                    00:30:00
+                                  </td>
+                                  <td rowspan="1">Motor to be replaced</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TT-1A on CO-3A</td>
+                                  <td class="text-wrap" rowspan="1">Reported LT not moving</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found MPCB tripped.Reset done and tested okay</td>
+                                  <td>
+                                    01:25:00
+                                  </td>
+                                  <td>
+                                    01:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-51</td>
+                                  <td class="text-wrap" rowspan="1">MPD tripped</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    02:40:00
+                                  </td>
+                                  <td>
+                                    05:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-33 SCR-5 and CC-40 SCR-2</td>
+                                  <td class="text-wrap" rowspan="1">Reported B/C not running in Reclaiming nor in Stacking mode</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found Modem-1 in CCR not communicating.Power cable problem joint problem.Rectified</td>
+                                  <td>
+                                    23:09:00
+                                  </td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-8A</td>
+                                  <td class="text-wrap" rowspan="1">Reported PC not healthy</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found PC acted.Reset done </td>
+                                  <td>
+                                    00:10:00
+                                  </td>
+                                  <td>
+                                    00:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR on CO-6A</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place</td>
+                                  <td class="text-wrap" rowspan="1">Drive tripped Ground short circuit fault.M5 motor removed and tested okay</td>
+                                  <td>
+                                    22:40:00
+                                  </td>
+                                  <td>
+                                    23:00:00
+                                  </td>
+                                  <td rowspan="1">M-5 motor to be checked</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-21</td>
+                                  <td class="text-wrap" rowspan="1">Reported BRS not healthy</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found new BRS probe plate got broken.NEW BRS bypassed.Electronic BRS in line</td>
+                                  <td>
+                                    02:29:00
+                                  </td>
+                                  <td>
+                                    02:39:00
+                                  </td>
+                                  <td rowspan="1">Probe plate to be wielded</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
