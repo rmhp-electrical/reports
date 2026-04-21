@@ -190,7 +190,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : G Eswara Rao</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +205,121 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">CO 26</td>
+                                  <td class="text-wrap" rowspan="2">TRIPPED ON OLR</td>
+                                  <td class="text-wrap" rowspan="2">RESET DONE</td>
+                                  <td>
+                                    06:05:00
+                                  </td>
+                                  <td>
+                                    06:10:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       12:20:00
+                                    </td>
+                                    <td>
+                                       12:30:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">CO 3</td>
+                                  <td class="text-wrap" rowspan="1">C/S ACTING DUE TO MODULE PROBLEM</td>
+                                  <td class="text-wrap" rowspan="1">BYPASSED FOR OPE.REQUIREMENT</td>
+                                  <td>
+                                    13:00:00
+                                  </td>
+                                  <td>
+                                    13:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT 3</td>
+                                  <td class="text-wrap" rowspan="1">D2 TRIPPED ON CODE 7</td>
+                                  <td class="text-wrap" rowspan="1">  SATURATION RESET DONE</td>
+                                  <td>
+                                    12:50:00
+                                  </td>
+                                  <td>
+                                    12:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">SCR 7 ON CC39</td>
+                                  <td class="text-wrap" rowspan="2">LT NOT TAKING PLACE/DRIVE TRIPPED ON OLR </td>
+                                  <td class="text-wrap" rowspan="2">RESET DONE 3TIMES</td>
+                                  <td>
+                                    09:15:00
+                                  </td>
+                                  <td>
+                                    13:30:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       13:20:00
+                                    </td>
+                                    <td>
+                                       13:30:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 3  ON   CC 37</td>
+                                  <td class="text-wrap" rowspan="1">BC NOT RUNNING/OLR ACTED IN MPD</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    09:20:00
+                                  </td>
+                                  <td>
+                                    09:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">S2 ON CC40</td>
+                                  <td class="text-wrap" rowspan="1">LT NOT TAKING PLACE/PCRD CABLE WINDING UNEVEN DUE TO GUIDE PROBLEM</td>
+                                  <td class="text-wrap" rowspan="1">CABLE WINDING DONE THEN OK</td>
+                                  <td>
+                                    11:20:00
+                                  </td>
+                                  <td>
+                                    12:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
