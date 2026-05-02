@@ -33,12 +33,23 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>AF-8</td>
+                                    <td>checking is under progress.</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : P Venkat Kiran</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -145,12 +156,45 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>PAC </td>
+                                    <td>Clearance for satel modem taken from CME-HOD(PAC - member)</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>PR</td>
+                                    <td>PR for yardtransformers documents sorted, approval taken from Sec Ic, given documents in HOD office</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>Network spares</td>
+                                    <td>Items inspected at stores,sorted and approval given</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>AtmaNirbhar</td>
+                                    <td>AtmaNirbhar bharath procurement details given to HOD
+</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>ELP</td>
+                                    <td>Details regarding last local purchae of mechnical items given to Sec Ic
+</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : sagar</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -190,7 +234,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +249,119 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 26</td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    06:45:00
+                                  </td>
+                                  <td>
+                                    06:55:00
+                                  </td>
+                                  <td rowspan="1">3 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 32 SCR4</td>
+                                  <td class="text-wrap" rowspan="1">slew not working</td>
+                                  <td class="text-wrap" rowspan="1">fault reset done in operator cabin</td>
+                                  <td>
+                                    07:15:00
+                                  </td>
+                                  <td>
+                                    07:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 40 SCR 6</td>
+                                  <td class="text-wrap" rowspan="1">LT not working,pcrd cable fallen,OT acted</td>
+                                  <td class="text-wrap" rowspan="1">cable rewinding</td>
+                                  <td>
+                                    08:55:00
+                                  </td>
+                                  <td>
+                                    10:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 125 </td>
+                                  <td class="text-wrap" rowspan="1">mpd acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    12:25:00
+                                  </td>
+                                  <td>
+                                    12:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 9</td>
+                                  <td class="text-wrap" rowspan="1">healthy stop,</td>
+                                  <td class="text-wrap" rowspan="1">run in local than kept in PLC than ok</td>
+                                  <td>
+                                    06:45:00
+                                  </td>
+                                  <td>
+                                    06:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 22</td>
+                                  <td class="text-wrap" rowspan="1">red,PB stucked</td>
+                                  <td class="text-wrap" rowspan="1">PB released</td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td>
+                                    09:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on Co 8A</td>
+                                  <td class="text-wrap" rowspan="1">CT not working,chain problem</td>
+                                  <td class="text-wrap" rowspan="1">informed mechanical</td>
+                                  <td>
+                                    09:05:00
+                                  </td>
+                                  <td>
+                                    09:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
