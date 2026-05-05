@@ -33,12 +33,28 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>vf-8a,9a,10a ; co-15a,41a, vf-15a,16a,42a,43a</td>
+                                    <td>motor and panel side ppm is done.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>brc-1 on co-28</td>
+                                    <td>bridge conveyor zss arrangement is being done.</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : P Venkat Kiran</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -190,7 +206,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : G Eswara Rao</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +221,176 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC ON CO 8A</td>
+                                  <td class="text-wrap" rowspan="1">LT NOT TAKING PLACE/DRIVE TRIPPED ON OLR</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    08:45:00
+                                  </td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 29</td>
+                                  <td class="text-wrap" rowspan="1">TRIPPED ON OLR</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td>
+                                    09:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 19</td>
+                                  <td class="text-wrap" rowspan="1">TRIPPED ON OLR </td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE 2 TIMES</td>
+                                  <td>
+                                    11:00:00
+                                  </td>
+                                  <td>
+                                    11:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">CC 51</td>
+                                  <td class="text-wrap" rowspan="2">MPD TRIPPED ON OLR /3TIMES</td>
+                                  <td class="text-wrap" rowspan="2">RESET DONE</td>
+                                  <td>
+                                    08:50:00
+                                  </td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       10:08:00
+                                    </td>
+                                    <td>
+                                       10:15:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC131</td>
+                                  <td class="text-wrap" rowspan="1">TRIPPED ON OLR </td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    09:10:00
+                                  </td>
+                                  <td>
+                                    09:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 52</td>
+                                  <td class="text-wrap" rowspan="1">MPD TRIPPED ON OLR</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    08:30:00
+                                  </td>
+                                  <td>
+                                    08:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 7 ON CC39</td>
+                                  <td class="text-wrap" rowspan="1">BC NOT RUNNING/30 DEGREE LIMIT ACTED</td>
+                                  <td class="text-wrap" rowspan="1">LIMIT RELEASED</td>
+                                  <td>
+                                    06:40:00
+                                  </td>
+                                  <td>
+                                    06:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 7 CC 39</td>
+                                  <td class="text-wrap" rowspan="1">LT NOT TAKING PLACE</td>
+                                  <td class="text-wrap" rowspan="1">DRIVE TRIPPED ON OLR</td>
+                                  <td>
+                                    06:09:00
+                                  </td>
+                                  <td>
+                                    10:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 1 ON CC 31</td>
+                                  <td class="text-wrap" rowspan="1">BC NOT RUNNING /30 DEGREE LIMIT ACTED DUE TO MATERIAL</td>
+                                  <td class="text-wrap" rowspan="1">LIMIT RELEASED11</td>
+                                  <td>
+                                    11:15:00
+                                  </td>
+                                  <td>
+                                    11:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 125 </td>
+                                  <td class="text-wrap" rowspan="1">TRIPPED ON OLR</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    12:15:00
+                                  </td>
+                                  <td>
+                                    12:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
@@ -264,7 +447,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : G Eswara Rao</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
