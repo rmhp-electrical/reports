@@ -523,7 +523,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : M Kailash</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -538,9 +538,169 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-31</td>
+                                  <td class="text-wrap" rowspan="1">UNHEALTHY</td>
+                                  <td class="text-wrap" rowspan="1">found MPR tripped. Reset done</td>
+                                  <td>
+                                    14:55:00
+                                  </td>
+                                  <td>
+                                    15:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-58 TT </td>
+                                  <td class="text-wrap" rowspan="1">position bit missing in PLC.</td>
+                                  <td class="text-wrap" rowspan="1">Bypassed in I/O rack and checked. Cable to be checked for any damage.</td>
+                                  <td>
+                                    19:35:00
+                                  </td>
+                                  <td>
+                                    20:00:00
+                                  </td>
+                                  <td rowspan="1">Kept in Bypass</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-52</td>
+                                  <td class="text-wrap" rowspan="1">unhealthy. MPR tripped on overload</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    17:50:00
+                                  </td>
+                                  <td>
+                                    17:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">IOSA</td>
+                                  <td rowspan="2">OC-14A</td>
+                                  <td class="text-wrap" rowspan="2">Unhealthy. Found in Alarms, Pullcord Right -Rear acted. </td>
+                                  <td class="text-wrap" rowspan="2">Bypassed hardware contact and software contact. After Rake completion, bypass removed. Found loose contact in one pullcord.</td>
+                                  <td>
+                                    14:05:00
+                                  </td>
+                                  <td>
+                                    15:05:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       15:20:00
+                                    </td>
+                                    <td>
+                                       15:35:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-29</td>
+                                  <td class="text-wrap" rowspan="1">reported red. OLR acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    14:30:00
+                                  </td>
+                                  <td>
+                                    14:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO-8A</td>
+                                  <td class="text-wrap" rowspan="1">Reported B/W not running.</td>
+                                  <td class="text-wrap" rowspan="1">Found oil leaking. Informed to Mechanical</td>
+                                  <td>
+                                    14:45:00
+                                  </td>
+                                  <td>
+                                    15:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">CO-26</td>
+                                  <td class="text-wrap" rowspan="2">Reported red. OLR acted</td>
+                                  <td class="text-wrap" rowspan="2">Reset done</td>
+                                  <td>
+                                    18:05:00
+                                  </td>
+                                  <td>
+                                    18:10:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       21:00:00
+                                    </td>
+                                    <td>
+                                       21:15:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-28</td>
+                                  <td class="text-wrap" rowspan="1">Unhealthy. OLR acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    15:05:00
+                                  </td>
+                                  <td>
+                                    15:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-8</td>
+                                  <td class="text-wrap" rowspan="1">ZSS acted</td>
+                                  <td class="text-wrap" rowspan="1">Found ZSS cage stuck due to stone. Cage made free</td>
+                                  <td>
+                                    15:25:00
+                                  </td>
+                                  <td>
+                                    15:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
