@@ -530,7 +530,7 @@ Oil leak is observed at the same place where metal putty was applied previously.
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -545,9 +545,55 @@ Oil leak is observed at the same place where metal putty was applied previously.
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">ALL CONVEYOR RED</td>
+                                  <td class="text-wrap" rowspan="1">PLC COMMUNICATION PROBLEM</td>
+                                  <td class="text-wrap" rowspan="1">POWERR ECYCLE IN  LC AND OMS</td>
+                                  <td>
+                                    23:33:00
+                                  </td>
+                                  <td>
+                                    23:59:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBSD on co 21</td>
+                                  <td class="text-wrap" rowspan="1">LT ,b/c and slew not working,olr acted and heavily jamming,,, communication problem</td>
+                                  <td class="text-wrap" rowspan="1">olr reset,mcb phase wire tightened for RTU supply</td>
+                                  <td>
+                                    00:00:00
+                                  </td>
+                                  <td>
+                                    00:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51</td>
+                                  <td class="text-wrap" rowspan="1">mpd acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    23:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
