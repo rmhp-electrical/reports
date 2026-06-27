@@ -611,9 +611,105 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-105 SCR-10</td>
+                                  <td class="text-wrap" rowspan="1">BC NOT WORKING </td>
+                                  <td class="text-wrap" rowspan="1">SIGNAL MISSING ... LT DONE THEN OK </td>
+                                  <td>
+                                    04:15:00
+                                  </td>
+                                  <td>
+                                    04:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-52 TIS</td>
+                                  <td class="text-wrap" rowspan="1">MPCB TRIPPED </td>
+                                  <td class="text-wrap" rowspan="1">MADE ON </td>
+                                  <td>
+                                    23:05:00
+                                  </td>
+                                  <td>
+                                    23:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT-3</td>
+                                  <td class="text-wrap" rowspan="1">TRIPPED ON 7 SATURATION FAULT 3 TIMES </td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE </td>
+                                  <td>
+                                    05:20:00
+                                  </td>
+                                  <td>
+                                    05:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="3">OHP</td>
+                                  <td rowspan="3">BRC ON CO-32</td>
+                                  <td class="text-wrap" rowspan="3">SKEW LIMIT ACTING </td>
+                                  <td class="text-wrap" rowspan="3">INFORMED OPERATION </td>
+                                  <td>
+                                    02:10:00
+                                  </td>
+                                  <td>
+                                    02:30:00
+                                  </td>
+                                  <td rowspan="3"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       22:35:00
+                                    </td>
+                                    <td>
+                                       22:55:00
+                                    </td>
+                                  </tr>
+                              
+                                  <tr>
+                                    <td>
+                                       23:25:00
+                                    </td>
+                                    <td>
+                                       23:45:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-29</td>
+                                  <td class="text-wrap" rowspan="1">STOPPING ON ZSS </td>
+                                  <td class="text-wrap" rowspan="1">MECH PROBLEM </td>
+                                  <td>
+                                    01:06:00
+                                  </td>
+                                  <td>
+                                    01:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
