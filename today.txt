@@ -89,12 +89,43 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>OT 5</td>
+                                    <td>Limit switch LS 4 checked found ok</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CP 3</td>
+                                    <td>Lighting connection done </td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>OP 3</td>
+                                    <td>Trolly line inspection done</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>OP 2</td>
+                                    <td>D2 motor shifted,placed on the bed and testing done</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>OP 2</td>
+                                    <td>D5 motor removed for gear box repair job</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : T V Ramana</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -321,7 +352,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : P Venkat Kiran,P Venkat Kiran</u></i></b>
+                            <b><i><u>Incharge(s) : DVSS Phani Kumar,D K Verma</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -336,9 +367,55 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-26</td>
+                                  <td class="text-wrap" rowspan="1">TRIPPED ON OVERLOAD</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    18:00:00
+                                  </td>
+                                  <td>
+                                    18:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-32</td>
+                                  <td class="text-wrap" rowspan="1">CONVEYOR TRIPPED ON MDP</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    15:00:00
+                                  </td>
+                                  <td>
+                                    15:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">YARD MACHINES </td>
+                                  <td class="text-wrap" rowspan="1">COMMUNICATION FAILED DUE TO RADIO MODEM-2 FAILURE.</td>
+                                  <td class="text-wrap" rowspan="1"> MODEM  REPLACED. CONFIGURATION AND COMMUNICATION ESTABLISHMENT IS IN PROGRESS.</td>
+                                  <td>
+                                    18:00:00
+                                  </td>
+                                  <td>
+                                    22:00:00
+                                  </td>
+                                  <td rowspan="1">IN PROGRESS.</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
