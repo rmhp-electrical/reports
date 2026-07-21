@@ -205,9 +205,80 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">CO 26</td>
+                                  <td class="text-wrap" rowspan="2">TRIPPED ON OLR</td>
+                                  <td class="text-wrap" rowspan="2">RESET DONE</td>
+                                  <td>
+                                    07:35:00
+                                  </td>
+                                  <td>
+                                    07:45:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       10:35:00
+                                    </td>
+                                    <td>
+                                       10:40:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TT 2  ON CO 15</td>
+                                  <td class="text-wrap" rowspan="1">LT NOT TAKING PLACE/MPCB OUTGOING B PHASE   GOT  LOOSE</td>
+                                  <td class="text-wrap" rowspan="1">B PHASE WIRE TIGHTEND THEN OK</td>
+                                  <td>
+                                    07:30:00
+                                  </td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT 3</td>
+                                  <td class="text-wrap" rowspan="1">     F/ R NOT TAKING PLACE/ DRIVE 2 TRIPPED ON EN CODER FAULT -43</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    11:10:00
+                                  </td>
+                                  <td>
+                                    11:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR 3 ON CC37</td>
+                                  <td class="text-wrap" rowspan="1">DRIVE TRIPPED ON OLR</td>
+                                  <td class="text-wrap" rowspan="1">RESET DONE</td>
+                                  <td>
+                                    07:25:00
+                                  </td>
+                                  <td>
+                                    07:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
