@@ -617,7 +617,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : M Kailash</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -632,9 +632,71 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS ON CO-7A</td>
+                                  <td class="text-wrap" rowspan="1">No Drives running. ACB found tripped</td>
+                                  <td class="text-wrap" rowspan="1">Made on and tested OK</td>
+                                  <td>
+                                    22:15:00
+                                  </td>
+                                  <td>
+                                    22:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">OC-2A</td>
+                                  <td class="text-wrap" rowspan="1">Chute sensor malfunctioning. Checked Electrical side OK.</td>
+                                  <td class="text-wrap" rowspan="1">Informed to instrumentation. Sensor side adjustment done</td>
+                                  <td>
+                                    02:40:00
+                                  </td>
+                                  <td>
+                                    03:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC ON CO-31</td>
+                                  <td class="text-wrap" rowspan="1">Lt not taking place. Found Drive tripped on SC fault. M1 MPCB burnt.</td>
+                                  <td class="text-wrap" rowspan="1">M1 Motor circuit isolated and given clearance</td>
+                                  <td>
+                                    00:55:00
+                                  </td>
+                                  <td>
+                                    02:00:00
+                                  </td>
+                                  <td rowspan="1">Motor to be checked and MPCB to be changed. 16 to 32A</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-26</td>
+                                  <td class="text-wrap" rowspan="1">Tripped on overload</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    04:30:00
+                                  </td>
+                                  <td>
+                                    04:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
