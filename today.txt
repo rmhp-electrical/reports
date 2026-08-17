@@ -417,7 +417,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -432,9 +432,112 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">CC-52</td>
+                                  <td class="text-wrap" rowspan="2">MPD tripped</td>
+                                  <td class="text-wrap" rowspan="2">Reset done(2 times)</td>
+                                  <td>
+                                    15:55:00
+                                  </td>
+                                  <td>
+                                    16:00:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       21:30:00
+                                    </td>
+                                    <td>
+                                       21:35:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR-1 on CC-31</td>
+                                  <td class="text-wrap" rowspan="1">Signal missing</td>
+                                  <td class="text-wrap" rowspan="1">LT done and tested okay</td>
+                                  <td>
+                                    20:10:00
+                                  </td>
+                                  <td>
+                                    20:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR on CO-26</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place</td>
+                                  <td class="text-wrap" rowspan="1">PCRD tension acted.Cable winded in drum and again tied with rope</td>
+                                  <td>
+                                    14:30:00
+                                  </td>
+                                  <td>
+                                    14:45:00
+                                  </td>
+                                  <td rowspan="1">Mechanical gearbox problem</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-25</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    15:00:00
+                                  </td>
+                                  <td>
+                                    15:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO-30</td>
+                                  <td class="text-wrap" rowspan="1">LT not working</td>
+                                  <td class="text-wrap" rowspan="1">PCRD tension acted.Released and tested okay</td>
+                                  <td>
+                                    18:45:00
+                                  </td>
+                                  <td>
+                                    18:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-6A</td>
+                                  <td class="text-wrap" rowspan="1">BRS malfunctioning</td>
+                                  <td class="text-wrap" rowspan="1">Electronic BRS sensor cable found damaged.Electronic BRS bypassed.Mechanical JOD in line</td>
+                                  <td>
+                                    19:50:00
+                                  </td>
+                                  <td>
+                                    20:10:00
+                                  </td>
+                                  <td rowspan="1">Electronic BRS to be kept in line</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
