@@ -371,9 +371,103 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">CP1,2,3,4</td>
+                                  <td class="text-wrap" rowspan="1">no communication,wireless modem @CT bridge fallen  and  in LC10A modem to PLC no communication </td>
+                                  <td class="text-wrap" rowspan="1">modem replaced in near bridge an configuration done,than in LC 10 Aethernet cable cleaned POE to MODEM and PLC Ethernet cable unplugged and plugged</td>
+                                  <td>
+                                    15:15:00
+                                  </td>
+                                  <td>
+                                    16:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 16 A</td>
+                                  <td class="text-wrap" rowspan="1">CS acted </td>
+                                  <td class="text-wrap" rowspan="1">CS cleaned</td>
+                                  <td>
+                                    15:50:00
+                                  </td>
+                                  <td>
+                                    16:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CR 2</td>
+                                  <td class="text-wrap" rowspan="1">not healthy,oil flow not ok and  Estop acted</td>
+                                  <td class="text-wrap" rowspan="1">reset,Estop released</td>
+                                  <td>
+                                    20:15:00
+                                  </td>
+                                  <td>
+                                    20:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 37 SCR3</td>
+                                  <td class="text-wrap" rowspan="1">B/C stopped in ZSS,probe cable old joint opened</td>
+                                  <td class="text-wrap" rowspan="1">cable jointed</td>
+                                  <td>
+                                    20:00:00
+                                  </td>
+                                  <td>
+                                    20:12:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR on co 26</td>
+                                  <td class="text-wrap" rowspan="1">slew not working,M1olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    16:45:00
+                                  </td>
+                                  <td>
+                                    16:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">brc on co8A</td>
+                                  <td class="text-wrap" rowspan="1">all drive not healthy,acb is in off</td>
+                                  <td class="text-wrap" rowspan="1">made it on</td>
+                                  <td>
+                                    16:25:00
+                                  </td>
+                                  <td>
+                                    16:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
