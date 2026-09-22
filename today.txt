@@ -35,7 +35,27 @@
                               
                                 
                                   <tr>
-                                    <td>co-16a,16b,17a,17b hoists</td>
+                                    <td>co-11a brs</td>
+                                    <td>checked no problem found, electronic brs may be acting due to holes. </td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-7 and co-1a middle</td>
+                                    <td>tunnel area lighting is improved</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-8a to co-6a space heaters</td>
+                                    <td>checking is done.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>1-14lc4,lc8 ; om-12 ; co-5 tunnel wall side; lc3,lc-5</td>
+                                    <td>de-watering is done. om-12 peripheral area water logging to be cleared.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-16a,16b,17a,17b ; co-14a,14b hoists</td>
                                     <td>ppm is done</td>
                                   </tr>
                                 
@@ -45,12 +65,12 @@
                                   </tr>
                                 
                                   <tr>
-                                    <td>co-36,37,47,48</td>
+                                    <td>co-36,37,47,48 ; co-78,82,83,85,86,87,35 ; vf-26,27</td>
                                     <td>motor and panel side ppm is done</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>RSCO-10A Belt drive panel outgoing 	</td>
+                                    <td>RSCO-10A Belt drive panel outgoing R phase</td>
                                     <td>Running inspection defect observed and tightening was done.</td>
                                   </tr>
                                 
@@ -61,7 +81,7 @@
                                 
                                   <tr>
                                     <td>brc-1 on co-30</td>
-                                    <td>BC direction changed, ZSS interlock cages and CJD swapped, to enable feeding towards co-31 ; on operational requirement.</td>
+                                    <td>BC direction changed, ZSS interlock cages and CJD swapped, to enable feeding towards co-31 ; on operational requirement. PCRD proper layering is done.</td>
                                   </tr>
                                 
                               
@@ -97,12 +117,33 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>All yard </td>
+                                    <td>HT couplers heating elements inspected</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>All JHs,LCs</td>
+                                    <td>De watering pumps inspected</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>CC 44</td>
+                                    <td>PPM done</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : M Srinivas</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -439,7 +480,7 @@ b) material jamming near sensors, cleaned and restored BRS</td>
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -454,9 +495,135 @@ b) material jamming near sensors, cleaned and restored BRS</td>
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS on co 21</td>
+                                  <td class="text-wrap" rowspan="1">LT not working,M1mpcb  tripped</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    19:50:00
+                                  </td>
+                                  <td>
+                                    20:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">VF 15A</td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    21:10:00
+                                  </td>
+                                  <td>
+                                    21:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">rsco2A</td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    21:20:00
+                                  </td>
+                                  <td>
+                                    21:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">RSCo 6A</td>
+                                  <td class="text-wrap" rowspan="1">olr acted,jamming</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    21:00:00
+                                  </td>
+                                  <td>
+                                    21:10:00
+                                  </td>
+                                  <td rowspan="1">3 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">wobr on co 25</td>
+                                  <td class="text-wrap" rowspan="1">PCRD cable joint open and pulled </td>
+                                  <td class="text-wrap" rowspan="1">pending</td>
+                                  <td>
+                                    21:45:00
+                                  </td>
+                                  <td>
+                                    22:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 51 A</td>
+                                  <td class="text-wrap" rowspan="1">mpd tripped</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    19:20:00
+                                  </td>
+                                  <td>
+                                    19:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRc on Co 30</td>
+                                  <td class="text-wrap" rowspan="1">LT not working,s/s  in local</td>
+                                  <td class="text-wrap" rowspan="1">kept in remote</td>
+                                  <td>
+                                    21:40:00
+                                  </td>
+                                  <td>
+                                    21:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP1</td>
+                                  <td class="text-wrap" rowspan="1">not moving,emergency acted</td>
+                                  <td class="text-wrap" rowspan="1">emergency released</td>
+                                  <td>
+                                    21:05:00
+                                  </td>
+                                  <td>
+                                    21:20:00
+                                  </td>
+                                  <td rowspan="1">not electrical delay</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
