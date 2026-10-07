@@ -33,12 +33,29 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>All Yard stacking conveyors BSS</td>
+                                    <td>checked and restored in circuit.
+co-14b point main gate side switch is replaced.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>wbr-2 on co-29</td>
+                                    <td>pcrd motor is fixed in place and termination is done.</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : Amit Roy</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -190,7 +207,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : M Kailash</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +222,135 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-125</td>
+                                  <td class="text-wrap" rowspan="1">Tripped on overload</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td>
+                                    09:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-22</td>
+                                  <td class="text-wrap" rowspan="1">Tripped on overload due to jamming</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    11:20:00
+                                  </td>
+                                  <td>
+                                    11:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">WOBR ON OC-17A</td>
+                                  <td class="text-wrap" rowspan="1">LT drive tripping. Found track jamming and motors M-6,7 problem.</td>
+                                  <td class="text-wrap" rowspan="1">Motors isolated</td>
+                                  <td>
+                                    06:00:00
+                                  </td>
+                                  <td>
+                                    07:15:00
+                                  </td>
+                                  <td rowspan="1">Track jamming and no electrical problem</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-29</td>
+                                  <td class="text-wrap" rowspan="1">Pullcord unhealthy. Found CJB field fuse blown.</td>
+                                  <td class="text-wrap" rowspan="1">Bypassed in CJB</td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td>
+                                    09:15:00
+                                  </td>
+                                  <td rowspan="1">Informed to General shift</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-25</td>
+                                  <td class="text-wrap" rowspan="1">Overload acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    09:15:00
+                                  </td>
+                                  <td>
+                                    09:22:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-78</td>
+                                  <td class="text-wrap" rowspan="1">Pullcord unhealthy. </td>
+                                  <td class="text-wrap" rowspan="1">All pullcords acted and released. Then became healthy</td>
+                                  <td>
+                                    09:10:00
+                                  </td>
+                                  <td>
+                                    09:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC ON CO-32</td>
+                                  <td class="text-wrap" rowspan="1">LT not moving. PCRD tension acted</td>
+                                  <td class="text-wrap" rowspan="1">Released and made OK</td>
+                                  <td>
+                                    12:35:00
+                                  </td>
+                                  <td>
+                                    12:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on CO-8A</td>
+                                  <td class="text-wrap" rowspan="1">LT not working. Found M-1,3 tripped in drive 2 panel</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    10:05:00
+                                  </td>
+                                  <td>
+                                    10:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
