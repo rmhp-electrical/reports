@@ -35,38 +35,53 @@
                               
                                 
                                   <tr>
-                                    <td>af-8</td>
-                                    <td>checking under progress along with ETL</td>
+                                    <td>co-12a brs</td>
+                                    <td>suspecting module problem, replaced it and kept in circuit.</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>co-10a Mechanical BRS</td>
-                                    <td>Lever Arm was missing , provided a spare one and restored in operation.
-
-BSS is also checked and found working.</td>
+                                    <td>co-38a,38b hoists ; co-28,27a,30a,8a,db-1,37a,38a,38b LDB&#39;s PDB&#39;s ; 1-141lc3 Rio ;</td>
+                                    <td>ppm is done.</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>CR-1a </td>
-                                    <td>motor and panel side ppm is done; motor greasing is done.</td>
+                                    <td>co-43a to rsco-9a chute vibrator</td>
+                                    <td>panel installed at site. work in progress</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>co-20 BSS</td>
-                                    <td>1) Head End BSS switches replaced and restored in circuit. Bit is 149.2 at HVMCC-1 RIO.
-2) For co-20 at co-14b point main gate side switch is replaced.</td>
+                                    <td>cr-3a lubrication pump motor</td>
+                                    <td>termination damaged, proper termination is done and checked.</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>All Yard stacking conveyors BSS</td>
-                                    <td>checked and restored in circuit.
-1)co-24 main gate side bss switch handle is missing , switch to be replaced.
-2) co-22 chp side handle missing provided.</td>
+                                    <td>co-11a pullchord </td>
+                                    <td>cable got cut at snub pulley,work under progress</td>
                                   </tr>
                                 
                                   <tr>
-                                    <td>wobr-2 on co-29</td>
-                                    <td>pcrd motor is fixed in place and termination done.</td>
+                                    <td>WOBR-4 on co-6a</td>
+                                    <td>BC pullchord job is under progress; co-21 tail end lighting circuit rectified.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>af-8 ;</td>
+                                    <td>checking under progress along with ETL ; ground hopper lighting circuit rectification is done.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-5,8,11</td>
+                                    <td>motor and panel side ppm is done</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-20 head end BSS</td>
+                                    <td>Slotted base prepared and bss position adjusted and restored in circuit.</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>co-29 </td>
+                                    <td>pull chord fault isolated and restored in circuit.</td>
                                   </tr>
                                 
                               
@@ -132,23 +147,13 @@ BSS is also checked and found working.</td>
                               
                                 
                                   <tr>
-                                    <td>CP 3</td>
-                                    <td>PLC @ pusher ether net cable convertor to POE changed,OK </td>
-                                  </tr>
-                                
-                                  <tr>
-                                    <td>CP 1</td>
-                                    <td>Forward /Reverse indication @ cabin checked and program  correction done, OK</td>
-                                  </tr>
-                                
-                                  <tr>
-                                    <td>OP 3</td>
-                                    <td>Trolly line inspection done, found cable puncture  packing provided @ col 54</td>
-                                  </tr>
-                                
-                                  <tr>
                                     <td>OP 10</td>
-                                    <td>Control cable removal done</td>
+                                    <td>Control cable laying done and wiring is going on</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>OP 7  and  8</td>
+                                    <td>Trolly line inspection done</td>
                                   </tr>
                                 
                               
@@ -274,15 +279,40 @@ BSS is also checked and found working.</td>
                             
                               
                                 <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC-125</td>
-                                  <td class="text-wrap" rowspan="1">Tripped on overload</td>
-                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">CO-25</td>
+                                  <td class="text-wrap" rowspan="2">OLR acted</td>
+                                  <td class="text-wrap" rowspan="2">reset done</td>
                                   <td>
-                                    09:00:00
+                                    07:00:00
                                   </td>
                                   <td>
-                                    09:05:00
+                                    07:10:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       11:15:00
+                                    </td>
+                                    <td>
+                                       11:25:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-111</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted due to jamming</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    08:40:00
+                                  </td>
+                                  <td>
+                                    08:50:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -290,64 +320,32 @@ BSS is also checked and found working.</td>
                                 
                               
                                 <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC-22</td>
-                                  <td class="text-wrap" rowspan="1">Tripped on overload due to jamming</td>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR ON CO-29</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place. PCRD tension acted</td>
+                                  <td class="text-wrap" rowspan="1">Released and made OK</td>
+                                  <td>
+                                    10:35:00
+                                  </td>
+                                  <td>
+                                    10:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS on CO-7A</td>
+                                  <td class="text-wrap" rowspan="1">Luffing not working due to drive trip</td>
                                   <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    11:10:00
+                                  </td>
                                   <td>
                                     11:20:00
                                   </td>
-                                  <td>
-                                    11:30:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">IOSA</td>
-                                  <td rowspan="1">WOBR ON OC-17A</td>
-                                  <td class="text-wrap" rowspan="1">LT drive tripping. Found track jamming and motors M-6,7 problem.</td>
-                                  <td class="text-wrap" rowspan="1">Motors isolated</td>
-                                  <td>
-                                    06:00:00
-                                  </td>
-                                  <td>
-                                    07:15:00
-                                  </td>
-                                  <td rowspan="1">Track jamming and no electrical problem</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO-29</td>
-                                  <td class="text-wrap" rowspan="1">Pullcord unhealthy. Found CJB field fuse blown.</td>
-                                  <td class="text-wrap" rowspan="1">Bypassed in CJB</td>
-                                  <td>
-                                    09:00:00
-                                  </td>
-                                  <td>
-                                    09:15:00
-                                  </td>
-                                  <td rowspan="1">Informed to General shift</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO-25</td>
-                                  <td class="text-wrap" rowspan="1">Overload acted</td>
-                                  <td class="text-wrap" rowspan="1">Reset done</td>
-                                  <td>
-                                    09:15:00
-                                  </td>
-                                  <td>
-                                    09:22:00
-                                  </td>
                                   <td rowspan="1"></td>
                                 </tr>
                                 <!-- Code for items which have more than 1 timing  -->
@@ -355,48 +353,32 @@ BSS is also checked and found working.</td>
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO-78</td>
-                                  <td class="text-wrap" rowspan="1">Pullcord unhealthy. </td>
-                                  <td class="text-wrap" rowspan="1">All pullcords acted and released. Then became healthy</td>
+                                  <td rowspan="1">CO-11A</td>
+                                  <td class="text-wrap" rowspan="1">Pullcord not healthy. Checked and found cable damaged due to mechanical work</td>
+                                  <td class="text-wrap" rowspan="1">Bypassed and given clearance</td>
                                   <td>
-                                    09:10:00
+                                    10:30:00
                                   </td>
                                   <td>
-                                    09:35:00
+                                    11:00:00
                                   </td>
-                                  <td rowspan="1"></td>
+                                  <td rowspan="1">cable problem to be rectified</td>
                                 </tr>
                                 <!-- Code for items which have more than 1 timing  -->
                                 
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">BRC ON CO-32</td>
-                                  <td class="text-wrap" rowspan="1">LT not moving. PCRD tension acted</td>
-                                  <td class="text-wrap" rowspan="1">Released and made OK</td>
+                                  <td rowspan="1">CO-12A</td>
+                                  <td class="text-wrap" rowspan="1">BRS is not getting reset after acting. Reset pushbutton not working properly</td>
+                                  <td class="text-wrap" rowspan="1">Kept in bypass and Made reset. Kept under observation</td>
                                   <td>
-                                    12:35:00
+                                    12:40:00
                                   </td>
                                   <td>
-                                    12:45:00
+                                    13:10:00
                                   </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">BRC on CO-8A</td>
-                                  <td class="text-wrap" rowspan="1">LT not working. Found M-1,3 tripped in drive 2 panel</td>
-                                  <td class="text-wrap" rowspan="1">Reset done</td>
-                                  <td>
-                                    10:05:00
-                                  </td>
-                                  <td>
-                                    10:20:00
-                                  </td>
-                                  <td rowspan="1"></td>
+                                  <td rowspan="1">Module/ Reset pushbutton to be changed</td>
                                 </tr>
                                 <!-- Code for items which have more than 1 timing  -->
                                 
@@ -437,10 +419,42 @@ BSS is also checked and found working.</td>
                             
                               
                                 <tr>
-                                  <td rowspan="1">IOSA</td>
-                                  <td rowspan="1">WOBR(L and T)</td>
-                                  <td class="text-wrap" rowspan="1">mains not getting on,ACB is in off condition</td>
-                                  <td class="text-wrap" rowspan="1">ACB made on</td>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co 111(B)</td>
+                                  <td class="text-wrap" rowspan="1">mpcb tripped,material jamming</td>
+                                  <td class="text-wrap" rowspan="1">made on</td>
+                                  <td>
+                                    14:15:00
+                                  </td>
+                                  <td>
+                                    14:20:00
+                                  </td>
+                                  <td rowspan="1">2 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 48 </td>
+                                  <td class="text-wrap" rowspan="1">olr acted</td>
+                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td>
+                                    20:05:00
+                                  </td>
+                                  <td>
+                                    20:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">BRC on co 32</td>
+                                  <td class="text-wrap" rowspan="1">LT not working,Ot acted</td>
+                                  <td class="text-wrap" rowspan="1">OT released</td>
                                   <td>
                                     15:00:00
                                   </td>
@@ -454,30 +468,14 @@ BSS is also checked and found working.</td>
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">wobr on co 26</td>
-                                  <td class="text-wrap" rowspan="1">LT not working,M3 mpcb was tripped</td>
-                                  <td class="text-wrap" rowspan="1">made on</td>
+                                  <td rowspan="1">tbs 6 on CO7A</td>
+                                  <td class="text-wrap" rowspan="1">right Luff not working,down limit stucked</td>
+                                  <td class="text-wrap" rowspan="1">released</td>
                                   <td>
-                                    18:28:00
+                                    15:20:00
                                   </td>
                                   <td>
-                                    18:34:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">TBS on co 7A</td>
-                                  <td class="text-wrap" rowspan="1">reported LT not working,wire opened in selector switch</td>
-                                  <td class="text-wrap" rowspan="1">properly connected in Remote s/s</td>
-                                  <td>
-                                    16:25:00
-                                  </td>
-                                  <td>
-                                    16:35:00
+                                    15:40:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -486,14 +484,14 @@ BSS is also checked and found working.</td>
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">BRC on CO 32</td>
-                                  <td class="text-wrap" rowspan="1">LT not working,OT acted</td>
-                                  <td class="text-wrap" rowspan="1">Ot released</td>
+                                  <td rowspan="1">TBS on CO 20</td>
+                                  <td class="text-wrap" rowspan="1">LT brake not working</td>
+                                  <td class="text-wrap" rowspan="1">checked and found all ok brake got magnetized</td>
                                   <td>
-                                    17:50:00
+                                    19:25:00
                                   </td>
                                   <td>
-                                    18:10:00
+                                    19:40:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -502,14 +500,30 @@ BSS is also checked and found working.</td>
                               
                                 <tr>
                                   <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO 25 </td>
+                                  <td rowspan="1">brc on co 28</td>
+                                  <td class="text-wrap" rowspan="1">all drive not working,acb triped</td>
+                                  <td class="text-wrap" rowspan="1">made it on</td>
+                                  <td>
+                                    19:45:00
+                                  </td>
+                                  <td>
+                                    19:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO 26 </td>
                                   <td class="text-wrap" rowspan="1">OLR acted</td>
                                   <td class="text-wrap" rowspan="1">reset</td>
                                   <td>
-                                    19:10:00
+                                    17:10:00
                                   </td>
                                   <td>
-                                    19:20:00
+                                    17:20:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -517,15 +531,47 @@ BSS is also checked and found working.</td>
                                 
                               
                                 <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">TBs on Co 19</td>
-                                  <td class="text-wrap" rowspan="1">Lt not working,M4 mpcb tripped</td>
-                                  <td class="text-wrap" rowspan="1">reset</td>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 35 STK2 </td>
+                                  <td class="text-wrap" rowspan="1">LT not working,pcrd cable unwinded,gearbox problem</td>
+                                  <td class="text-wrap" rowspan="1">informed mech</td>
                                   <td>
-                                    19:20:00
+                                    14:50:00
                                   </td>
                                   <td>
-                                    19:35:00
+                                    15:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC 105 scr 10 </td>
+                                  <td class="text-wrap" rowspan="1">b/c not working,signal missing,coal jamming near yard interlock cage</td>
+                                  <td class="text-wrap" rowspan="1">yard zss interlock kept in ckt,informed operation for jamming</td>
+                                  <td>
+                                    18:35:00
+                                  </td>
+                                  <td>
+                                    18:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">RG1</td>
+                                  <td class="text-wrap" rowspan="1">tripped,gear box problem</td>
+                                  <td class="text-wrap" rowspan="1">mechanical work going on</td>
+                                  <td>
+                                    18:25:00
+                                  </td>
+                                  <td>
+                                    18:35:00
                                   </td>
                                   <td rowspan="1"></td>
                                 </tr>
@@ -551,7 +597,7 @@ BSS is also checked and found working.</td>
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
+                            <b><i><u>Incharge(s) : No Data</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -566,135 +612,9 @@ BSS is also checked and found working.</td>
                           </thead>
                           <tbody>
                             
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC-13</td>
-                                  <td class="text-wrap" rowspan="1">ZSS bypassed</td>
-                                  <td class="text-wrap" rowspan="1">Cage changed and kept in line</td>
-                                  <td>
-                                    22:00:00
-                                  </td>
-                                  <td>
-                                    22:30:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">CC-131</td>
-                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
-                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
-                                  <td>
-                                    22:25:00
-                                  </td>
-                                  <td>
-                                    22:30:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">SCR-8 on CC-106</td>
-                                  <td class="text-wrap" rowspan="1">B/C stopping </td>
-                                  <td class="text-wrap" rowspan="1">B/C discharge chute sensor acting.Jamming found</td>
-                                  <td>
-                                    23:40:00
-                                  </td>
-                                  <td>
-                                    23:55:00
-                                  </td>
-                                  <td rowspan="1">Informed to operation</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">CHP</td>
-                                  <td rowspan="1">SCR-7 on CC-40</td>
-                                  <td class="text-wrap" rowspan="1">B/C not running</td>
-                                  <td class="text-wrap" rowspan="1">MPD tripped.Reset done</td>
-                                  <td>
-                                    03:05:00
-                                  </td>
-                                  <td>
-                                    03:15:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">TBS on CO-7A</td>
-                                  <td class="text-wrap" rowspan="1">LT not taking place</td>
-                                  <td class="text-wrap" rowspan="1">PCRD drum not rotating due to cable got pressed by sheet cover.Cover pulled up by chain block with help of mechanical.</td>
-                                  <td>
-                                    01:15:00
-                                  </td>
-                                  <td>
-                                    01:30:00
-                                  </td>
-                                  <td rowspan="1">Sheet to be properly placed and wielding to be done</td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO-25</td>
-                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
-                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
-                                  <td>
-                                    03:45:00
-                                  </td>
-                                  <td>
-                                    03:55:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CO-113</td>
-                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
-                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
-                                  <td>
-                                    03:55:00
-                                  </td>
-                                  <td>
-                                    04:00:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
-                                <tr>
-                                  <td rowspan="1">OHP</td>
-                                  <td rowspan="1">CR-1A</td>
-                                  <td class="text-wrap" rowspan="1">Lubrication pump tripping</td>
-                                  <td class="text-wrap" rowspan="1">MPCB tripping.TB cover opened and checked and found okay.Kept in local and made to run and tested okay</td>
-                                  <td>
-                                    02:39:00
-                                  </td>
-                                  <td>
-                                    02:55:00
-                                  </td>
-                                  <td rowspan="1"></td>
-                                </tr>
-                                <!-- Code for items which have more than 1 timing  -->
-                                
-                              
+                            <tr>
+                              <td colspan="7" class="text-center">No Data</td>
+                            </tr>
                             
                           </tbody>
                         </table>
