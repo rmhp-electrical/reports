@@ -33,12 +33,23 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>co-44 </td>
+                                    <td>mccb replacement is under progress</td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : Amit Roy</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -190,7 +201,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : P Venkat Kiran,P Venkat Kiran</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +216,163 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">vf-10a </td>
+                                  <td class="text-wrap" rowspan="1">m1 mpcb tripped due to tray arrangement disturbed.</td>
+                                  <td class="text-wrap" rowspan="1">Informed operation</td>
+                                  <td>
+                                    07:30:00
+                                  </td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td rowspan="1">mechanical is on job, trying to empty the bunker</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">co-29</td>
+                                  <td class="text-wrap" rowspan="2">dmpr tripped twice</td>
+                                  <td class="text-wrap" rowspan="2">reset done</td>
+                                  <td>
+                                    06:55:00
+                                  </td>
+                                  <td>
+                                    07:05:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       10:10:00
+                                    </td>
+                                    <td>
+                                       10:20:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co-84 </td>
+                                  <td class="text-wrap" rowspan="1">brs not restting</td>
+                                  <td class="text-wrap" rowspan="1">material present between sensors.
+cleared and reset done.</td>
+                                  <td>
+                                    10:30:00
+                                  </td>
+                                  <td>
+                                    10:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co-26 </td>
+                                  <td class="text-wrap" rowspan="1">dmpr tripped on ol</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    11:55:00
+                                  </td>
+                                  <td>
+                                    12:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">co-63 to 65 indication is not available</td>
+                                  <td class="text-wrap" rowspan="1">core loose in cjb</td>
+                                  <td class="text-wrap" rowspan="1">tightened it and restoered in circuit.</td>
+                                  <td>
+                                    09:15:00
+                                  </td>
+                                  <td>
+                                    10:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="3">CHP</td>
+                                  <td rowspan="3">scr-7 on cc-40 </td>
+                                  <td class="text-wrap" rowspan="3">signal problem</td>
+                                  <td class="text-wrap" rowspan="3">lt done then ok</td>
+                                  <td>
+                                    09:15:00
+                                  </td>
+                                  <td>
+                                    09:25:00
+                                  </td>
+                                  <td rowspan="3">signal break three time</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       11:30:00
+                                    </td>
+                                    <td>
+                                       11:45:00
+                                    </td>
+                                  </tr>
+                              
+                                  <tr>
+                                    <td>
+                                       13:40:00
+                                    </td>
+                                    <td>
+                                       13:50:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">op-8</td>
+                                  <td class="text-wrap" rowspan="1">communication problem</td>
+                                  <td class="text-wrap" rowspan="1">cambium antenna replaced with esteem antenna and tested</td>
+                                  <td>
+                                    06:00:00
+                                  </td>
+                                  <td>
+                                    14:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">cc-54 </td>
+                                  <td class="text-wrap" rowspan="1">tripped on olr</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td>
+                                    08:05:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
