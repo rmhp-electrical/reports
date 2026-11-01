@@ -190,7 +190,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +205,224 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP-4</td>
+                                  <td class="text-wrap" rowspan="1">Reported not moving</td>
+                                  <td class="text-wrap" rowspan="1">Breaker tripped.Checked and found bottom pad C clamp damaged.Replaced and tested okay</td>
+                                  <td>
+                                    10:15:00
+                                  </td>
+                                  <td>
+                                    10:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">OC-27A</td>
+                                  <td class="text-wrap" rowspan="1">Reported healthy stop</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found no problem.Made to run and found okay</td>
+                                  <td>
+                                    12:52:00
+                                  </td>
+                                  <td>
+                                    13:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP-7</td>
+                                  <td class="text-wrap" rowspan="1">Reported not moving</td>
+                                  <td class="text-wrap" rowspan="1">Reverse limit switch in acted condition.Released and tested okay</td>
+                                  <td>
+                                    06:30:00
+                                  </td>
+                                  <td>
+                                    06:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OC-1A,OAF-1A,OAF-2A</td>
+                                  <td class="text-wrap" rowspan="1">Showing in local </td>
+                                  <td class="text-wrap" rowspan="1">PLC power recycled at LC-9 and tested okay</td>
+                                  <td>
+                                    12:15:00
+                                  </td>
+                                  <td>
+                                    12:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OT-5</td>
+                                  <td class="text-wrap" rowspan="1">Reported not rotating</td>
+                                  <td class="text-wrap" rowspan="1">Checked and found LS-3 limit not healthy.Bypassed through scada and tested okay</td>
+                                  <td>
+                                    12:20:00
+                                  </td>
+                                  <td>
+                                    12:35:00
+                                  </td>
+                                  <td rowspan="1">LS-3 limit to be checked</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">Cc-54</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR-9 on CC-104</td>
+                                  <td class="text-wrap" rowspan="1">Luffing not taking place</td>
+                                  <td class="text-wrap" rowspan="1">PLC glass relay to output TB wire loose.Tightened and tested okay</td>
+                                  <td>
+                                    09:35:00
+                                  </td>
+                                  <td>
+                                    09:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR-7 on CC-40</td>
+                                  <td class="text-wrap" rowspan="1">Luffing not taking place</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    11:35:00
+                                  </td>
+                                  <td>
+                                    11:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-215</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    09:35:00
+                                  </td>
+                                  <td>
+                                    09:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">CO-26</td>
+                                  <td class="text-wrap" rowspan="2">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="2">OLR acted.Reset done</td>
+                                  <td>
+                                    08:45:00
+                                  </td>
+                                  <td>
+                                    09:00:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       13:30:00
+                                    </td>
+                                    <td>
+                                       13:35:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR on CO-6A</td>
+                                  <td class="text-wrap" rowspan="1">Cabin adjustment not taking place</td>
+                                  <td class="text-wrap" rowspan="1">PB contact loose at operator cabin.Tightened and tested okay</td>
+                                  <td>
+                                    09:05:00
+                                  </td>
+                                  <td>
+                                    09:25:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">WOBR on CO-29</td>
+                                  <td class="text-wrap" rowspan="1">LT not taking place</td>
+                                  <td class="text-wrap" rowspan="1">Wrong complaint</td>
+                                  <td>
+                                    10:00:00
+                                  </td>
+                                  <td>
+                                    10:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS on CO-20</td>
+                                  <td class="text-wrap" rowspan="1">Luffing not taking place</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done</td>
+                                  <td>
+                                    08:00:00
+                                  </td>
+                                  <td>
+                                    08:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
