@@ -450,9 +450,201 @@ LT side should be charged only during emergency until protection relay is config
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">STK-2 ON CC-112</td>
+                                  <td class="text-wrap" rowspan="1">B/C not running. MPR tripped</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    14:25:00
+                                  </td>
+                                  <td>
+                                    14:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR-1 ON CC-31</td>
+                                  <td class="text-wrap" rowspan="1">Slew not working. Found slew drive tripped</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    17:30:00
+                                  </td>
+                                  <td>
+                                    17:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">CC-108</td>
+                                  <td class="text-wrap" rowspan="2">overload tripped</td>
+                                  <td class="text-wrap" rowspan="2">Reset done</td>
+                                  <td>
+                                    17:00:00
+                                  </td>
+                                  <td>
+                                    17:05:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       20:45:00
+                                    </td>
+                                    <td>
+                                       20:50:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR-6 ON CC-38</td>
+                                  <td class="text-wrap" rowspan="1">slew not working. slew area coal jamming.</td>
+                                  <td class="text-wrap" rowspan="1">informed to operation </td>
+                                  <td>
+                                    19:35:00
+                                  </td>
+                                  <td>
+                                    19:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR-3 ON CC-106</td>
+                                  <td class="text-wrap" rowspan="1">B/C not running in GVM side. checked and found COB-5 HMI bed selection not proper</td>
+                                  <td class="text-wrap" rowspan="1">Made proper selection and checked OK </td>
+                                  <td>
+                                    18:35:00
+                                  </td>
+                                  <td>
+                                    19:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">SCR-3 ON CC-106</td>
+                                  <td class="text-wrap" rowspan="1">LT not working. Drive tripped</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    21:20:00
+                                  </td>
+                                  <td>
+                                    21:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">CHP</td>
+                                  <td rowspan="2">CC-131</td>
+                                  <td class="text-wrap" rowspan="2">overload tripped</td>
+                                  <td class="text-wrap" rowspan="2">Reset done</td>
+                                  <td>
+                                    18:15:00
+                                  </td>
+                                  <td>
+                                    18:20:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       20:40:00
+                                    </td>
+                                    <td>
+                                       20:45:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-54, CC-130,CC-131</td>
+                                  <td class="text-wrap" rowspan="1">Belt sway bits became RED. checked in PLC and found no complaint</td>
+                                  <td class="text-wrap" rowspan="1">checked in field and found Belt sway switches acted. Released</td>
+                                  <td>
+                                    19:10:00
+                                  </td>
+                                  <td>
+                                    19:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP-3</td>
+                                  <td class="text-wrap" rowspan="1">No movement. Found D-5 rotor contactor stuck up. </td>
+                                  <td class="text-wrap" rowspan="1">contactor opened and cleaned. </td>
+                                  <td>
+                                    14:00:00
+                                  </td>
+                                  <td>
+                                    14:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-25</td>
+                                  <td class="text-wrap" rowspan="1">overload acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    18:22:00
+                                  </td>
+                                  <td>
+                                    18:30:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-5A</td>
+                                  <td class="text-wrap" rowspan="1">BRS acting frequently. checked and found OK</td>
+                                  <td class="text-wrap" rowspan="1">.</td>
+                                  <td>
+                                    21:30:00
+                                  </td>
+                                  <td>
+                                    21:40:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
