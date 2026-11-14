@@ -145,12 +145,28 @@
                             </thead>
                             <tbody>
                               
-                                <tr>
-                                  <td colspan=2 class="text-center">No Data</td>
-                                </tr>
+                                
+                                  <tr>
+                                    <td>COne cruhser motor drawing</td>
+                                    <td>Discussed with Plant design and approval given for cone crusher GA drawing</td>
+                                  </tr>
+                                
+                                  <tr>
+                                    <td>Siemens AMC</td>
+                                    <td>Inquired about approval process for expert committee </td>
+                                  </tr>
+                                
                               
                             </tbody>
                           </table>
+                          
+                          <div class="row">
+                            <div class="d-flex flex-row-reverse">
+                              <div class="p-2">
+                                <b><i>Entered by : sagar</i></b>
+                              </div>
+                            </div>
+                          </div>
                           
                         </div>
                       </div>
@@ -190,7 +206,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : M Kailash</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -205,9 +221,119 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS ON CO-22</td>
+                                  <td class="text-wrap" rowspan="1">No drives running. Found control is in OFF condition</td>
+                                  <td class="text-wrap" rowspan="1">Made ON from operator cabin</td>
+                                  <td>
+                                    06:25:00
+                                  </td>
+                                  <td>
+                                    06:35:00
+                                  </td>
+                                  <td rowspan="1">operator mistake</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-26</td>
+                                  <td class="text-wrap" rowspan="1">overload acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    12:45:00
+                                  </td>
+                                  <td>
+                                    12:55:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">TBS ON CO-20</td>
+                                  <td class="text-wrap" rowspan="1">LT not stopping due to brake not holding</td>
+                                  <td class="text-wrap" rowspan="1">informed to mechanical for adjustment</td>
+                                  <td>
+                                    12:35:00
+                                  </td>
+                                  <td>
+                                    12:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-51</td>
+                                  <td class="text-wrap" rowspan="1">MPR acted to stop feeding conveyor</td>
+                                  <td class="text-wrap" rowspan="1">reset done</td>
+                                  <td>
+                                    06:10:00
+                                  </td>
+                                  <td>
+                                    13:30:00
+                                  </td>
+                                  <td rowspan="1">7 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-131</td>
+                                  <td class="text-wrap" rowspan="1">overload acted </td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    06:40:00
+                                  </td>
+                                  <td>
+                                    06:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">IOSA</td>
+                                  <td rowspan="1">BRC</td>
+                                  <td class="text-wrap" rowspan="1">LT not running in AUTO. checked and found machine getting stuck up due to material overflow near tracks</td>
+                                  <td class="text-wrap" rowspan="1">Machine made reverse and checked the operation and found OK.  Informed to operation</td>
+                                  <td>
+                                    07:50:00
+                                  </td>
+                                  <td>
+                                    08:10:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">OP-4 </td>
+                                  <td class="text-wrap" rowspan="1">Movement stopping in between. D-6 rotor contactor getting stuck</td>
+                                  <td class="text-wrap" rowspan="1">Contactor opened and cleaned. Made OK</td>
+                                  <td>
+                                    09:20:00
+                                  </td>
+                                  <td>
+                                    09:35:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
