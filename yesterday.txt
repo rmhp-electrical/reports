@@ -617,7 +617,7 @@
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : Saurabh Kumar Yadav</u></i></b>
+                            <b><i><u>Incharge(s) : M Kailash</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -632,9 +632,153 @@
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">STK-3 ON CC-112</td>
+                                  <td class="text-wrap" rowspan="1">B/C not running. Found slew 30 deg limit not healthy. </td>
+                                  <td class="text-wrap" rowspan="1">slew done up to 3o deg and made healthy. Then started B/C</td>
+                                  <td>
+                                    00:00:00
+                                  </td>
+                                  <td>
+                                    00:15:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-32</td>
+                                  <td class="text-wrap" rowspan="1">MPR acted</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    00:25:00
+                                  </td>
+                                  <td>
+                                    00:37:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-40</td>
+                                  <td class="text-wrap" rowspan="1">stopping on ZSS fault. Found ZSS probe and pin damaged</td>
+                                  <td class="text-wrap" rowspan="1">Replaced new probe and pin and tested OK</td>
+                                  <td>
+                                    03:20:00
+                                  </td>
+                                  <td>
+                                    03:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">VF-5</td>
+                                  <td class="text-wrap" rowspan="1">MPCB tripping due to overload</td>
+                                  <td class="text-wrap" rowspan="1">Kept in local mode and cleared the material. Then kept in Remote Mode</td>
+                                  <td>
+                                    23:30:00
+                                  </td>
+                                  <td>
+                                    00:00:00
+                                  </td>
+                                  <td rowspan="1">4 times tripped</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">CC-15</td>
+                                  <td class="text-wrap" rowspan="1">tripped on overload</td>
+                                  <td class="text-wrap" rowspan="1">Reset done</td>
+                                  <td>
+                                    23:00:00
+                                  </td>
+                                  <td>
+                                    03:30:00
+                                  </td>
+                                  <td rowspan="1">3 times</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">WT</td>
+                                  <td rowspan="1">EOT CRANE-ORE TIPPLER</td>
+                                  <td class="text-wrap" rowspan="1">Auxiliary Hoist not working. Found fuse not proper. </td>
+                                  <td class="text-wrap" rowspan="1">Fuse connected properly and tested OK</td>
+                                  <td>
+                                    23:10:00
+                                  </td>
+                                  <td>
+                                    23:20:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">CO-26</td>
+                                  <td class="text-wrap" rowspan="2">overload acted</td>
+                                  <td class="text-wrap" rowspan="2">Reset done</td>
+                                  <td>
+                                    01:50:00
+                                  </td>
+                                  <td>
+                                    02:00:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       05:40:00
+                                    </td>
+                                    <td>
+                                       05:50:00
+                                    </td>
+                                  </tr>
+                              
+                              
+                                <tr>
+                                  <td rowspan="2">OHP</td>
+                                  <td rowspan="2">CO-25</td>
+                                  <td class="text-wrap" rowspan="2">overload acted</td>
+                                  <td class="text-wrap" rowspan="2">Reset done</td>
+                                  <td>
+                                    02:45:00
+                                  </td>
+                                  <td>
+                                    02:50:00
+                                  </td>
+                                  <td rowspan="2"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                                  <tr>
+                                    <td>
+                                       05:05:00
+                                    </td>
+                                    <td>
+                                       05:10:00
+                                    </td>
+                                  </tr>
+                              
+                              
                             
                           </tbody>
                         </table>
