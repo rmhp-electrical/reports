@@ -595,7 +595,7 @@ TRIPPED ON OLR</td>
                       <div class="container container-fluid ">
                         <div style='font-size:1.2em;' class="text-end">
                           
-                            <b><i><u>Incharge(s) : No Data</u></i></b>
+                            <b><i><u>Incharge(s) : Amit Roy</u></i></b>
                           
                         </div>
                         <table class="table table-success table-striped ">
@@ -610,9 +610,87 @@ TRIPPED ON OLR</td>
                           </thead>
                           <tbody>
                             
-                            <tr>
-                              <td colspan="7" class="text-center">No Data</td>
-                            </tr>
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">R-1 on CC-37</td>
+                                  <td class="text-wrap" rowspan="1">B/C not running</td>
+                                  <td class="text-wrap" rowspan="1">Signal missing.Communication bit bypassed and interlock cage kept in line</td>
+                                  <td>
+                                    19:20:00
+                                  </td>
+                                  <td>
+                                    19:35:00
+                                  </td>
+                                  <td rowspan="1">Communication bit kept in line 20.40</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-26</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reset done(2 times)</td>
+                                  <td>
+                                    18:20:00
+                                  </td>
+                                  <td>
+                                    19:00:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-25</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted(6 times)</td>
+                                  <td>
+                                    18:35:00
+                                  </td>
+                                  <td>
+                                    21:45:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">OHP</td>
+                                  <td rowspan="1">CO-8A</td>
+                                  <td class="text-wrap" rowspan="1">ZSS acted</td>
+                                  <td class="text-wrap" rowspan="1">Belt off centered</td>
+                                  <td>
+                                    18:55:00
+                                  </td>
+                                  <td>
+                                    19:05:00
+                                  </td>
+                                  <td rowspan="1">Informed to operation</td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
+                                <tr>
+                                  <td rowspan="1">CHP</td>
+                                  <td rowspan="1">Cc-131</td>
+                                  <td class="text-wrap" rowspan="1">Reported tripped</td>
+                                  <td class="text-wrap" rowspan="1">OLR acted.Reported tripped</td>
+                                  <td>
+                                    18:45:00
+                                  </td>
+                                  <td>
+                                    18:50:00
+                                  </td>
+                                  <td rowspan="1"></td>
+                                </tr>
+                                <!-- Code for items which have more than 1 timing  -->
+                                
+                              
                             
                           </tbody>
                         </table>
